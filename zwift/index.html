@@ -1,23 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Zwift Videos</title>
-</head>
+<head><meta charset="UTF-8"><title>Zwift Videos</title></head>
 <body>
 <h1>Zwift Videos</h1>
-<ul id="video-list"></ul>
-
-<script>
-fetch('videos.json')
-  .then(res => res.json())
-  .then(videos => {
-    const ul = document.getElementById('video-list');
-    videos.forEach(v => {
-      const li = document.createElement('li');
-      li.innerHTML = `<a href="${v}">${v}</a>`;
-      ul.appendChild(li);
-    });
-  });
-</script>
+<ul>
+<li><a href="20260225_223828.mp4">20260225_223828.mp4</a></li>
+</ul>
 </body>
 </html>
