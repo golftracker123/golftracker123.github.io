@@ -26,11 +26,11 @@ mp4_files = sorted(
     reverse=True
 )
 
-# ---- Add empty notes for new videos ----
-for video in mp4_files:
-    rel_path = f"vids/{video.name}"
-    if rel_path not in notes:
-        notes[rel_path] = ""
+# ---- Rebuild notes in the same order as HTML list ----
+notes = {
+    f"vids/{video.name}": notes.get(f"vids/{video.name}", "")
+    for video in mp4_files
+}
 
 # ---- Save updated notes ----
 with open(notes_file, "w", encoding="utf-8") as f:
