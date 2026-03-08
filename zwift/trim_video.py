@@ -1,23 +1,70 @@
 """
 python /Users/chriscremer/code/golftracker123.github.io/zwift/trim_video.py 16 180
+python /Users/chriscremer/code/golftracker123.github.io/zwift/trim_video.py --start 0:34 --end 2:44
+python /Users/chriscremer/code/golftracker123.github.io/zwift/trim_video.py --end 4:55 --duration 180
 
-cut_end_seconds: how many seconds to cut from the end of the video
-output_duration_seconds: how long the output video should be
+Modes:
+1) Legacy mode:
+   <cut_end_seconds> <output_duration_seconds>
+   - cut_end_seconds: how many seconds to cut from end of source
+   - output_duration_seconds: desired output length
+
+2) Explicit range mode:
+   --start <time> --end <time>
+   - extracts exactly this interval from the source
+
+3) End + lookback mode:
+   --end <time> --duration <time>
+   - output starts at (end - duration) and ends at end
+
+Time format for all inputs:
+- plain seconds (e.g., 180)
+- m:ss (e.g., 2:44)
+- h:mm:ss (e.g., 1:02:03)
 """
 
+import argparse
 import subprocess
-import sys
 from pathlib import Path
 from datetime import datetime
 
 
-# ---- Parse arguments ----
-if len(sys.argv) != 3:
-    print("Usage: python trim_video.py <cut_end_seconds> <output_duration_seconds>")
-    sys.exit(1)
+def parse_time(value: str) -> float:
+    parts = value.split(":")
+    if len(parts) == 1:
+        return float(parts[0])
+    if len(parts) == 2:
+        minutes = float(parts[0])
+        seconds = float(parts[1])
+        return minutes * 60 + seconds
+    if len(parts) == 3:
+        hours = float(parts[0])
+        minutes = float(parts[1])
+        seconds = float(parts[2])
+        return hours * 3600 + minutes * 60 + seconds
+    raise ValueError(f"Invalid time value: {value}")
 
-CUT_END = float(sys.argv[1])
-OUT_LEN = float(sys.argv[2])
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Trim the most recent mp4 in Downloads. "
+            "Use legacy mode (<cut_end_seconds> <output_duration_seconds>) "
+            "or explicit mode (--start/--end) or (--end/--duration)."
+        )
+    )
+    parser.add_argument("cut_end_seconds", nargs="?", help="Legacy mode: seconds to cut from end")
+    parser.add_argument("output_duration_seconds", nargs="?", help="Legacy mode: desired output duration")
+    parser.add_argument("--start", help="Start timestamp (seconds, m:ss, or h:mm:ss)")
+    parser.add_argument("--end", help="End timestamp (seconds, m:ss, or h:mm:ss)")
+    parser.add_argument(
+        "--duration",
+        help="Output duration in seconds or timestamp format (used with --end)",
+    )
+    return parser
+
+
+args = build_parser().parse_args()
 
 # ---- Find most recent mp4 in Downloads ----
 downloads = Path.home() / "Downloads"
@@ -46,14 +93,41 @@ if result.returncode != 0:
 
 duration = float(result.stdout.strip())
 
-# ---- Compute safe trimming window ----
-usable_end = duration - CUT_END
+# ---- Compute trimming window ----
+mode = ""
+if args.start is not None and args.end is not None:
+    mode = "start_end"
+    start = parse_time(args.start)
+    end = parse_time(args.end)
+elif args.end is not None and args.duration is not None:
+    mode = "end_duration"
+    end = parse_time(args.end)
+    out_len = parse_time(args.duration)
+    start = max(0.0, end - out_len)
+elif args.cut_end_seconds is not None and args.output_duration_seconds is not None:
+    mode = "legacy"
+    cut_end = parse_time(args.cut_end_seconds)
+    out_len = parse_time(args.output_duration_seconds)
+    end = duration - cut_end
+    if end <= 0:
+        raise RuntimeError("cut_end_seconds is longer than the video.")
+    start = max(0.0, end - out_len)
+else:
+    raise RuntimeError(
+        "Invalid arguments. Use either: "
+        "(1) <cut_end_seconds> <output_duration_seconds>, "
+        "(2) --start <time> --end <time>, or "
+        "(3) --end <time> --duration <time>."
+    )
 
-if usable_end <= 0:
-    raise RuntimeError("CUT_END is longer than the video.")
+if start < 0:
+    raise RuntimeError("Start time cannot be negative.")
+if end > duration:
+    raise RuntimeError(f"End time {end:.2f}s is beyond video duration {duration:.2f}s.")
+if end <= start:
+    raise RuntimeError("End time must be greater than start time.")
 
-start = max(0, usable_end - OUT_LEN)
-actual_len = usable_end - start
+actual_len = end - start
 
 # ---- Output path ----
 output = downloads / f"{datetime.now():%Y%m%d_%H%M%S}.mp4"
@@ -75,8 +149,8 @@ subprocess.run([
 
 print("Input:", latest_file)
 print("Original duration:", round(duration, 2), "seconds")
-print("Cut end:", CUT_END, "seconds")
+print("Mode:", mode)
 print("Start time:", round(start, 2), "seconds")
+print("End time:", round(end, 2), "seconds")
 print("Output length:", round(actual_len, 2), "seconds")
 print("Saved to:", output)
-
