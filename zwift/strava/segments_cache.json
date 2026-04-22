@@ -1,0 +1,341 @@
+{
+  "segments": {
+    "https://www.strava.com/segments/806459": {
+      "name": "Beechwood Drive",
+      "url": "https://www.strava.com/segments/806459",
+      "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
+      "updated_at": "2026-04-22T18:42:51",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Friday, July 27, 2018",
+          "time": "1:21",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Saturday, April 18, 2026",
+          "time": "1:26",
+          "speed": "-",
+          "power": "415 W",
+          "heart_rate": "172 bpm"
+        },
+        {
+          "rank": "3",
+          "name": "Selva Yoga",
+          "date": "Saturday, September 25, 2021",
+          "time": "1:59",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "150 bpm"
+        },
+        {
+          "rank": "4",
+          "name": "Max Nie",
+          "date": "Thursday, September 10, 2020",
+          "time": "2:34",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "159 bpm"
+        },
+        {
+          "rank": "5",
+          "name": "Heidi M",
+          "date": "Sunday, June 5, 2022",
+          "time": "3:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "6",
+          "name": "Nicole Fan",
+          "date": "Saturday, April 11, 2026",
+          "time": "6:21",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "141 bpm"
+        }
+      ]
+    },
+    "https://www.strava.com/segments/17322995": {
+      "name": "Redway (Official)",
+      "url": "https://www.strava.com/segments/17322995",
+      "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
+      "updated_at": "2026-04-22T18:42:56",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Saturday, April 18, 2026",
+          "time": "1:06",
+          "speed": "-",
+          "power": "532 W",
+          "heart_rate": "177 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Wednesday, August 29, 2018",
+          "time": "1:23",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "3",
+          "name": "Matt Chen",
+          "date": "Sunday, September 8, 2024",
+          "time": "1:34",
+          "speed": "-",
+          "power": "396 W",
+          "heart_rate": "164 bpm"
+        },
+        {
+          "rank": "4",
+          "name": "Selva Yoga",
+          "date": "Tuesday, August 18, 2020",
+          "time": "1:35",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "136 bpm"
+        }
+      ]
+    },
+    "https://www.strava.com/segments/7394805": {
+      "name": "Thorncliffe Park Drive climb",
+      "url": "https://www.strava.com/segments/7394805",
+      "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
+      "updated_at": "2026-04-22T18:43:01",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Saturday, April 18, 2026",
+          "time": "49s",
+          "speed": "-",
+          "power": "502 W",
+          "heart_rate": "179 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Sunday, May 28, 2023",
+          "time": "53s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "162 bpm"
+        },
+        {
+          "rank": "3",
+          "name": "Simon Grant",
+          "date": "Friday, June 18, 2021",
+          "time": "1:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "4",
+          "name": "David Platt",
+          "date": "Sunday, November 8, 2020",
+          "time": "1:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "188 bpm"
+        },
+        {
+          "rank": "5",
+          "name": "Lauren Deel",
+          "date": "Wednesday, May 12, 2021",
+          "time": "1:27",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "175 bpm"
+        },
+        {
+          "rank": "6",
+          "name": "Selva Yoga",
+          "date": "Tuesday, August 18, 2020",
+          "time": "1:37",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "102 bpm"
+        },
+        {
+          "rank": "7",
+          "name": "Daivik Doshi",
+          "date": "Sunday, June 23, 2019",
+          "time": "1:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "8",
+          "name": "Heidi M",
+          "date": "Sunday, June 5, 2022",
+          "time": "2:03",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "9",
+          "name": "Ahmad Shah",
+          "date": "Wednesday, July 28, 2021",
+          "time": "2:53",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        }
+      ]
+    },
+    "https://www.strava.com/segments/740423": {
+      "name": "Sunnybrook to hospital",
+      "url": "https://www.strava.com/segments/740423",
+      "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
+      "updated_at": "2026-04-22T18:43:06",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "David Platt",
+          "date": "Wednesday, August 26, 2020",
+          "time": "1:01",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "192 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Friday, July 3, 2020",
+          "time": "1:20",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "161 bpm"
+        },
+        {
+          "rank": "3",
+          "name": "Chris Cremer",
+          "date": "Friday, July 3, 2020",
+          "time": "1:27",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "4",
+          "name": "Simon Grant",
+          "date": "Friday, July 16, 2021",
+          "time": "1:50",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "5",
+          "name": "Lauren Deel",
+          "date": "Friday, May 14, 2021",
+          "time": "2:07",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm"
+        },
+        {
+          "rank": "6",
+          "name": "Heidi M",
+          "date": "Friday, July 15, 2022",
+          "time": "2:46",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        }
+      ]
+    },
+    "https://www.strava.com/segments/1150663": {
+      "name": "Crestwood Hill - post parking lot climb only",
+      "url": "https://www.strava.com/segments/1150663",
+      "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
+      "updated_at": "2026-04-22T18:43:12",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Monday, September 1, 2025",
+          "time": "1:16",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "171 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "David Platt",
+          "date": "Tuesday, May 31, 2016",
+          "time": "1:18",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "3",
+          "name": "Chris Cremer",
+          "date": "Monday, September 1, 2025",
+          "time": "1:28",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "4",
+          "name": "Simon Grant",
+          "date": "Friday, July 16, 2021",
+          "time": "1:34",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "5",
+          "name": "Arwin Chan",
+          "date": "Thursday, June 6, 2019",
+          "time": "1:56",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "6",
+          "name": "Lauren Deel",
+          "date": "Saturday, October 2, 2021",
+          "time": "1:57",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "180 bpm"
+        },
+        {
+          "rank": "7",
+          "name": "Heidi M",
+          "date": "Sunday, July 9, 2023",
+          "time": "3:56",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "8",
+          "name": "Ahmad Shah",
+          "date": "Saturday, July 31, 2021",
+          "time": "5:06",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        }
+      ]
+    }
+  }
+}

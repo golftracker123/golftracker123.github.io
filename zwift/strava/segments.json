@@ -1,0 +1,49 @@
+{
+  "segments": [
+    {
+      "name": "Beechwood Drive",
+      "url": "https://www.strava.com/segments/806459",
+      "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
+    },
+    {
+      "name": "Redway (Official)",
+      "url": "https://www.strava.com/segments/17322995",
+      "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
+    },
+    {
+      "name": "Thorncliffe Park Drive climb",
+      "url": "https://www.strava.com/segments/7394805",
+      "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
+    },
+    {
+      "name": "Sunnybrook to hospital",
+      "url": "https://www.strava.com/segments/740423",
+      "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
+    },
+    {
+      "name": "Crestwood Hill - post parking lot climb only",
+      "url": "https://www.strava.com/segments/1150663",
+      "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
+    }
+  ]
+}

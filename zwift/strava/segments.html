@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Segments</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <style>
+    body {
+      margin: 0;
+      background: #0b0f14;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 10px 14px 18px;
+    }
+    h1 {
+      margin: 8px 0 6px;
+      font-size: 28px;
+    }
+    .sub {
+      color: #9fb0c7;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+    .segment-card {
+      margin: 0 0 16px;
+      padding: 14px;
+      border: 1px solid #243042;
+      border-radius: 14px;
+      background: #10151d;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+    }
+    .segment-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .segment-head h2 {
+      margin: 0;
+      font-size: 20px;
+    }
+    .segment-head h2.title-fast {
+      color: #4ade80;
+    }
+    .segment-head h2.title-slow {
+      color: #f87171;
+    }
+    .segment-head a {
+      color: #5ea1ff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+    .segment-head a:hover {
+      text-decoration: underline;
+    }
+    .segment-note {
+      margin: 12px 0 8px;
+      color: #9fb0c7;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .mini-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 0 6px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+    .mini-table th,
+    .mini-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #243042;
+      text-align: left;
+      white-space: nowrap;
+      font-size: 13px;
+    }
+    .mini-table thead th {
+      background: #0f1726;
+      color: #e6edf3;
+    }
+    .mini-table td.muted,
+    .mini-table th.muted {
+      color: #6f7c91;
+    }
+    .athlete-name {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .athlete-icon {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex: 0 0 auto;
+      background: #0f1726;
+    }
+    .numeric {
+      text-align: right !important;
+    }
+    .muted {
+      color: #6f7c91;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Segments</h1>
+    <section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Beechwood Drive</h2><a href='https://www.strava.com/segments/806459' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:21</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:26</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Redway (Official)</h2><a href='https://www.strava.com/segments/17322995' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:06</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:23</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Thorncliffe Park Drive climb</h2><a href='https://www.strava.com/segments/7394805' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>49s</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>53s</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Sunnybrook to hospital</h2><a href='https://www.strava.com/segments/740423' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:20</td><td class='numeric'>2</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:27</td><td class='numeric'>3</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Crestwood Hill - post parking lot climb only</h2><a href='https://www.strava.com/segments/1150663' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:16</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:28</td><td class='numeric'>3</td></tr></tbody></table></section>
+  </div>
+</body>
+</html>
