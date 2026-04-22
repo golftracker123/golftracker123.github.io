@@ -1,0 +1,3350 @@
+[
+  {
+    "activity_id": 13800791283,
+    "date": "2025-03-05",
+    "name": "Zwift - Race: Stage 1 | Zwift Games | Makuri Madness | Range 2 (B) on Makuri Madness in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1822905071642378256.fit",
+    "display_name": "2025-03-05 - Zwift - Race: Stage 1 | Zwift Games | Makuri Madness | Range 2 (B) on Makuri Madness in Makuri Islands",
+    "curve": [
+      505.8,
+      471.06666666666666,
+      426.1,
+      365.9166666666667,
+      309.77666666666664,
+      260.2783333333333,
+      257.5375
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13810394084,
+    "date": "2025-03-06",
+    "name": "Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1823649106795429888.fit",
+    "display_name": "2025-03-06 - Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "curve": [
+      520.2,
+      481.93333333333334,
+      407.23333333333335,
+      351.2,
+      275.74333333333334,
+      272.07666666666665,
+      262.09583333333336
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13818066145,
+    "date": "2025-03-07",
+    "name": "Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1824319898218676224.fit",
+    "display_name": "2025-03-07 - Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "curve": [
+      529.2666666666667,
+      468.8333333333333,
+      394.8666666666667,
+      346.875,
+      278.43,
+      271.20166666666665,
+      262.82166666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13858239685,
+    "date": "2025-03-11",
+    "name": "Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1827341979948695584.fit",
+    "display_name": "2025-03-11 - Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "curve": [
+      439.8,
+      398.26666666666665,
+      377.3833333333333,
+      333.64166666666665,
+      285.9766666666667,
+      267.7583333333333,
+      260.445
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13864369496,
+    "date": "2025-03-12",
+    "name": "Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1827827193560956928.fit",
+    "display_name": "2025-03-12 - Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "curve": [
+      463.73333333333335,
+      415.1333333333333,
+      389.03333333333336,
+      348.48333333333335,
+      300.86333333333334,
+      267.2583333333333,
+      263.68583333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13884975947,
+    "date": "2025-03-14",
+    "name": "Zwift - Race: Stage 4 | Zwift Games | London Uprising | Range 1 on London Uprising in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1829481611591172144.fit",
+    "display_name": "2025-03-14 - Zwift - Race: Stage 4 | Zwift Games | London Uprising | Range 1 on London Uprising in London",
+    "curve": [
+      486.46666666666664,
+      376.8333333333333,
+      360.8666666666667,
+      335.075,
+      308.55,
+      285.535,
+      244.88333333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13893043886,
+    "date": "2025-03-15",
+    "name": "Zwift - Race: Stage 4 | Zwift Games | London Uprising | Range 1 on London Uprising in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1830090362220216336.fit",
+    "display_name": "2025-03-15 - Zwift - Race: Stage 4 | Zwift Games | London Uprising | Range 1 on London Uprising in London",
+    "curve": [
+      457.3333333333333,
+      370.1666666666667,
+      360.8333333333333,
+      342.01666666666665,
+      320.62,
+      293.78,
+      248.715
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13911940073,
+    "date": "2025-03-17",
+    "name": "Zwift - Race: Stage 5 | Zwift Games | ZG25 Queen | Range 1 (B) on ZG25 Queen in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1831573998031372320.fit",
+    "display_name": "2025-03-17 - Zwift - Race: Stage 5 | Zwift Games | ZG25 Queen | Range 1 (B) on ZG25 Queen in Watopia",
+    "curve": [
+      477.8666666666667,
+      426.03333333333336,
+      366.48333333333335,
+      343.23333333333335,
+      309.82666666666665,
+      267.1116666666667,
+      260.2175
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13922070221,
+    "date": "2025-03-18",
+    "name": "Zwift - Race: 2024/25 SISU Racing Club Championships - Crit (C) on Castle Crit in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1832336966482427904.fit",
+    "display_name": "2025-03-18 - Zwift - Race: 2024/25 SISU Racing Club Championships - Crit (C) on Castle Crit in Makuri Islands",
+    "curve": [
+      495.26666666666665,
+      468.3,
+      433.06666666666666,
+      338.31666666666666,
+      296.79,
+      284.67833333333334,
+      276.47
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13939766229,
+    "date": "2025-03-20",
+    "name": "Zwift - Race: Stage 5 | Zwift Games | ZG25 Queen | Range 1 (B) on ZG25 Queen in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1833655946014883888.fit",
+    "display_name": "2025-03-20 - Zwift - Race: Stage 5 | Zwift Games | ZG25 Queen | Range 1 (B) on ZG25 Queen in Watopia",
+    "curve": [
+      505.4,
+      423.6,
+      389.78333333333336,
+      365.425,
+      324.50333333333333,
+      279.155,
+      272.5183333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13968143911,
+    "date": "2025-03-23",
+    "name": "Zwift - Race: Rhino Crash Chase Race (C) on Itza Climb Finish in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1835834703844769792.fit",
+    "display_name": "2025-03-23 - Zwift - Race: Rhino Crash Chase Race (C) on Itza Climb Finish in Watopia",
+    "curve": [
+      484.6,
+      403.1333333333333,
+      380.9,
+      356.3833333333333,
+      319.8566666666667,
+      299.7783333333333,
+      259.52
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13975352429,
+    "date": "2025-03-24",
+    "name": "Zwift - Race: Stage 1 | Zwift Games | Makuri Madness | Range 1 (B) on Makuri Madness in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1836526585704906768.fit",
+    "display_name": "2025-03-24 - Zwift - Race: Stage 1 | Zwift Games | Makuri Madness | Range 1 (B) on Makuri Madness in Makuri Islands",
+    "curve": [
+      595.8666666666667,
+      508.5,
+      417.15,
+      367.6333333333333,
+      319.42,
+      273.34,
+      260.19166666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13985912349,
+    "date": "2025-03-25",
+    "name": "Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1837283209734258736.fit",
+    "display_name": "2025-03-25 - Zwift - Race: Stage 2 | Zwift Games | Scotland Smash | Range 1 (B) on Scotland Smash in Scotland",
+    "curve": [
+      576.6,
+      451.3,
+      405.53333333333336,
+      355.09166666666664,
+      290.53,
+      278.0833333333333,
+      271.0675
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 13996357226,
+    "date": "2025-03-26",
+    "name": "Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1838034977019674656.fit",
+    "display_name": "2025-03-26 - Zwift - Race: Stage 3 | Zwift Games | Downtown Eruption | Range 1 (B) on Downtown Eruption in Watopia",
+    "curve": [
+      491.73333333333335,
+      461.53333333333336,
+      428.1666666666667,
+      386.56666666666666,
+      313.1666666666667,
+      292.24666666666667,
+      261.87583333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14034867075,
+    "date": "2025-03-30",
+    "name": "Zwift - Race: Stage 1: After Party: Power to the Portal || Range 1 (B) on Power to the Portal in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1841052755486064672.fit",
+    "display_name": "2025-03-30 - Zwift - Race: Stage 1: After Party: Power to the Portal || Range 1 (B) on Power to the Portal in Watopia",
+    "curve": [
+      532.8666666666667,
+      463.6333333333333,
+      409.43333333333334,
+      355.7583333333333,
+      306.36333333333334,
+      256.9716666666667,
+      247.99666666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14043992682,
+    "date": "2025-03-31",
+    "name": "Zwift - Race: Stage 1: After Party: Power to the Portal || Range 2 (B) on Power to the Portal in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1841777086612635680.fit",
+    "display_name": "2025-03-31 - Zwift - Race: Stage 1: After Party: Power to the Portal || Range 2 (B) on Power to the Portal in Watopia",
+    "curve": [
+      606.2,
+      505.3,
+      431.1166666666667,
+      372.625,
+      304.3666666666667,
+      265.415,
+      253.54833333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14054753721,
+    "date": "2025-04-01",
+    "name": "Zwift - Race: Stage 1: After Party: Power to the Portal || Range 1 (A) on Power to the Portal in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1842564974967259136.fit",
+    "display_name": "2025-04-01 - Zwift - Race: Stage 1: After Party: Power to the Portal || Range 1 (A) on Power to the Portal in Watopia",
+    "curve": [
+      597.8666666666667,
+      489.6666666666667,
+      403.8,
+      382.0,
+      313.4866666666667,
+      271.53,
+      261.55833333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14073110804,
+    "date": "2025-04-03",
+    "name": "Zwift - Race: Rhino Racing Short Crits (C) on Classique in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1843904828384772112.fit",
+    "display_name": "2025-04-03 - Zwift - Race: Rhino Racing Short Crits (C) on Classique in London",
+    "curve": [
+      640.0,
+      501.6333333333333,
+      396.8833333333333,
+      342.5416666666667,
+      309.52,
+      270.43666666666667,
+      258.9433333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14081976146,
+    "date": "2025-04-04",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1844629184702349360.fit",
+    "display_name": "2025-04-04 - Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "curve": [
+      827.6,
+      694.3333333333334,
+      512.3,
+      396.60833333333335,
+      278.6566666666667,
+      254.91,
+      244.8925
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14092193003,
+    "date": "2025-04-05",
+    "name": "Zwift - Race: Zwift Epic Race - Deca Dash (B) on Deca Dash in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1845370165420638256.fit",
+    "display_name": "2025-04-05 - Zwift - Race: Zwift Epic Race - Deca Dash (B) on Deca Dash in Watopia",
+    "curve": [
+      777.0,
+      583.1,
+      417.21666666666664,
+      392.39166666666665,
+      298.6333333333333,
+      262.32,
+      237.3925
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14112274895,
+    "date": "2025-04-07",
+    "name": "Zwift - Race: Stage 2: After Party: Neon After Party || Range 2 (B) on Neon After Party in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1846885355114987552.fit",
+    "display_name": "2025-04-07 - Zwift - Race: Stage 2: After Party: Neon After Party || Range 2 (B) on Neon After Party in Makuri Islands",
+    "curve": [
+      546.4666666666667,
+      425.56666666666666,
+      398.6333333333333,
+      373.53333333333336,
+      334.51,
+      266.3833333333333,
+      252.57916666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14121465326,
+    "date": "2025-04-08",
+    "name": "Zwift - Race: Stage 2: After Party: Neon After Party || Range 1 (A) on Neon After Party in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1847517756367323136.fit",
+    "display_name": "2025-04-08 - Zwift - Race: Stage 2: After Party: Neon After Party || Range 1 (A) on Neon After Party in Makuri Islands",
+    "curve": [
+      404.8,
+      395.8666666666667,
+      349.03333333333336,
+      345.21666666666664,
+      321.11,
+      285.24666666666667,
+      258.24583333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14158600892,
+    "date": "2025-04-12",
+    "name": "Zwift - Race: Stage 2: After Party: Neon After Party || Range 1 (A) on Neon After Party in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1850296572038905872.fit",
+    "display_name": "2025-04-12 - Zwift - Race: Stage 2: After Party: Neon After Party || Range 1 (A) on Neon After Party in Makuri Islands",
+    "curve": [
+      486.8666666666667,
+      460.76666666666665,
+      433.2,
+      375.3333333333333,
+      300.78333333333336,
+      270.2216666666667,
+      207.95416666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14159034759,
+    "date": "2025-04-12",
+    "name": "Zwift - Race: Herd Summer Racing League on BRAEk-fast Crits and Grits in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1850319152493903872.fit",
+    "display_name": "2025-04-12 - Zwift - Race: Herd Summer Racing League on BRAEk-fast Crits and Grits in Scotland",
+    "curve": [
+      658.6,
+      512.3333333333334,
+      383.71666666666664,
+      339.775,
+      273.27,
+      253.19166666666666,
+      243.285
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14294991725,
+    "date": "2025-04-26",
+    "name": "Zwift - Race: Herd Summer Racing League on Queen's Highway After Party in Yorkshire",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1860469584818077744.fit",
+    "display_name": "2025-04-26 - Zwift - Race: Herd Summer Racing League on Queen's Highway After Party in Yorkshire",
+    "curve": [
+      616.4,
+      414.76666666666665,
+      348.4166666666667,
+      338.78333333333336,
+      270.6766666666667,
+      246.36,
+      233.1
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14307671879,
+    "date": "2025-04-27",
+    "name": "Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1861347751992786944.fit",
+    "display_name": "2025-04-27 - Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "curve": [
+      476.53333333333336,
+      465.8333333333333,
+      384.03333333333336,
+      343.975,
+      308.74333333333334,
+      271.62666666666667,
+      257.9691666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14317904554,
+    "date": "2025-04-28",
+    "name": "Zwift - Race: Stage 5: After Party: Hell of the North (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1862135258917371952.fit",
+    "display_name": "2025-04-28 - Zwift - Race: Stage 5: After Party: Hell of the North (A) on Hell of the North in France",
+    "curve": [
+      565.4,
+      419.3,
+      346.3333333333333,
+      325.05,
+      289.53333333333336,
+      256.64666666666665,
+      247.18333333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14328561879,
+    "date": "2025-04-29",
+    "name": "Zwift - Race: Stage 5: After Party: Hell of the North (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1862829404225290272.fit",
+    "display_name": "2025-04-29 - Zwift - Race: Stage 5: After Party: Hell of the North (A) on Hell of the North in France",
+    "curve": [
+      413.3333333333333,
+      379.03333333333336,
+      355.76666666666665,
+      330.625,
+      313.6166666666667,
+      271.13666666666666,
+      256.6741666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14337581592,
+    "date": "2025-04-30",
+    "name": "Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1863463785658843184.fit",
+    "display_name": "2025-04-30 - Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "curve": [
+      481.26666666666665,
+      444.2,
+      387.2,
+      337.075,
+      310.33666666666664,
+      262.345,
+      236.12666666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14349878051,
+    "date": "2025-05-01",
+    "name": "Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1864250211543580720.fit",
+    "display_name": "2025-05-01 - Zwift - Race: Stage 5: After Party: Hell of the North (B) on Hell of the North in France",
+    "curve": [
+      417.6666666666667,
+      410.6,
+      354.8,
+      333.85833333333335,
+      324.86,
+      275.33,
+      253.84666666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14359352121,
+    "date": "2025-05-02",
+    "name": "Zwift - Race: Herd Summer Racing League on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1864962078389862448.fit",
+    "display_name": "2025-05-02 - Zwift - Race: Herd Summer Racing League on The Bell Lap in Crit City",
+    "curve": [
+      506.8,
+      425.6666666666667,
+      355.35,
+      333.28333333333336,
+      299.99666666666667,
+      266.345,
+      246.79
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14390133981,
+    "date": "2025-05-05",
+    "name": "Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1867147582396973104.fit",
+    "display_name": "2025-05-05 - Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "curve": [
+      728.0666666666667,
+      615.6,
+      438.6,
+      355.825,
+      296.78,
+      262.9216666666667,
+      239.80166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14411020422,
+    "date": "2025-05-07",
+    "name": "Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1868597222870876176.fit",
+    "display_name": "2025-05-07 - Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "curve": [
+      784.0666666666667,
+      571.0666666666667,
+      406.2,
+      328.7583333333333,
+      288.81,
+      271.59,
+      262.80083333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14420846074,
+    "date": "2025-05-08",
+    "name": "Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1869291841824751632.fit",
+    "display_name": "2025-05-08 - Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (B) on Bridges and Boardwalks in Makuri Islands",
+    "curve": [
+      792.5333333333333,
+      601.5666666666667,
+      423.45,
+      342.825,
+      278.2266666666667,
+      252.37666666666667,
+      238.46166666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14440492774,
+    "date": "2025-05-10",
+    "name": "Zwift - Race: Rhino Racing Short Crits (C) on LaGuardia Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1870720577040285744.fit",
+    "display_name": "2025-05-10 - Zwift - Race: Rhino Racing Short Crits (C) on LaGuardia Loop in New York",
+    "curve": [
+      681.0666666666667,
+      596.2,
+      453.51666666666665,
+      336.21666666666664,
+      264.91333333333336,
+      238.48833333333334,
+      224.59916666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14450714841,
+    "date": "2025-05-11",
+    "name": "Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (A) on Bridges and Boardwalks in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1871376259339026480.fit",
+    "display_name": "2025-05-11 - Zwift - Race: Stage 1: Makuri May: Bridges and Boardwalks (A) on Bridges and Boardwalks in Makuri Islands",
+    "curve": [
+      647.8,
+      547.7,
+      385.1666666666667,
+      341.7916666666667,
+      317.3233333333333,
+      279.60333333333335,
+      254.93583333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14462246192,
+    "date": "2025-05-12",
+    "name": "Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1872247337829564448.fit",
+    "display_name": "2025-05-12 - Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "curve": [
+      620.0666666666667,
+      469.2,
+      364.1166666666667,
+      341.2583333333333,
+      310.09,
+      289.86,
+      279.56333333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14473130899,
+    "date": "2025-05-13",
+    "name": "Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1872947989434073088.fit",
+    "display_name": "2025-05-13 - Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "curve": [
+      441.53333333333336,
+      401.8666666666667,
+      384.4,
+      356.31666666666666,
+      325.3566666666667,
+      258.60333333333335,
+      251.16333333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14484369379,
+    "date": "2025-05-14",
+    "name": "Zwift - Race: The Driveway Wednesday Night Crit Worlds on Downtown Dolphin in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1873705885579083776.fit",
+    "display_name": "2025-05-14 - Zwift - Race: The Driveway Wednesday Night Crit Worlds on Downtown Dolphin in Crit City",
+    "curve": [
+      636.3333333333334,
+      521.0666666666667,
+      402.68333333333334,
+      357.525,
+      267.53,
+      254.75666666666666,
+      238.71666666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14494108384,
+    "date": "2025-05-15",
+    "name": "Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1874396753172643888.fit",
+    "display_name": "2025-05-15 - Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "curve": [
+      593.2,
+      485.0,
+      395.48333333333335,
+      348.21666666666664,
+      337.95666666666665,
+      281.35833333333335,
+      252.55166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14502930302,
+    "date": "2025-05-16",
+    "name": "Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1875091694962098224.fit",
+    "display_name": "2025-05-16 - Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "curve": [
+      400.3333333333333,
+      380.1666666666667,
+      374.75,
+      353.4583333333333,
+      320.9066666666667,
+      275.34,
+      258.79083333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14524156622,
+    "date": "2025-05-18",
+    "name": "Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1876509739785945136.fit",
+    "display_name": "2025-05-18 - Zwift - Race: Stage 2: Makuri May: Turf N Surf (B) on Turf N Surf in Makuri Islands",
+    "curve": [
+      687.2666666666667,
+      501.3333333333333,
+      378.1666666666667,
+      351.10833333333335,
+      333.43,
+      261.49666666666667,
+      243.69916666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14534357227,
+    "date": "2025-05-19",
+    "name": "Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1877264444308848640.fit",
+    "display_name": "2025-05-19 - Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "curve": [
+      487.3333333333333,
+      463.0,
+      392.48333333333335,
+      359.05833333333334,
+      329.71,
+      279.55333333333334,
+      247.41083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14556553799,
+    "date": "2025-05-21",
+    "name": "Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1878769419866341376.fit",
+    "display_name": "2025-05-21 - Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "curve": [
+      793.5333333333333,
+      550.9666666666667,
+      404.06666666666666,
+      352.98333333333335,
+      322.0966666666667,
+      268.12666666666667,
+      247.92416666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14565927122,
+    "date": "2025-05-22",
+    "name": "Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1879466994537857072.fit",
+    "display_name": "2025-05-22 - Zwift - Race: Stage 3: Makuri May: Castle to Castle (B) on Castle to Castle in Makuri Islands",
+    "curve": [
+      786.6666666666666,
+      573.5333333333333,
+      415.81666666666666,
+      349.3333333333333,
+      319.87666666666667,
+      272.33666666666664,
+      229.9225
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14574332113,
+    "date": "2025-05-23",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1880144174397800464.fit",
+    "display_name": "2025-05-23 - Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "curve": [
+      688.5333333333333,
+      630.1333333333333,
+      485.4,
+      385.65,
+      308.47,
+      276.82166666666666,
+      249.225
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14595884840,
+    "date": "2025-05-25",
+    "name": "Zwift - Race: Stage 4: Makuri May: Three Village Loop (B) on Three Village Loop in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1881643920958439456.fit",
+    "display_name": "2025-05-25 - Zwift - Race: Stage 4: Makuri May: Three Village Loop (B) on Three Village Loop in Makuri Islands",
+    "curve": [
+      730.0,
+      504.1,
+      394.9166666666667,
+      367.06666666666666,
+      347.4766666666667,
+      274.09166666666664,
+      256.29333333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14646743771,
+    "date": "2025-05-30",
+    "name": "Zwift - Race: Stage 4: Makuri May: Three Village Loop (B) on Three Village Loop in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1885296147564609536.fit",
+    "display_name": "2025-05-30 - Zwift - Race: Stage 4: Makuri May: Three Village Loop (B) on Three Village Loop in Makuri Islands",
+    "curve": [
+      656.4,
+      473.76666666666665,
+      396.76666666666665,
+      351.425,
+      327.8233333333333,
+      274.73333333333335,
+      248.72166666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14688281784,
+    "date": "2025-06-03",
+    "name": "Zwift - Race: Stage 1: Cityscapes: Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1888101157318967312.fit",
+    "display_name": "2025-06-03 - Zwift - Race: Stage 1: Cityscapes: Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "curve": [
+      764.0666666666667,
+      602.7,
+      461.76666666666665,
+      364.4166666666667,
+      324.9633333333333,
+      288.10333333333335,
+      265.305
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14700517294,
+    "date": "2025-06-04",
+    "name": "Zwift - Race: Stage 1: Cityscapes: Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1888947850402873376.fit",
+    "display_name": "2025-06-04 - Zwift - Race: Stage 1: Cityscapes: Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "curve": [
+      838.6,
+      606.4,
+      459.46666666666664,
+      346.48333333333335,
+      300.72,
+      263.48,
+      232.78166666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14749306552,
+    "date": "2025-06-09",
+    "name": "Zwift - Race: Stage 2: Cityscapes: Park Perimeter Loop (A) on Park Perimeter Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1892421485105020960.fit",
+    "display_name": "2025-06-09 - Zwift - Race: Stage 2: Cityscapes: Park Perimeter Loop (A) on Park Perimeter Loop in New York",
+    "curve": [
+      721.1333333333333,
+      553.9333333333333,
+      462.98333333333335,
+      366.025,
+      314.8333333333333,
+      291.22,
+      258.19416666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14761780767,
+    "date": "2025-06-10",
+    "name": "Zwift - Race: Stage 2: Cityscapes: Park Perimeter Loop (A) on Park Perimeter Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1893330781179232288.fit",
+    "display_name": "2025-06-10 - Zwift - Race: Stage 2: Cityscapes: Park Perimeter Loop (A) on Park Perimeter Loop in New York",
+    "curve": [
+      652.6,
+      511.23333333333335,
+      438.96666666666664,
+      355.625,
+      295.56333333333333,
+      268.74,
+      246.4825
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14781567577,
+    "date": "2025-06-12",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1894637141040824352.fit",
+    "display_name": "2025-06-12 - Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "curve": [
+      458.6,
+      442.23333333333335,
+      385.4,
+      356.1166666666667,
+      311.89,
+      278.685,
+      265.19916666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14822682340,
+    "date": "2025-06-16",
+    "name": "Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1897588324797775888.fit",
+    "display_name": "2025-06-16 - Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "curve": [
+      636.0666666666667,
+      541.6,
+      458.26666666666665,
+      384.48333333333335,
+      299.58666666666664,
+      257.315,
+      234.3425
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14863826854,
+    "date": "2025-06-20",
+    "name": "Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1900398367893094400.fit",
+    "display_name": "2025-06-20 - Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "curve": [
+      504.93333333333334,
+      476.3,
+      422.6166666666667,
+      368.43333333333334,
+      310.8666666666667,
+      267.80833333333334,
+      235.62666666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14873319318,
+    "date": "2025-06-21",
+    "name": "Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1901031274089316368.fit",
+    "display_name": "2025-06-21 - Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+    "curve": [
+      633.6,
+      534.4333333333333,
+      445.5,
+      364.68333333333334,
+      292.39666666666665,
+      271.49666666666667,
+      240.80833333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14886367972,
+    "date": "2025-06-22",
+    "name": "Zwift - Race: Stage 4: Cityscapes: London 8 (A) on London 8 in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1901967961921454112.fit",
+    "display_name": "2025-06-22 - Zwift - Race: Stage 4: Cityscapes: London 8 (A) on London 8 in London",
+    "curve": [
+      526.4666666666667,
+      416.96666666666664,
+      367.76666666666665,
+      346.8666666666667,
+      301.8833333333333,
+      261.235,
+      241.665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14896508144,
+    "date": "2025-06-23",
+    "name": "Zwift - Race: Stage 4: Cityscapes: London 8 (A) on London 8 in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1902721863629406240.fit",
+    "display_name": "2025-06-23 - Zwift - Race: Stage 4: Cityscapes: London 8 (A) on London 8 in London",
+    "curve": [
+      480.26666666666665,
+      397.56666666666666,
+      349.1,
+      312.93333333333334,
+      281.1766666666667,
+      277.73,
+      249.165
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14916987718,
+    "date": "2025-06-25",
+    "name": "Zwift - Race: Stage 4: Cityscapes: London 8 (B) on London 8 in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1904081121180680224.fit",
+    "display_name": "2025-06-25 - Zwift - Race: Stage 4: Cityscapes: London 8 (B) on London 8 in London",
+    "curve": [
+      577.4,
+      507.23333333333335,
+      384.7,
+      323.0083333333333,
+      300.16,
+      291.73833333333334,
+      253.6625
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14928131173,
+    "date": "2025-06-26",
+    "name": "Zwift - Race: Stage 4: Cityscapes: London 8 (B) on London 8 in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1904897213377544192.fit",
+    "display_name": "2025-06-26 - Zwift - Race: Stage 4: Cityscapes: London 8 (B) on London 8 in London",
+    "curve": [
+      530.6666666666666,
+      436.93333333333334,
+      352.81666666666666,
+      325.8833333333333,
+      296.22,
+      286.31666666666666,
+      254.52833333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14958339791,
+    "date": "2025-06-29",
+    "name": "Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (B) on Croissant in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1907041635166863408.fit",
+    "display_name": "2025-06-29 - Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (B) on Croissant in France",
+    "curve": [
+      644.0666666666667,
+      547.6,
+      492.06666666666666,
+      376.80833333333334,
+      271.3,
+      242.365,
+      237.5
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14977651488,
+    "date": "2025-07-01",
+    "name": "Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (A) on Croissant in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1908370322415960064.fit",
+    "display_name": "2025-07-01 - Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (A) on Croissant in France",
+    "curve": [
+      655.8666666666667,
+      583.2333333333333,
+      479.0833333333333,
+      383.40833333333336,
+      282.2266666666667,
+      248.44,
+      240.03666666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 14988895201,
+    "date": "2025-07-02",
+    "name": "Zwift - Race: Zwift Crit Racing Club - Downtown Dolphin (B) on Downtown Dolphin in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1909140486019350528.fit",
+    "display_name": "2025-07-02 - Zwift - Race: Zwift Crit Racing Club - Downtown Dolphin (B) on Downtown Dolphin in Crit City",
+    "curve": [
+      655.6666666666666,
+      532.4333333333333,
+      419.53333333333336,
+      359.9,
+      289.3666666666667,
+      275.12833333333333,
+      250.8025
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15000532129,
+    "date": "2025-07-03",
+    "name": "Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (A) on Croissant in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1909965896609169424.fit",
+    "display_name": "2025-07-03 - Zwift - Race: Stage 1: Allez Allez Allez!: Croissant (A) on Croissant in France",
+    "curve": [
+      650.7333333333333,
+      576.1666666666666,
+      461.18333333333334,
+      345.35,
+      283.88666666666666,
+      251.03833333333333,
+      244.95333333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15051623056,
+    "date": "2025-07-08",
+    "name": "Zwift - Race: Velocious Sport Tue Night Criterium (Race) (B) on Flat Route in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1913505913503760384.fit",
+    "display_name": "2025-07-08 - Zwift - Race: Velocious Sport Tue Night Criterium (Race) (B) on Flat Route in Watopia",
+    "curve": [
+      638.6,
+      490.2,
+      366.48333333333335,
+      323.675,
+      305.06666666666666,
+      288.06333333333333,
+      263.82666666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15073448283,
+    "date": "2025-07-10",
+    "name": "Zwift - Race: Stage 2: Allez Allez Allez!: Gentil 8 (A) on Gentil 8 in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1914921028144857136.fit",
+    "display_name": "2025-07-10 - Zwift - Race: Stage 2: Allez Allez Allez!: Gentil 8 (A) on Gentil 8 in France",
+    "curve": [
+      492.46666666666664,
+      430.23333333333335,
+      360.6333333333333,
+      346.35833333333335,
+      317.75333333333333,
+      273.5416666666667,
+      251.66
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15083373680,
+    "date": "2025-07-11",
+    "name": "Zwift - Race: Friday Night Fun Race (B) on Croissant in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1915659687710179344.fit",
+    "display_name": "2025-07-11 - Zwift - Race: Friday Night Fun Race (B) on Croissant in France",
+    "curve": [
+      590.2,
+      514.2,
+      391.96666666666664,
+      322.775,
+      295.48333333333335,
+      271.575,
+      268.625
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15129050651,
+    "date": "2025-07-15",
+    "name": "Zwift - Race: Stage 3: Allez Allez Allez!: Champs Elysees (A) on Champs-\u00c9lys\u00e9es in Paris",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1918697833205104640.fit",
+    "display_name": "2025-07-15 - Zwift - Race: Stage 3: Allez Allez Allez!: Champs Elysees (A) on Champs-\u00c9lys\u00e9es in Paris",
+    "curve": [
+      560.9333333333333,
+      457.5,
+      434.85,
+      373.9583333333333,
+      303.71,
+      270.36833333333334,
+      252.17083333333332
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15181960756,
+    "date": "2025-07-20",
+    "name": "Zwift - Race: Stage 4: Allez Allez Allez!: R.G.V. (A) on R.G.V. in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1922200620928892960.fit",
+    "display_name": "2025-07-20 - Zwift - Race: Stage 4: Allez Allez Allez!: R.G.V. (A) on R.G.V. in France",
+    "curve": [
+      666.2,
+      650.2666666666667,
+      420.8666666666667,
+      350.35,
+      310.56,
+      265.13,
+      244.54416666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15204427604,
+    "date": "2025-07-22",
+    "name": "Zwift - Race: 2025 SISU Tour - Stage 6 (B) on Petite Douleur in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1923658127341797424.fit",
+    "display_name": "2025-07-22 - Zwift - Race: 2025 SISU Tour - Stage 6 (B) on Petite Douleur in France",
+    "curve": [
+      450.8,
+      419.5,
+      366.45,
+      354.475,
+      317.45666666666665,
+      289.1483333333333,
+      252.46166666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15226092619,
+    "date": "2025-07-24",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on LaGuardia Loop Reverse in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1925077842043879456.fit",
+    "display_name": "2025-07-24 - Zwift - Race: Rhino Racing Short Crits (B) on LaGuardia Loop Reverse in New York",
+    "curve": [
+      765.3333333333334,
+      601.6,
+      452.6666666666667,
+      345.4583333333333,
+      289.7966666666667,
+      269.01166666666666,
+      254.495
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15259125216,
+    "date": "2025-07-27",
+    "name": "Zwift - Race: Stage 5: Allez Allez Allez!: Hell of the North (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1927335590840270880.fit",
+    "display_name": "2025-07-27 - Zwift - Race: Stage 5: Allez Allez Allez!: Hell of the North (A) on Hell of the North in France",
+    "curve": [
+      621.4,
+      557.0666666666667,
+      415.75,
+      349.5,
+      308.6333333333333,
+      265.22833333333335,
+      242.55166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15280254200,
+    "date": "2025-07-29",
+    "name": "Zwift - Race: Stage 5: Allez Allez Allez!: Hell of the North (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1928693781016625184.fit",
+    "display_name": "2025-07-29 - Zwift - Race: Stage 5: Allez Allez Allez!: Hell of the North (A) on Hell of the North in France",
+    "curve": [
+      532.5333333333333,
+      465.8666666666667,
+      398.93333333333334,
+      349.93333333333334,
+      329.8833333333333,
+      272.95666666666665,
+      251.69
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15304035571,
+    "date": "2025-07-31",
+    "name": "Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1930242564871454768.fit",
+    "display_name": "2025-07-31 - Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "curve": [
+      639.1333333333333,
+      531.8,
+      351.8333333333333,
+      293.5833333333333,
+      258.58666666666664,
+      251.48333333333332,
+      246.05583333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15405357944,
+    "date": "2025-08-09",
+    "name": "Zwift - Race: Stage 1: Kick 'N' Sprint: Innsbruckring (A) on Innsbruckring in Innsbruck",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1936786815239340048.fit",
+    "display_name": "2025-08-09 - Zwift - Race: Stage 1: Kick 'N' Sprint: Innsbruckring (A) on Innsbruckring in Innsbruck",
+    "curve": [
+      687.1333333333333,
+      591.9333333333333,
+      472.1333333333333,
+      351.2583333333333,
+      273.5133333333333,
+      245.94833333333332,
+      236.90166666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15416477311,
+    "date": "2025-08-10",
+    "name": "Zwift - Race: Stage 1: Kick 'N' Sprint: Innsbruckring (A) on Innsbruckring in Innsbruck",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1937481313665712176.fit",
+    "display_name": "2025-08-10 - Zwift - Race: Stage 1: Kick 'N' Sprint: Innsbruckring (A) on Innsbruckring in Innsbruck",
+    "curve": [
+      554.6,
+      545.4666666666667,
+      460.85,
+      359.2416666666667,
+      284.22,
+      271.36333333333334,
+      251.87416666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15472808179,
+    "date": "2025-08-15",
+    "name": "Zwift - Race: Stage 2: Kick 'N' Sprint: Glasgow Crit Circuit (A) on Glasgow Crit Circuit in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1941070243031941120.fit",
+    "display_name": "2025-08-15 - Zwift - Race: Stage 2: Kick 'N' Sprint: Glasgow Crit Circuit (A) on Glasgow Crit Circuit in Scotland",
+    "curve": [
+      621.8,
+      527.0,
+      415.5833333333333,
+      345.2916666666667,
+      302.55333333333334,
+      266.125,
+      248.55083333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15484186464,
+    "date": "2025-08-16",
+    "name": "Zwift - Race: Zwift Epic Race - London PRL Half (B) on The PRL Half in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1941764511132319776.fit",
+    "display_name": "2025-08-16 - Zwift - Race: Zwift Epic Race - London PRL Half (B) on The PRL Half in London",
+    "curve": [
+      572.0,
+      447.73333333333335,
+      362.0833333333333,
+      314.275,
+      289.16333333333336,
+      276.4,
+      249.33166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15506943653,
+    "date": "2025-08-18",
+    "name": "Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1943246474204692496.fit",
+    "display_name": "2025-08-18 - Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "curve": [
+      524.8666666666667,
+      413.3,
+      390.48333333333335,
+      331.3333333333333,
+      303.01666666666665,
+      270.03,
+      265.04333333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15552971075,
+    "date": "2025-08-22",
+    "name": "Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1946210097495539760.fit",
+    "display_name": "2025-08-22 - Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "curve": [
+      552.0,
+      410.8666666666667,
+      329.0833333333333,
+      317.18333333333334,
+      279.45666666666665,
+      264.24666666666667,
+      253.3575
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15564242043,
+    "date": "2025-08-23",
+    "name": "Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1946902233522143248.fit",
+    "display_name": "2025-08-23 - Zwift - Race: Stage 3: Kick 'N' Sprint: Sand and Sequoias (A) on Sand And Sequoias in Watopia",
+    "curve": [
+      598.1333333333333,
+      472.56666666666666,
+      387.03333333333336,
+      342.68333333333334,
+      307.81,
+      269.3333333333333,
+      250.38416666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15587712705,
+    "date": "2025-08-25",
+    "name": "Zwift - Race: Stage 4: Kick 'N' Sprint: Rolling Highlands (A) on Rolling Highlands in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1948382805209661488.fit",
+    "display_name": "2025-08-25 - Zwift - Race: Stage 4: Kick 'N' Sprint: Rolling Highlands (A) on Rolling Highlands in Scotland",
+    "curve": [
+      711.7333333333333,
+      572.6,
+      423.25,
+      311.675,
+      276.14666666666665,
+      255.75,
+      232.48583333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15621494561,
+    "date": "2025-08-28",
+    "name": "Zwift - Race: Stage 4: Kick 'N' Sprint: Rolling Highlands (A) on Rolling Highlands in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1950465932430164016.fit",
+    "display_name": "2025-08-28 - Zwift - Race: Stage 4: Kick 'N' Sprint: Rolling Highlands (A) on Rolling Highlands in Scotland",
+    "curve": [
+      631.5333333333333,
+      596.2666666666667,
+      466.6333333333333,
+      324.96666666666664,
+      283.77,
+      264.2133333333333,
+      252.8375
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15631080110,
+    "date": "2025-08-29",
+    "name": "Zwift - Race: Friday Night Fun Race (B) on Sprinter's Playground in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1951172044070584320.fit",
+    "display_name": "2025-08-29 - Zwift - Race: Friday Night Fun Race (B) on Sprinter's Playground in Makuri Islands",
+    "curve": [
+      628.6666666666666,
+      537.7333333333333,
+      399.8333333333333,
+      343.9,
+      272.39666666666665,
+      253.39,
+      243.11083333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15688476052,
+    "date": "2025-09-03",
+    "name": "Zwift - Race: Stage 1: Rolling With ENVE: Two Bridges Loop (A) on Two Bridges Loop in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1954784386503163952.fit",
+    "display_name": "2025-09-03 - Zwift - Race: Stage 1: Rolling With ENVE: Two Bridges Loop (A) on Two Bridges Loop in Watopia",
+    "curve": [
+      656.3333333333334,
+      522.0666666666667,
+      444.73333333333335,
+      329.78333333333336,
+      282.8066666666667,
+      269.40833333333336,
+      254.26333333333332
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15700022898,
+    "date": "2025-09-04",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on LaGuardia Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1955521429399142400.fit",
+    "display_name": "2025-09-04 - Zwift - Race: Rhino Racing Short Crits (B) on LaGuardia Loop in New York",
+    "curve": [
+      544.1333333333333,
+      462.76666666666665,
+      378.21666666666664,
+      339.1666666666667,
+      305.75333333333333,
+      280.695,
+      275.80833333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15735278723,
+    "date": "2025-09-07",
+    "name": "Zwift - Race: Stage 1: Rolling With ENVE: Two Bridges Loop (A) on Two Bridges Loop in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1957745099769118736.fit",
+    "display_name": "2025-09-07 - Zwift - Race: Stage 1: Rolling With ENVE: Two Bridges Loop (A) on Two Bridges Loop in Watopia",
+    "curve": [
+      620.4666666666667,
+      573.5,
+      473.75,
+      335.525,
+      270.3,
+      250.77,
+      242.95666666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15769775482,
+    "date": "2025-09-10",
+    "name": "Zwift - Race: Stage 2: Rolling With ENVE: BRAEk-fast Crits and Grits (A) on BRAEk-fast Crits and Grits in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1959889004602081296.fit",
+    "display_name": "2025-09-10 - Zwift - Race: Stage 2: Rolling With ENVE: BRAEk-fast Crits and Grits (A) on BRAEk-fast Crits and Grits in Scotland",
+    "curve": [
+      545.1333333333333,
+      449.7,
+      355.23333333333335,
+      349.64166666666665,
+      291.15,
+      261.46166666666664,
+      242.105
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15781812796,
+    "date": "2025-09-11",
+    "name": "Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1960679365255659568.fit",
+    "display_name": "2025-09-11 - Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "curve": [
+      491.73333333333335,
+      414.03333333333336,
+      342.8833333333333,
+      331.55,
+      286.9166666666667,
+      279.46166666666664,
+      271.9433333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15791574395,
+    "date": "2025-09-12",
+    "name": "Zwift - Race: Zwift Epic Race - Shisa Shakedown (B) on Shisa Shakedown in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1961346742658023472.fit",
+    "display_name": "2025-09-12 - Zwift - Race: Zwift Epic Race - Shisa Shakedown (B) on Shisa Shakedown in Makuri Islands",
+    "curve": [
+      494.6666666666667,
+      404.3,
+      380.76666666666665,
+      338.825,
+      298.9433333333333,
+      260.9816666666667,
+      248.6775
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15849128608,
+    "date": "2025-09-17",
+    "name": "Zwift - Race: Good Time Riders - Pursuit Race (B) on Serpentine 8 in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1965000449945796656.fit",
+    "display_name": "2025-09-17 - Zwift - Race: Good Time Riders - Pursuit Race (B) on Serpentine 8 in Watopia",
+    "curve": [
+      612.4,
+      436.5,
+      371.3333333333333,
+      322.43333333333334,
+      303.1933333333333,
+      281.7,
+      256.7316666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15893752292,
+    "date": "2025-09-21",
+    "name": "Zwift - Race: Stage 3: Rolling With ENVE: Jurassic Coast (A) on Jurassic Coast in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1967859550224662560.fit",
+    "display_name": "2025-09-21 - Zwift - Race: Stage 3: Rolling With ENVE: Jurassic Coast (A) on Jurassic Coast in Watopia",
+    "curve": [
+      763.2666666666667,
+      491.76666666666665,
+      445.9166666666667,
+      379.15833333333336,
+      304.03,
+      264.0083333333333,
+      236.64166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15904811776,
+    "date": "2025-09-22",
+    "name": "Zwift - Race: Stage 4: Rolling With ENVE: Queen's Highway After Party (A) on Queen's Highway After Party in Yorkshire",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1968645449883598864.fit",
+    "display_name": "2025-09-22 - Zwift - Race: Stage 4: Rolling With ENVE: Queen's Highway After Party (A) on Queen's Highway After Party in Yorkshire",
+    "curve": [
+      560.8,
+      434.5,
+      397.73333333333335,
+      366.8666666666667,
+      290.64,
+      260.43333333333334,
+      242.80916666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15916680779,
+    "date": "2025-09-23",
+    "name": "Zwift - Race: Zwift Crit Racing Club - Castle Crit (B) on Castle Crit in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1969385561936379904.fit",
+    "display_name": "2025-09-23 - Zwift - Race: Zwift Crit Racing Club - Castle Crit (B) on Castle Crit in Makuri Islands",
+    "curve": [
+      687.2666666666667,
+      445.3,
+      401.1166666666667,
+      332.025,
+      288.4633333333333,
+      274.26,
+      241.95333333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15938332100,
+    "date": "2025-09-25",
+    "name": "Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1970831822480752672.fit",
+    "display_name": "2025-09-25 - Zwift - Race: Fell Swoop Speed Series (B) on Neokyo Crit Course in Makuri Islands",
+    "curve": [
+      567.7333333333333,
+      444.7,
+      356.81666666666666,
+      299.7083333333333,
+      277.43666666666667,
+      263.525,
+      258.9266666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 15993974366,
+    "date": "2025-09-30",
+    "name": "Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1974475262976360448.fit",
+    "display_name": "2025-09-30 - Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "curve": [
+      605.3333333333334,
+      504.8,
+      405.7,
+      388.725,
+      292.21,
+      272.81333333333333,
+      257.75083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16015638147,
+    "date": "2025-10-02",
+    "name": "Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1975865361244880912.fit",
+    "display_name": "2025-10-02 - Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "curve": [
+      509.8,
+      459.4,
+      407.5833333333333,
+      376.48333333333335,
+      302.0133333333333,
+      272.355,
+      257.20666666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16025342635,
+    "date": "2025-10-03",
+    "name": "Zwift - Race: Zwift Epic Race - Knights of the Roundabout (B) on Knights of the Roundabout in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1976567102286331920.fit",
+    "display_name": "2025-10-03 - Zwift - Race: Zwift Epic Race - Knights of the Roundabout (B) on Knights of the Roundabout in France",
+    "curve": [
+      650.2666666666667,
+      545.0666666666667,
+      435.46666666666664,
+      328.7416666666667,
+      300.65,
+      257.6983333333333,
+      241.7675
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16046540960,
+    "date": "2025-10-05",
+    "name": "Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1977947634647711744.fit",
+    "display_name": "2025-10-05 - Zwift - Race: Stage 5: Rolling With ENVE: Triple Twist (A) on Triple Twist in Watopia",
+    "curve": [
+      547.2666666666667,
+      470.1333333333333,
+      392.1,
+      368.14166666666665,
+      305.2633333333333,
+      274.85,
+      252.63916666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16069150765,
+    "date": "2025-10-07",
+    "name": "Zwift - Race: Velocious Sport Tue Night Criterium (Race) (B) on Flat Route in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1979460911672344592.fit",
+    "display_name": "2025-10-07 - Zwift - Race: Velocious Sport Tue Night Criterium (Race) (B) on Flat Route in Watopia",
+    "curve": [
+      859.1333333333333,
+      646.3,
+      415.3833333333333,
+      330.5416666666667,
+      298.7866666666667,
+      278.11833333333334,
+      253.88
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16080933426,
+    "date": "2025-10-08",
+    "name": "Zwift - Race: Good Time Riders - Pursuit Race (B) on Farmland Loop in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1980222264594956288.fit",
+    "display_name": "2025-10-08 - Zwift - Race: Good Time Riders - Pursuit Race (B) on Farmland Loop in Makuri Islands",
+    "curve": [
+      638.8,
+      422.4,
+      373.73333333333335,
+      332.90833333333336,
+      310.29,
+      289.765,
+      270.06
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16131540428,
+    "date": "2025-10-13",
+    "name": "Zwift - Race: Stage 2 - Zwift Unlocked - Race (A) on Electric Break in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1983740409410486272.fit",
+    "display_name": "2025-10-13 - Zwift - Race: Stage 2 - Zwift Unlocked - Race (A) on Electric Break in Makuri Islands",
+    "curve": [
+      547.2,
+      454.9,
+      389.3833333333333,
+      361.7583333333333,
+      321.7366666666667,
+      291.61333333333334,
+      282.0208333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16216777013,
+    "date": "2025-10-21",
+    "name": "Zwift - Race: Stage 3 - Zwift Unlocked - Race (A) on Scotland After Party in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1989599556702044176.fit",
+    "display_name": "2025-10-21 - Zwift - Race: Stage 3 - Zwift Unlocked - Race (A) on Scotland After Party in Scotland",
+    "curve": [
+      637.6,
+      474.4,
+      369.25,
+      341.45,
+      277.6,
+      268.92833333333334,
+      257.855
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16286818867,
+    "date": "2025-10-28",
+    "name": "Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1994647105876017152.fit",
+    "display_name": "2025-10-28 - Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "curve": [
+      743.0,
+      533.9,
+      394.6166666666667,
+      383.25,
+      314.73333333333335,
+      266.9916666666667,
+      243.89333333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16296603951,
+    "date": "2025-10-29",
+    "name": "Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1995341062196985904.fit",
+    "display_name": "2025-10-29 - Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "curve": [
+      538.3333333333334,
+      439.93333333333334,
+      399.06666666666666,
+      385.59166666666664,
+      321.7733333333333,
+      286.99333333333334,
+      253.785
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16306893288,
+    "date": "2025-10-30",
+    "name": "Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1996098017517633584.fit",
+    "display_name": "2025-10-30 - Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "curve": [
+      604.1333333333333,
+      554.9666666666667,
+      450.35,
+      413.46666666666664,
+      301.1566666666667,
+      271.0466666666667,
+      250.82916666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16315465165,
+    "date": "2025-10-31",
+    "name": "Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1996792749482836000.fit",
+    "display_name": "2025-10-31 - Zwift - Race: Stage 4 - Zwift Unlocked - Race (A) on Spinfinity in New York",
+    "curve": [
+      723.9333333333333,
+      560.3666666666667,
+      430.4166666666667,
+      349.19166666666666,
+      309.31333333333333,
+      274.79,
+      258.4658333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16326184626,
+    "date": "2025-11-01",
+    "name": "Zwift - Race: TBR the GO- paced long distance (B) on The Big Ring in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1997538242139799600.fit",
+    "display_name": "2025-11-01 - Zwift - Race: TBR the GO- paced long distance (B) on The Big Ring in Watopia",
+    "curve": [
+      612.6666666666666,
+      444.03333333333336,
+      344.6666666666667,
+      309.40833333333336,
+      284.0966666666667,
+      271.925,
+      266.7125
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16357451403,
+    "date": "2025-11-04",
+    "name": "Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-1999722136180097024.fit",
+    "display_name": "2025-11-04 - Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "curve": [
+      602.8666666666667,
+      469.23333333333335,
+      384.4166666666667,
+      372.68333333333334,
+      330.35333333333335,
+      289.8566666666667,
+      250.25083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16369223931,
+    "date": "2025-11-05",
+    "name": "Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2000505260979781648.fit",
+    "display_name": "2025-11-05 - Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "curve": [
+      643.2666666666667,
+      551.9666666666667,
+      509.05,
+      363.6166666666667,
+      308.2866666666667,
+      264.16333333333336,
+      238.22916666666666
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16388461595,
+    "date": "2025-11-07",
+    "name": "Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2001934023256981520.fit",
+    "display_name": "2025-11-07 - Zwift - Race: Rhino Racing Short Crits (B) on The Bell Lap in Crit City",
+    "curve": [
+      634.9333333333333,
+      510.53333333333336,
+      391.9166666666667,
+      363.06666666666666,
+      307.04,
+      272.885,
+      260.7325
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16398790642,
+    "date": "2025-11-08",
+    "name": "Zwift - Race: TBR the GO- paced long distance (B) on The Big Ring in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2002619118682914848.fit",
+    "display_name": "2025-11-08 - Zwift - Race: TBR the GO- paced long distance (B) on The Big Ring in Watopia",
+    "curve": [
+      539.6,
+      515.2,
+      389.7,
+      324.1,
+      302.79333333333335,
+      292.8933333333333,
+      270.1175
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16409116347,
+    "date": "2025-11-09",
+    "name": "Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2003314877858332672.fit",
+    "display_name": "2025-11-09 - Zwift - Race: Stage 5 - Zwift Unlocked - Race (A) on The Double Borough in New York",
+    "curve": [
+      649.0,
+      495.8666666666667,
+      481.73333333333335,
+      363.65,
+      300.82,
+      275.3016666666667,
+      253.70833333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16430705135,
+    "date": "2025-11-11",
+    "name": "Zwift - Race: SweatFest p/b WSBA (B) on Danger Noodle in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2004830611864305712.fit",
+    "display_name": "2025-11-11 - Zwift - Race: SweatFest p/b WSBA (B) on Danger Noodle in Watopia",
+    "curve": [
+      531.6,
+      440.56666666666666,
+      416.95,
+      379.4583333333333,
+      317.3333333333333,
+      286.715,
+      259.63916666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16441980919,
+    "date": "2025-11-12",
+    "name": "Zwift - Watts of the Wild in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2005632989039427600.fit",
+    "display_name": "2025-11-12 - Zwift - Watts of the Wild in Watopia",
+    "curve": [
+      301.3333333333333,
+      275.5,
+      223.43333333333334,
+      215.225,
+      205.37666666666667,
+      194.62166666666667,
+      170.88833333333332
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16451049212,
+    "date": "2025-11-13",
+    "name": "Zwift - Race: KRG Thursday Night Crit  (B) on Downtown Dolphin in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2006268314854096928.fit",
+    "display_name": "2025-11-13 - Zwift - Race: KRG Thursday Night Crit  (B) on Downtown Dolphin in Crit City",
+    "curve": [
+      544.0666666666667,
+      445.3333333333333,
+      359.23333333333335,
+      340.18333333333334,
+      295.32666666666665,
+      266.63666666666666,
+      258.0083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16468966094,
+    "date": "2025-11-15",
+    "name": "Zwift - Race: TRIBE Yeti-nother Chase Race on Road to Sky in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2007614373048107024.fit",
+    "display_name": "2025-11-15 - Zwift - Race: TRIBE Yeti-nother Chase Race on Road to Sky in Watopia",
+    "curve": [
+      374.8666666666667,
+      372.1,
+      358.1333333333333,
+      332.175,
+      306.55,
+      293.52,
+      283.96
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16490140107,
+    "date": "2025-11-17",
+    "name": "Zwift - Race: Brompton World Champs || Range 1 (A) on Greater London Flat in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2009200078094368784.fit",
+    "display_name": "2025-11-17 - Zwift - Race: Brompton World Champs || Range 1 (A) on Greater London Flat in London",
+    "curve": [
+      584.8666666666667,
+      509.53333333333336,
+      416.3666666666667,
+      341.6333333333333,
+      322.8433333333333,
+      285.9866666666667,
+      264.495
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16510936874,
+    "date": "2025-11-19",
+    "name": "Zwift - Race: Zwift Epic Race - Spinfinity Ultra (B) on Spinfinity Ultra in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2010661427714473984.fit",
+    "display_name": "2025-11-19 - Zwift - Race: Zwift Epic Race - Spinfinity Ultra (B) on Spinfinity Ultra in New York",
+    "curve": [
+      940.4666666666667,
+      624.1333333333333,
+      394.98333333333335,
+      324.76666666666665,
+      288.56666666666666,
+      283.205,
+      253.08916666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16586521572,
+    "date": "2025-11-27",
+    "name": "Zwift - Race: Stage 2: NYC Showdown: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2016358549042528272.fit",
+    "display_name": "2025-11-27 - Zwift - Race: Stage 2: NYC Showdown: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "curve": [
+      615.7333333333333,
+      465.3333333333333,
+      414.2,
+      350.34166666666664,
+      302.8233333333333,
+      261.77666666666664,
+      258.3233333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16596088570,
+    "date": "2025-11-28",
+    "name": "Zwift - Race: RiZZRL Friday Frenzy: Thanksgiving Burn-Off Bonanza on Triple Flat Loops in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2017202106062094352.fit",
+    "display_name": "2025-11-28 - Zwift - Race: RiZZRL Friday Frenzy: Thanksgiving Burn-Off Bonanza on Triple Flat Loops in Watopia",
+    "curve": [
+      817.4666666666667,
+      557.2,
+      438.3833333333333,
+      344.7916666666667,
+      301.1533333333333,
+      271.37166666666667,
+      259.0366666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16624305851,
+    "date": "2025-12-01",
+    "name": "Zwift - Race: Stage 1: Fresh Outta '25: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2019378109903568944.fit",
+    "display_name": "2025-12-01 - Zwift - Race: Stage 1: Fresh Outta '25: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "curve": [
+      702.3333333333334,
+      510.2,
+      436.55,
+      378.7,
+      297.74,
+      266.8833333333333,
+      255.33166666666668
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16652659341,
+    "date": "2025-12-04",
+    "name": "Zwift - Race: Stage 1: Fresh Outta '25: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2021495196784541696.fit",
+    "display_name": "2025-12-04 - Zwift - Race: Stage 1: Fresh Outta '25: Prospect Park Loop (A) on Prospect Park Loop in New York",
+    "curve": [
+      530.4,
+      470.43333333333334,
+      428.0,
+      366.2,
+      287.88666666666666,
+      278.14166666666665,
+      258.5941666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16661995165,
+    "date": "2025-12-05",
+    "name": "Zwift - Race: Friday Night Fun Race (B) on LaGuardia Loop Reverse in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2022321570940207120.fit",
+    "display_name": "2025-12-05 - Zwift - Race: Friday Night Fun Race (B) on LaGuardia Loop Reverse in New York",
+    "curve": [
+      583.8,
+      421.0,
+      381.5833333333333,
+      341.4166666666667,
+      315.95,
+      295.21166666666664,
+      271.595
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16670951032,
+    "date": "2025-12-06",
+    "name": "Zwift - Race: Zwift Epic Race - Snowman (B) on Snowman in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2022969753210978336.fit",
+    "display_name": "2025-12-06 - Zwift - Race: Zwift Epic Race - Snowman (B) on Snowman in Watopia",
+    "curve": [
+      682.7333333333333,
+      516.2,
+      405.75,
+      375.2416666666667,
+      329.1166666666667,
+      291.655,
+      272.06583333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16689852757,
+    "date": "2025-12-08",
+    "name": "Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2024451588231299104.fit",
+    "display_name": "2025-12-08 - Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "curve": [
+      634.7333333333333,
+      487.3666666666667,
+      428.6666666666667,
+      402.8833333333333,
+      302.48333333333335,
+      282.595,
+      266.3975
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16699108980,
+    "date": "2025-12-09",
+    "name": "Zwift - Race: SweatFest p/b WSBA (B) on Rolling Highlands in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2025127715203465216.fit",
+    "display_name": "2025-12-09 - Zwift - Race: SweatFest p/b WSBA (B) on Rolling Highlands in Scotland",
+    "curve": [
+      655.4,
+      565.0666666666667,
+      456.06666666666666,
+      339.95,
+      302.3333333333333,
+      290.41,
+      272.685
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16709203681,
+    "date": "2025-12-10",
+    "name": "Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2025904199102922784.fit",
+    "display_name": "2025-12-10 - Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "curve": [
+      613.8,
+      479.23333333333335,
+      450.25,
+      418.9166666666667,
+      313.8466666666667,
+      276.975,
+      271.75333333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16726069909,
+    "date": "2025-12-12",
+    "name": "Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2027294137249710128.fit",
+    "display_name": "2025-12-12 - Zwift - Race: Stage 2: Fresh Outta '25: Scotland Smash (A) on Scotland Smash in Scotland",
+    "curve": [
+      550.2666666666667,
+      519.4333333333333,
+      502.73333333333335,
+      391.85,
+      293.6666666666667,
+      277.925,
+      272.0158333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16745376905,
+    "date": "2025-12-14",
+    "name": "Zwift - Race: Zwift Epic Race - Tire Bouchon (B) on Tire-Bouchon in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2028762135546298368.fit",
+    "display_name": "2025-12-14 - Zwift - Race: Zwift Epic Race - Tire Bouchon (B) on Tire-Bouchon in France",
+    "curve": [
+      521.5333333333333,
+      483.1666666666667,
+      413.55,
+      370.5416666666667,
+      325.23,
+      287.57,
+      264.06416666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16754057887,
+    "date": "2025-12-15",
+    "name": "Zwift - Race: Stage 3: Fresh Outta '25: Hell of the North (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2029521939269189632.fit",
+    "display_name": "2025-12-15 - Zwift - Race: Stage 3: Fresh Outta '25: Hell of the North (A) on Hell of the North in France",
+    "curve": [
+      449.4,
+      432.73333333333335,
+      400.6666666666667,
+      380.09166666666664,
+      360.6533333333333,
+      294.98333333333335,
+      276.1958333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16763214266,
+    "date": "2025-12-16",
+    "name": "Zwift - Race: SweatFest p/b WSBA (B) on Sugar Cookie in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2030197760401113120.fit",
+    "display_name": "2025-12-16 - Zwift - Race: SweatFest p/b WSBA (B) on Sugar Cookie in Watopia",
+    "curve": [
+      617.0666666666667,
+      500.76666666666665,
+      476.1166666666667,
+      419.06666666666666,
+      343.12333333333333,
+      297.795,
+      258.09583333333336
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16778365565,
+    "date": "2025-12-18",
+    "name": "Zwift - Group Ride: Off The MAAP 2025: Stage 1 on Keith Hill After Party in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2031450530278015008.fit",
+    "display_name": "2025-12-18 - Zwift - Group Ride: Off The MAAP 2025: Stage 1 on Keith Hill After Party in London",
+    "curve": [
+      592.7333333333333,
+      467.26666666666665,
+      375.8333333333333,
+      356.6,
+      329.29333333333335,
+      286.3383333333333,
+      278.67083333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16789301167,
+    "date": "2025-12-19",
+    "name": "Zwift - Race: Zwift Epic Race - The Muckle Yin (B) on The Muckle Yin in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2032403393854570544.fit",
+    "display_name": "2025-12-19 - Zwift - Race: Zwift Epic Race - The Muckle Yin (B) on The Muckle Yin in Scotland",
+    "curve": [
+      719.9333333333333,
+      544.1,
+      480.1166666666667,
+      399.25,
+      337.50666666666666,
+      286.23,
+      256.1533333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16807061074,
+    "date": "2025-12-21",
+    "name": "Zwift - Race: GTR - Alpe Du Zwift Race (B) on Road to Sky in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2033811265159184432.fit",
+    "display_name": "2025-12-21 - Zwift - Race: GTR - Alpe Du Zwift Race (B) on Road to Sky in Watopia",
+    "curve": [
+      430.73333333333335,
+      414.23333333333335,
+      400.9166666666667,
+      376.2416666666667,
+      340.71,
+      313.86,
+      300.41833333333335
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16822839099,
+    "date": "2025-12-23",
+    "name": "Zwift - Race: Scyence Race (B) on The Classic in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2035105796496310288.fit",
+    "display_name": "2025-12-23 - Zwift - Race: Scyence Race (B) on The Classic in Watopia",
+    "curve": [
+      678.0,
+      665.9333333333333,
+      471.01666666666665,
+      381.675,
+      335.37666666666667,
+      300.88,
+      269.26
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16929354401,
+    "date": "2026-01-03",
+    "name": "Zwift - Race: Stage 5: Fresh Outta '25: Gentil 8 (A) on Gentil 8 in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2043265658036191264.fit",
+    "display_name": "2026-01-03 - Zwift - Race: Stage 5: Fresh Outta '25: Gentil 8 (A) on Gentil 8 in France",
+    "curve": [
+      591.3333333333334,
+      568.8,
+      410.3666666666667,
+      368.9166666666667,
+      346.47333333333336,
+      302.58,
+      272.45916666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16938653205,
+    "date": "2026-01-04",
+    "name": "Zwift - Race: The Warrior Games Presents Tour de Spartacus on Temples and Towers in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2043831715440361472.fit",
+    "display_name": "2026-01-04 - Zwift - Race: The Warrior Games Presents Tour de Spartacus on Temples and Towers in Makuri Islands",
+    "curve": [
+      842.6,
+      736.7333333333333,
+      495.75,
+      380.35,
+      349.8566666666667,
+      304.1566666666667,
+      283.00083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16950749067,
+    "date": "2026-01-05",
+    "name": "Zwift - Race:  Stage 1 - Race - Tour de Zwift on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2044683719528185856.fit",
+    "display_name": "2026-01-05 - Zwift - Race:  Stage 1 - Race - Tour de Zwift on Turf N Surf in Makuri Islands",
+    "curve": [
+      591.4,
+      512.7,
+      453.25,
+      390.75,
+      359.6,
+      289.9766666666667,
+      265.8016666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16962847748,
+    "date": "2026-01-06",
+    "name": "Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2045405261694238752.fit",
+    "display_name": "2026-01-06 - Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
+    "curve": [
+      468.73333333333335,
+      431.96666666666664,
+      394.8833333333333,
+      373.925,
+      318.98,
+      288.29333333333335,
+      282.61333333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 16984843330,
+    "date": "2026-01-08",
+    "name": "Zwift - Race:  Stage 1 - Race - Tour de Zwift on Turf N Surf in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2046856216671436832.fit",
+    "display_name": "2026-01-08 - Zwift - Race:  Stage 1 - Race - Tour de Zwift on Turf N Surf in Makuri Islands",
+    "curve": [
+      650.8666666666667,
+      531.7,
+      440.01666666666665,
+      392.425,
+      360.5966666666667,
+      292.3433333333333,
+      272.7975
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17029725581,
+    "date": "2026-01-12",
+    "name": "Zwift - Race:  Stage 2 - Race - Tour de Zwift (A) on Hell of the North in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2049820515035529216.fit",
+    "display_name": "2026-01-12 - Zwift - Race:  Stage 2 - Race - Tour de Zwift (A) on Hell of the North in France",
+    "curve": [
+      613.5333333333333,
+      535.4666666666667,
+      434.98333333333335,
+      396.05,
+      354.5466666666667,
+      285.6,
+      265.7991666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17054096679,
+    "date": "2026-01-14",
+    "name": "Zwift - Group Ride: Long - Stage 2 - Tour de Zwift on Knights of the Roundabout in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2051266331319222272.fit",
+    "display_name": "2026-01-14 - Zwift - Group Ride: Long - Stage 2 - Tour de Zwift on Knights of the Roundabout in France",
+    "curve": [
+      863.2666666666667,
+      694.7666666666667,
+      556.6,
+      399.15833333333336,
+      349.5366666666667,
+      274.4533333333333,
+      263.97
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17085176372,
+    "date": "2026-01-17",
+    "name": "Zwift - Race: Zwift Epic Race - Fuhgeddaboudit (B) on Fuhgeddaboudit in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2053229576842117120.fit",
+    "display_name": "2026-01-17 - Zwift - Race: Zwift Epic Race - Fuhgeddaboudit (B) on Fuhgeddaboudit in New York",
+    "curve": [
+      486.2,
+      451.43333333333334,
+      417.03333333333336,
+      387.45,
+      313.82,
+      297.8383333333333,
+      258.72583333333336
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17110667238,
+    "date": "2026-01-19",
+    "name": "Zwift - Race:  Stage 3 - Race - Tour de Zwift (A) on BRAEk-fast Crits and Grits in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2054886235679227952.fit",
+    "display_name": "2026-01-19 - Zwift - Race:  Stage 3 - Race - Tour de Zwift (A) on BRAEk-fast Crits and Grits in Scotland",
+    "curve": [
+      664.2666666666667,
+      552.4333333333333,
+      474.35,
+      417.35,
+      325.63,
+      289.9266666666667,
+      268.69083333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17134685085,
+    "date": "2026-01-21",
+    "name": "Zwift - Race: Zwift Crit Racing Club - Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2056390692501979168.fit",
+    "display_name": "2026-01-21 - Zwift - Race: Zwift Crit Racing Club - Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+    "curve": [
+      915.4,
+      570.4333333333333,
+      461.03333333333336,
+      401.1666666666667,
+      319.3666666666667,
+      283.895,
+      270.2633333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17155993442,
+    "date": "2026-01-23",
+    "name": "Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2057816661817327632.fit",
+    "display_name": "2026-01-23 - Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire",
+    "curve": [
+      532.2,
+      483.7,
+      439.1166666666667,
+      377.01666666666665,
+      340.60333333333335,
+      299.5083333333333,
+      279.02
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17242078048,
+    "date": "2026-01-31",
+    "name": "Zwift - Race:  Stage 4 - Race - Tour de Zwift (A) on London 8 in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2063410925053952000.fit",
+    "display_name": "2026-01-31 - Zwift - Race:  Stage 4 - Race - Tour de Zwift (A) on London 8 in London",
+    "curve": [
+      571.4666666666667,
+      511.3333333333333,
+      403.96666666666664,
+      374.60833333333335,
+      342.18,
+      306.50666666666666,
+      279.5808333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17254982352,
+    "date": "2026-02-01",
+    "name": "Zwift - Group Ride: Long - Stage 4 - Tour de Zwift on Triple Loops in London",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2064188473862012944.fit",
+    "display_name": "2026-02-01 - Zwift - Group Ride: Long - Stage 4 - Tour de Zwift on Triple Loops in London",
+    "curve": [
+      788.0666666666667,
+      586.5,
+      420.7,
+      359.2583333333333,
+      325.41333333333336,
+      308.245,
+      278.7575
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17266151149,
+    "date": "2026-02-02",
+    "name": "Zwift - Race: Monday Mafia - Syrup Cup on Innsbruckring in Innsbruck",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2064982290731106320.fit",
+    "display_name": "2026-02-02 - Zwift - Race: Monday Mafia - Syrup Cup on Innsbruckring in Innsbruck",
+    "curve": [
+      910.2666666666667,
+      709.0,
+      510.18333333333334,
+      364.7,
+      316.2266666666667,
+      296.74833333333333,
+      258.895
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17312010080,
+    "date": "2026-02-06",
+    "name": "Zwift - Race:  Stage 5 - Race - Tour de Zwift (A) on Ocean Lava Cliffside Loop in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2067941040316235776.fit",
+    "display_name": "2026-02-06 - Zwift - Race:  Stage 5 - Race - Tour de Zwift (A) on Ocean Lava Cliffside Loop in Watopia",
+    "curve": [
+      894.8666666666667,
+      646.9666666666667,
+      450.76666666666665,
+      410.9583333333333,
+      332.7633333333333,
+      286.0883333333333,
+      270.20666666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17321235304,
+    "date": "2026-02-07",
+    "name": "Zwift - Group Ride: Standard - Stage 5 - Tour de Zwift on Glyph Heights in Watopia",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2068486117476302880.fit",
+    "display_name": "2026-02-07 - Zwift - Group Ride: Standard - Stage 5 - Tour de Zwift on Glyph Heights in Watopia",
+    "curve": [
+      521.8,
+      418.8333333333333,
+      385.43333333333334,
+      366.46666666666664,
+      316.4766666666667,
+      299.21166666666664,
+      290.3833333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17333003533,
+    "date": "2026-02-08",
+    "name": "Zwift - Race: Zwift Epic Race - Petit Boucle (B) on Petit Boucle in France",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2069170303803605024.fit",
+    "display_name": "2026-02-08 - Zwift - Race: Zwift Epic Race - Petit Boucle (B) on Petit Boucle in France",
+    "curve": [
+      814.3333333333334,
+      576.2,
+      433.75,
+      359.5833333333333,
+      328.75333333333333,
+      293.2583333333333,
+      279.01916666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17345904486,
+    "date": "2026-02-09",
+    "name": "Zwift - Race:  Stage 6 - Race - Tour de Zwift (A) on Richmond Rollercoaster in Richmond",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2070113460359790640.fit",
+    "display_name": "2026-02-09 - Zwift - Race:  Stage 6 - Race - Tour de Zwift (A) on Richmond Rollercoaster in Richmond",
+    "curve": [
+      822.9333333333333,
+      673.4333333333333,
+      468.53333333333336,
+      388.75,
+      310.92333333333335,
+      288.30833333333334,
+      261.18916666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17368349113,
+    "date": "2026-02-11",
+    "name": "Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2071498709887123456.fit",
+    "display_name": "2026-02-11 - Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
+    "curve": [
+      568.4666666666667,
+      517.2,
+      438.7,
+      415.35,
+      326.25333333333333,
+      311.005,
+      281.9741666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17399042317,
+    "date": "2026-02-14",
+    "name": "Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2073583866035060768.fit",
+    "display_name": "2026-02-14 - Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
+    "curve": [
+      813.9333333333333,
+      575.7333333333333,
+      418.3833333333333,
+      382.1666666666667,
+      327.21,
+      292.53833333333336,
+      275.64666666666665
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17409513024,
+    "date": "2026-02-15",
+    "name": "Zwift - Race: Zwift Crit Racing Club - The Bell Lap (B) on The Bell Lap in Crit City",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2074263860734328848.fit",
+    "display_name": "2026-02-15 - Zwift - Race: Zwift Crit Racing Club - The Bell Lap (B) on The Bell Lap in Crit City",
+    "curve": [
+      765.9333333333333,
+      532.3333333333334,
+      402.5833333333333,
+      362.4,
+      331.43333333333334,
+      283.505,
+      275.62083333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17457193373,
+    "date": "2026-02-19",
+    "name": "Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2077386323567575088.fit",
+    "display_name": "2026-02-19 - Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
+    "curve": [
+      619.0,
+      446.1666666666667,
+      401.1166666666667,
+      360.53333333333336,
+      340.35333333333335,
+      286.84,
+      280.6225
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17477385100,
+    "date": "2026-02-21",
+    "name": "Zwift - Race: Stage 1: Zwift Games: Kaze Kicker on Kaze Kicker in Makuri Islands",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2078721809137565744.fit",
+    "display_name": "2026-02-21 - Zwift - Race: Stage 1: Zwift Games: Kaze Kicker on Kaze Kicker in Makuri Islands",
+    "curve": [
+      684.7333333333333,
+      633.4333333333333,
+      503.1333333333333,
+      387.575,
+      325.8466666666667,
+      280.71166666666664,
+      263.6825
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17500017689,
+    "date": "2026-02-23",
+    "name": "Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A) on Hudson Hustle in New York",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2080192744193523760.fit",
+    "display_name": "2026-02-23 - Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A) on Hudson Hustle in New York",
+    "curve": [
+      753.1333333333333,
+      580.5666666666667,
+      450.68333333333334,
+      399.2583333333333,
+      332.66333333333336,
+      303.465,
+      280.1025
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17525697027,
+    "date": "2026-02-25",
+    "name": "Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2081731537828577280.fit",
+    "display_name": "2026-02-25 - Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A)",
+    "curve": [
+      772.7333333333333,
+      602.1333333333333,
+      449.28333333333336,
+      404.25,
+      340.46,
+      296.57166666666666,
+      257.1691666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17582589118,
+    "date": "2026-03-02",
+    "name": "Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2085304955333263408.fit",
+    "display_name": "2026-03-02 - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "curve": [
+      635.6666666666666,
+      523.8,
+      456.8666666666667,
+      403.175,
+      338.22,
+      313.05,
+      272.30083333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17607918018,
+    "date": "2026-03-04",
+    "name": "Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2086747620629282848.fit",
+    "display_name": "2026-03-04 - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "curve": [
+      579.0666666666667,
+      548.5,
+      434.1166666666667,
+      397.56666666666666,
+      322.24666666666667,
+      297.0883333333333,
+      267.36
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17629964561,
+    "date": "2026-03-06",
+    "name": "Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2088167721165422640.fit",
+    "display_name": "2026-03-06 - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "curve": [
+      560.0,
+      509.3,
+      465.48333333333335,
+      410.7083333333333,
+      323.77666666666664,
+      300.09,
+      275.0283333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17642717977,
+    "date": "2026-03-07",
+    "name": "Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2088960882540298288.fit",
+    "display_name": "2026-03-07 - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)",
+    "curve": [
+      640.1333333333333,
+      505.93333333333334,
+      429.1,
+      402.65,
+      326.87333333333333,
+      308.9583333333333,
+      250.4075
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17667130245,
+    "date": "2026-03-09",
+    "name": "Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2090378988080889888.fit",
+    "display_name": "2026-03-09 - Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)",
+    "curve": [
+      486.3333333333333,
+      446.3666666666667,
+      406.45,
+      383.95,
+      356.73,
+      314.16333333333336,
+      283.9191666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17712530172,
+    "date": "2026-03-13",
+    "name": "Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2093187750697107472.fit",
+    "display_name": "2026-03-13 - Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)",
+    "curve": [
+      507.2,
+      473.76666666666665,
+      411.68333333333334,
+      376.525,
+      363.8566666666667,
+      297.30833333333334,
+      269.985
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17723062477,
+    "date": "2026-03-14",
+    "name": "Zwift - Race: HISP Spring Classics Mini Milano San Remo Week 4 (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2093815706515669024.fit",
+    "display_name": "2026-03-14 - Zwift - Race: HISP Spring Classics Mini Milano San Remo Week 4 (A)",
+    "curve": [
+      677.0,
+      518.0,
+      473.96666666666664,
+      395.4583333333333,
+      329.62,
+      293.91833333333335,
+      270.5858333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17735464753,
+    "date": "2026-03-15",
+    "name": "Zwift - Race: Team Not Pogi - London - Watopia - Stage 5/5 (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2094541136222748688.fit",
+    "display_name": "2026-03-15 - Zwift - Race: Team Not Pogi - London - Watopia - Stage 5/5 (B)",
+    "curve": [
+      665.4,
+      548.3333333333334,
+      471.28333333333336,
+      421.44166666666666,
+      324.5833333333333,
+      297.4716666666667,
+      276.31
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17773672673,
+    "date": "2026-03-18",
+    "name": "Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2096870694959742992.fit",
+    "display_name": "2026-03-18 - Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)",
+    "curve": [
+      599.6,
+      542.3333333333334,
+      429.1,
+      390.43333333333334,
+      327.31,
+      290.905,
+      274.12
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17797073447,
+    "date": "2026-03-20",
+    "name": "Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2098320744931950608.fit",
+    "display_name": "2026-03-20 - Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)",
+    "curve": [
+      662.2666666666667,
+      534.2333333333333,
+      444.06666666666666,
+      410.48333333333335,
+      323.72,
+      311.4266666666667,
+      286.7191666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17821221471,
+    "date": "2026-03-22",
+    "name": "Zwift - Race: Rhino Crash Chase Race (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2099661494370189328.fit",
+    "display_name": "2026-03-22 - Zwift - Race: Rhino Crash Chase Race (B)",
+    "curve": [
+      510.73333333333335,
+      443.8666666666667,
+      388.93333333333334,
+      359.46666666666664,
+      324.45666666666665,
+      314.6066666666667,
+      304.80333333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17834531886,
+    "date": "2026-03-23",
+    "name": "Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2100495367605846032.fit",
+    "display_name": "2026-03-23 - Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness",
+    "curve": [
+      643.0,
+      515.9666666666667,
+      464.6166666666667,
+      432.80833333333334,
+      303.16,
+      280.7,
+      262.0225
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17892931026,
+    "date": "2026-03-28",
+    "name": "Zwift - Race: EVR Winter Series (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2103986809485672464.fit",
+    "display_name": "2026-03-28 - Zwift - Race: EVR Winter Series (A)",
+    "curve": [
+      557.0666666666667,
+      549.2666666666667,
+      444.43333333333334,
+      393.7916666666667,
+      337.8066666666667,
+      297.87166666666667,
+      286.1641666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17905953791,
+    "date": "2026-03-29",
+    "name": "Zwift - Race: Rhino Crash Chase Race (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2104733262956986384.fit",
+    "display_name": "2026-03-29 - Zwift - Race: Rhino Crash Chase Race (B)",
+    "curve": [
+      900.4,
+      681.3333333333334,
+      479.3833333333333,
+      372.51666666666665,
+      324.73333333333335,
+      284.6333333333333,
+      280.3566666666667
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17918311199,
+    "date": "2026-03-30",
+    "name": "Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2105532594924814336.fit",
+    "display_name": "2026-03-30 - Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness",
+    "curve": [
+      472.8666666666667,
+      410.2,
+      396.1,
+      392.8,
+      361.88666666666666,
+      330.585,
+      283.15833333333336
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17943417099,
+    "date": "2026-04-01",
+    "name": "Zwift - Race: Restart Esports - Wednesday Worlds (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2106951708969009184.fit",
+    "display_name": "2026-04-01 - Zwift - Race: Restart Esports - Wednesday Worlds (A)",
+    "curve": [
+      576.8,
+      500.5,
+      422.5833333333333,
+      395.15,
+      326.9433333333333,
+      318.835,
+      288.8975
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 17957004342,
+    "date": "2026-04-02",
+    "name": "Zwift - Race: Fell Swoop Speed Series (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2107811674558840848.fit",
+    "display_name": "2026-04-02 - Zwift - Race: Fell Swoop Speed Series (B)",
+    "curve": [
+      744.7333333333333,
+      567.1333333333333,
+      477.8666666666667,
+      432.56666666666666,
+      314.88666666666666,
+      270.365,
+      261.925
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18046821328,
+    "date": "2026-04-09",
+    "name": "Zwift - Group Ride: Stage 4 - The Zwift Big Spin",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2112769041474027552.fit",
+    "display_name": "2026-04-09 - Zwift - Group Ride: Stage 4 - The Zwift Big Spin",
+    "curve": [
+      816.8666666666667,
+      625.7,
+      438.6166666666667,
+      349.48333333333335,
+      307.45666666666665,
+      288.185,
+      271.465
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18060204085,
+    "date": "2026-04-10",
+    "name": "Zwift - Race: No Rulez Racing presented by RiZZRL: Race #4 - The Loch Loop Throwdown",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2113570228959969312.fit",
+    "display_name": "2026-04-10 - Zwift - Race: No Rulez Racing presented by RiZZRL: Race #4 - The Loch Loop Throwdown",
+    "curve": [
+      601.0666666666667,
+      535.5,
+      472.3,
+      415.9166666666667,
+      340.27666666666664,
+      295.505,
+      284.3825
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18097269008,
+    "date": "2026-04-13",
+    "name": "Zwift - Race: Stage 2: Pas Racing: Handful of Gravel (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2115680306244616208.fit",
+    "display_name": "2026-04-13 - Zwift - Race: Stage 2: Pas Racing: Handful of Gravel (A)",
+    "curve": [
+      763.4,
+      481.96666666666664,
+      411.0833333333333,
+      368.825,
+      353.04,
+      291.43833333333333,
+      276.22
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18112462335,
+    "date": "2026-04-14",
+    "name": "Zwift - Race: Stage 2: Pas Racing: Handful of Gravel (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2116468567347068944.fit",
+    "display_name": "2026-04-14 - Zwift - Race: Stage 2: Pas Racing: Handful of Gravel (A)",
+    "curve": [
+      707.2666666666667,
+      498.8333333333333,
+      385.43333333333334,
+      375.7,
+      340.1666666666667,
+      305.7033333333333,
+      283.12083333333334
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18139040989,
+    "date": "2026-04-16",
+    "name": "Zwift - Race: KRG Thursday Night Crit  (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2117889069169000480.fit",
+    "display_name": "2026-04-16 - Zwift - Race: KRG Thursday Night Crit  (B)",
+    "curve": [
+      610.7333333333333,
+      588.3,
+      518.2666666666667,
+      406.1166666666667,
+      310.13666666666666,
+      301.7266666666667,
+      265.3275
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18177548881,
+    "date": "2026-04-19",
+    "name": "Zwift - Group Ride: Stage 2 - The Zwift Big Spin",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2119984106602266624.fit",
+    "display_name": "2026-04-19 - Zwift - Group Ride: Stage 2 - The Zwift Big Spin",
+    "curve": [
+      613.2666666666667,
+      526.8333333333334,
+      401.15,
+      398.34166666666664,
+      357.12,
+      306.0566666666667,
+      291.5225
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18191876989,
+    "date": "2026-04-20",
+    "name": "Zwift - Race: Stage 3: Pas Racing: Yumezi Grit (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2120850975169216560.fit",
+    "display_name": "2026-04-20 - Zwift - Race: Stage 3: Pas Racing: Yumezi Grit (A)",
+    "curve": [
+      611.0,
+      518.1333333333333,
+      404.46666666666664,
+      388.875,
+      334.17333333333335,
+      306.8983333333333,
+      292.9483333333333
+    ],
+    "source": "cache"
+  },
+  {
+    "activity_id": 18205857049,
+    "date": "2026-04-21",
+    "name": "Zwift - Race: Stage 3: Pas Racing: Yumezi Grit (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2121544370057396240.fit",
+    "display_name": "2026-04-21 - Zwift - Race: Stage 3: Pas Racing: Yumezi Grit (A)",
+    "curve": [
+      544.5333333333333,
+      506.26666666666665,
+      404.35,
+      376.7,
+      349.37333333333333,
+      310.415,
+      297.2575
+    ],
+    "source": "cache"
+  }
+]
