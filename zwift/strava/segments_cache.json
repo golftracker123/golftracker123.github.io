@@ -371,6 +371,95 @@
           "heart_rate": "-"
         }
       ]
+    },
+    "https://www.strava.com/segments/8010711": {
+      "name": "Spit to Gravel South",
+      "url": "https://www.strava.com/segments/8010711",
+      "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
+      "updated_at": "2026-04-22T22:45:29",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Tuesday, September 14, 2021",
+          "time": "7:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "159 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "Thien Luyt",
+          "date": "Thursday, June 23, 2022",
+          "time": "8:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "3",
+          "name": "Max Nie",
+          "date": "Tuesday, July 4, 2023",
+          "time": "9:27",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm"
+        },
+        {
+          "rank": "4",
+          "name": "Chris Cremer",
+          "date": "Sunday, August 4, 2024",
+          "time": "9:35",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "5",
+          "name": "James Sinclair",
+          "date": "Friday, April 2, 2021",
+          "time": "10:15",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "6",
+          "name": "Matthew Bianca",
+          "date": "Thursday, May 15, 2025",
+          "time": "10:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "123 bpm"
+        },
+        {
+          "rank": "7",
+          "name": "koulie athens-hunsberger",
+          "date": "Sunday, April 12, 2026",
+          "time": "10:45",
+          "speed": "-",
+          "power": "137 W",
+          "heart_rate": "136 bpm"
+        },
+        {
+          "rank": "8",
+          "name": "Heidi M",
+          "date": "Sunday, May 26, 2024",
+          "time": "11:14",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "9",
+          "name": "Selva Yoga",
+          "date": "Sunday, June 23, 2019",
+          "time": "35:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "86 bpm"
+        }
+      ]
     }
   }
 }

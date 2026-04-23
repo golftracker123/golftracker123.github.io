@@ -53,6 +53,15 @@
         "Jeff is a Banana",
         "Chris Cremer"
       ]
+    },
+    {
+      "name": "Spit to Gravel South",
+      "url": "https://www.strava.com/segments/8010711",
+      "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
     }
   ]
 }
