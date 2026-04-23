@@ -33,6 +33,25 @@
       background: #10151d;
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
     }
+    .segment-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      align-items: start;
+    }
+    .segment-column-full {
+      grid-column: 1 / -1;
+    }
+    .column-title {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+    .column-title.title-fast {
+      color: #4ade80;
+    }
+    .column-title.title-slow {
+      color: #f87171;
+    }
     .segment-head {
       display: flex;
       align-items: baseline;
@@ -81,7 +100,7 @@
       border-bottom: 1px solid #243042;
       text-align: left;
       white-space: nowrap;
-      font-size: 13px;
+      font-size: 20px;
     }
     .mini-table thead th {
       background: #0f1726;
@@ -110,12 +129,20 @@
     .muted {
       color: #6f7c91;
     }
+    @media (max-width: 760px) {
+      .segment-grid {
+        grid-template-columns: 1fr;
+      }
+      .segment-column-full {
+        grid-column: auto;
+      }
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
     <h1>Segments</h1>
-    <section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Beechwood Drive</h2><a href='https://www.strava.com/segments/806459' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:21</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:26</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Redway (Official)</h2><a href='https://www.strava.com/segments/17322995' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:06</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:23</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Thorncliffe Park Drive climb</h2><a href='https://www.strava.com/segments/7394805' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>49s</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>53s</td><td class='numeric'>2</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Sunnybrook to hospital</h2><a href='https://www.strava.com/segments/740423' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:20</td><td class='numeric'>2</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:27</td><td class='numeric'>3</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Crestwood Hill - post parking lot climb only</h2><a href='https://www.strava.com/segments/1150663' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th><th class='numeric'>Rank</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:16</td><td class='numeric'>1</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:28</td><td class='numeric'>3</td></tr></tbody></table></section>
+    <div class='segment-grid'><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Redway (Official)</h2><a href='https://www.strava.com/segments/17322995' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:06</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:23</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Thorncliffe Park Drive climb</h2><a href='https://www.strava.com/segments/7394805' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>49s</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>53s</td></tr></tbody></table></section></div><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Beechwood Drive</h2><a href='https://www.strava.com/segments/806459' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:21</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:26</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Sunnybrook to hospital</h2><a href='https://www.strava.com/segments/740423' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:20</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:27</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Crestwood Hill - post parking lot climb only</h2><a href='https://www.strava.com/segments/1150663' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:16</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:28</td></tr></tbody></table></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Bridal Path Crazy 8</h2><a href='https://www.strava.com/segments/7313636' target='_blank' rel='noreferrer'>Open Strava</a></div><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>6:31</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>6:45</td></tr></tbody></table></section></div></div>
   </div>
 </body>
 </html>

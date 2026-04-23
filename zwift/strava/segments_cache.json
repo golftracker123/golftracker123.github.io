@@ -4,7 +4,7 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-04-22T18:42:51",
+      "updated_at": "2026-04-22T22:36:16",
       "rows": [
         {
           "rank": "1",
@@ -66,7 +66,7 @@
       "name": "Redway (Official)",
       "url": "https://www.strava.com/segments/17322995",
       "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
-      "updated_at": "2026-04-22T18:42:56",
+      "updated_at": "2026-04-22T22:36:21",
       "rows": [
         {
           "rank": "1",
@@ -110,7 +110,7 @@
       "name": "Thorncliffe Park Drive climb",
       "url": "https://www.strava.com/segments/7394805",
       "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
-      "updated_at": "2026-04-22T18:43:01",
+      "updated_at": "2026-04-22T22:36:27",
       "rows": [
         {
           "rank": "1",
@@ -199,7 +199,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-04-22T18:43:06",
+      "updated_at": "2026-04-22T22:36:32",
       "rows": [
         {
           "rank": "1",
@@ -261,7 +261,7 @@
       "name": "Crestwood Hill - post parking lot climb only",
       "url": "https://www.strava.com/segments/1150663",
       "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
-      "updated_at": "2026-04-22T18:43:12",
+      "updated_at": "2026-04-22T22:36:37",
       "rows": [
         {
           "rank": "1",
@@ -331,6 +331,41 @@
           "name": "Ahmad Shah",
           "date": "Saturday, July 31, 2021",
           "time": "5:06",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        }
+      ]
+    },
+    "https://www.strava.com/segments/7313636": {
+      "name": "Bridal Path Crazy 8",
+      "url": "https://www.strava.com/segments/7313636",
+      "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
+      "updated_at": "2026-04-22T22:38:19",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Thursday, August 22, 2024",
+          "time": "6:31",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "161 bpm"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Monday, September 1, 2025",
+          "time": "6:45",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-"
+        },
+        {
+          "rank": "3",
+          "name": "Heidi M",
+          "date": "Saturday, July 19, 2025",
+          "time": "9:43",
           "speed": "-",
           "power": "-",
           "heart_rate": "-"
