@@ -4,25 +4,25 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-04-22T22:36:16",
+      "updated_at": "2026-04-23T20:32:49",
       "rows": [
         {
           "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Thursday, April 23, 2026",
+          "time": "1:13",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "174 bpm"
+        },
+        {
+          "rank": "2",
           "name": "Jeff is a Banana",
           "date": "Friday, July 27, 2018",
           "time": "1:21",
           "speed": "-",
           "power": "-",
           "heart_rate": "-"
-        },
-        {
-          "rank": "2",
-          "name": "Chris Cremer",
-          "date": "Saturday, April 18, 2026",
-          "time": "1:26",
-          "speed": "-",
-          "power": "415 W",
-          "heart_rate": "172 bpm"
         },
         {
           "rank": "3",
@@ -66,7 +66,7 @@
       "name": "Redway (Official)",
       "url": "https://www.strava.com/segments/17322995",
       "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
-      "updated_at": "2026-04-22T22:36:21",
+      "updated_at": "2026-04-23T20:32:54",
       "rows": [
         {
           "rank": "1",
@@ -110,7 +110,7 @@
       "name": "Thorncliffe Park Drive climb",
       "url": "https://www.strava.com/segments/7394805",
       "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
-      "updated_at": "2026-04-22T22:36:27",
+      "updated_at": "2026-04-23T20:32:59",
       "rows": [
         {
           "rank": "1",
@@ -199,7 +199,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-04-22T22:36:32",
+      "updated_at": "2026-04-23T20:33:04",
       "rows": [
         {
           "rank": "1",
@@ -261,7 +261,7 @@
       "name": "Crestwood Hill - post parking lot climb only",
       "url": "https://www.strava.com/segments/1150663",
       "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
-      "updated_at": "2026-04-22T22:36:37",
+      "updated_at": "2026-04-23T20:33:09",
       "rows": [
         {
           "rank": "1",
@@ -341,7 +341,7 @@
       "name": "Bridal Path Crazy 8",
       "url": "https://www.strava.com/segments/7313636",
       "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
-      "updated_at": "2026-04-22T22:38:19",
+      "updated_at": "2026-04-23T20:33:14",
       "rows": [
         {
           "rank": "1",
@@ -376,7 +376,7 @@
       "name": "Spit to Gravel South",
       "url": "https://www.strava.com/segments/8010711",
       "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
-      "updated_at": "2026-04-22T22:45:29",
+      "updated_at": "2026-04-23T20:33:19",
       "rows": [
         {
           "rank": "1",
