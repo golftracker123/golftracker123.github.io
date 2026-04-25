@@ -3346,5 +3346,23 @@
       297.2575
     ],
     "source": "cache"
+  },
+  {
+    "activity_id": 18245911625,
+    "date": "2026-04-24",
+    "name": "Zwift - Race: Zwift Epic Race - Out and Back Again (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2123699010203058224.fit",
+    "display_name": "2026-04-24 - Zwift - Race: Zwift Epic Race - Out and Back Again (A)",
+    "curve": [
+      513.4666666666667,
+      466.76666666666665,
+      403.1166666666667,
+      365.675,
+      314.0966666666667,
+      302.17,
+      280.9316666666667
+    ],
+    "source": "cache"
   }
 ]
