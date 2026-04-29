@@ -171,7 +171,7 @@
         <div class="carbs">
           <span class="result-label">Carbs at 75 g/hour</span>
           <span id="carbsResult">-</span>
-          <span class="spoons" id="spoonsResult">1 spoon = 27 g</span>
+          <span class="spoons" id="spoonsResult">2 spoons = 27 g</span>
         </div>
       </div>
       <div class="formula">
@@ -231,12 +231,12 @@
       result.textContent = formatDuration(minutes);
       if (Number.isFinite(minutes) && minutes >= 0) {
         const carbs = Math.round((minutes / 60) * 75);
-        const spoons = carbs / 27;
+        const spoons = (carbs / 27) * 2;
         carbsResult.textContent = `${carbs} g`;
-        spoonsResult.textContent = `1 spoon = 27 g, so ${spoons.toFixed(1)} spoons`;
+        spoonsResult.textContent = `2 spoons = 27 g, so ${spoons.toFixed(1)} spoons`;
       } else {
         carbsResult.textContent = "-";
-        spoonsResult.textContent = "1 spoon = 27 g";
+        spoonsResult.textContent = "2 spoons = 27 g";
       }
     }
 
