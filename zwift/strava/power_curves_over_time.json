@@ -3382,5 +3382,23 @@
       261.3575
     ],
     "source": "cache"
+  },
+  {
+    "activity_id": 18324422144,
+    "date": "2026-04-30",
+    "name": "Zwift - Race: Stage 4: Pas Racing: Serpentine 8 (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2127976967046184976.fit",
+    "display_name": "2026-04-30 - Zwift - Race: Stage 4: Pas Racing: Serpentine 8 (A)",
+    "curve": [
+      765.0666666666667,
+      594.1,
+      444.96666666666664,
+      367.25,
+      344.21666666666664,
+      293.7133333333333,
+      266.3208333333333
+    ],
+    "source": "cache"
   }
 ]
