@@ -3400,5 +3400,23 @@
       266.3208333333333
     ],
     "source": "cache"
+  },
+  {
+    "activity_id": 18340203598,
+    "date": "2026-05-01",
+    "name": "Zwift - Race: No Rulez Racing presented by RiZZRL: Race #5 - Tropic Rush Chase!",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2128800615172685872.fit",
+    "display_name": "2026-05-01 - Zwift - Race: No Rulez Racing presented by RiZZRL: Race #5 - Tropic Rush Chase!",
+    "curve": [
+      623.7333333333333,
+      451.46666666666664,
+      410.65,
+      376.775,
+      337.38666666666666,
+      329.305,
+      272.90166666666664
+    ],
+    "source": "cache"
   }
 ]
