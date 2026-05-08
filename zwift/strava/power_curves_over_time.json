@@ -3436,5 +3436,23 @@
       285.4683333333333
     ],
     "source": "cache"
+  },
+  {
+    "activity_id": 18430480690,
+    "date": "2026-05-08",
+    "name": "Zwift - Race: Stage 1: Four by Four: Rolling Highlands | Advanced (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2133777166817574960.fit",
+    "display_name": "2026-05-08 - Zwift - Race: Stage 1: Four by Four: Rolling Highlands | Advanced (A)",
+    "curve": [
+      739.3333333333334,
+      684.7,
+      501.6166666666667,
+      373.8666666666667,
+      348.5233333333333,
+      321.56,
+      282.9375
+    ],
+    "source": "cache"
   }
 ]
