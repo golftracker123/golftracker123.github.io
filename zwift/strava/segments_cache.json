@@ -4,7 +4,7 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-05-02T16:35:48",
+      "updated_at": "2026-05-10T18:57:09",
       "rows": [
         {
           "rank": "1",
@@ -152,7 +152,7 @@
       "name": "Redway (Official)",
       "url": "https://www.strava.com/segments/17322995",
       "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
-      "updated_at": "2026-05-02T16:35:52",
+      "updated_at": "2026-05-10T18:57:13",
       "rows": [
         {
           "rank": "1",
@@ -256,8 +256,258 @@
       "name": "Thorncliffe Park Drive climb",
       "url": "https://www.strava.com/segments/7394805",
       "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
-      "updated_at": "2026-05-02T16:35:57",
+      "updated_at": "2026-05-10T18:57:17",
       "rows": [
+        {
+          "rank": "1",
+          "name": "Jeremy Hatt",
+          "date": "Thursday, September 10, 2015",
+          "time": "33s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "145 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "1",
+          "name": "Mike E",
+          "date": "Saturday, August 8, 2015",
+          "time": "33s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "3",
+          "name": "Ross Neilson",
+          "date": "Saturday, October 5, 2024",
+          "time": "35s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "4",
+          "name": "Mitch Kellar | \u00c9TAPE 22",
+          "date": "Tuesday, August 23, 2022",
+          "time": "36s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "4",
+          "name": "Tom Zielinski",
+          "date": "Monday, July 3, 2023",
+          "time": "36s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "91 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Adam Smith",
+          "date": "Saturday, May 27, 2023",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Daniel Yang // BEACHES CC // WINSPACE // SPN",
+          "date": "Sunday, September 1, 2024",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Filip Funk",
+          "date": "Saturday, July 15, 2017",
+          "time": "37s",
+          "speed": "-",
+          "power": "593 W",
+          "heart_rate": "185 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Tim Marshall",
+          "date": "Saturday, July 26, 2014",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "156 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "10",
+          "name": "Giuseppe Franz\u00e9",
+          "date": "Thursday, May 9, 2024",
+          "time": "38s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "10",
+          "name": "Jim Sears | Bateman's Bike Co",
+          "date": "Saturday, September 17, 2022",
+          "time": "38s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "12",
+          "name": "Nick Boers",
+          "date": "Thursday, June 21, 2012",
+          "time": "39s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Betto Alarcon",
+          "date": "Sunday, June 29, 2025",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Dj a",
+          "date": "Sunday, May 16, 2021",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Ethan Cameron",
+          "date": "Monday, July 14, 2025",
+          "time": "40s",
+          "speed": "-",
+          "power": "885 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Noah Ramsay",
+          "date": "Thursday, October 19, 2023",
+          "time": "40s",
+          "speed": "-",
+          "power": "641 W",
+          "heart_rate": "181 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Paul McKeever",
+          "date": "Monday, October 13, 2014",
+          "time": "40s",
+          "speed": "-",
+          "power": "641 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Ron Migs",
+          "date": "Saturday, September 4, 2021",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Atkinns To",
+          "date": "Tuesday, September 19, 2017",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "168 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Eddie Gardner",
+          "date": "Wednesday, July 14, 2021",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Francis Rubio",
+          "date": "Saturday, August 23, 2025",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Luca Fanelli",
+          "date": "Friday, August 30, 2024",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Michael Kelusky",
+          "date": "Saturday, June 3, 2023",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "109 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Peter Roche",
+          "date": "Wednesday, October 4, 2023",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "72 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Renfel Solinap",
+          "date": "Saturday, August 23, 2025",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
         {
           "rank": "1",
           "name": "Chris Cremer",
@@ -356,6 +606,18 @@
       "elevation_high_m": 118.0,
       "elevation_difference_m": 25.0,
       "time_history": {
+        "adam smith": [
+          {
+            "rank": "6",
+            "name": "Adam Smith",
+            "date": "Saturday, May 27, 2023",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
         "ahmad shah": [
           {
             "rank": "9",
@@ -366,6 +628,30 @@
             "power": "-",
             "heart_rate": "-",
             "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "atkinns to": [
+          {
+            "rank": "19",
+            "name": "Atkinns To",
+            "date": "Tuesday, September 19, 2017",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "168 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "betto alarcon": [
+          {
+            "rank": "13",
+            "name": "Betto Alarcon",
+            "date": "Sunday, June 29, 2025",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
           }
         ],
         "chris cremer": [
@@ -392,6 +678,18 @@
             "cached_at": "2026-04-24T17:14:48"
           }
         ],
+        "daniel yang // beaches cc // winspace // spn": [
+          {
+            "rank": "6",
+            "name": "Daniel Yang // BEACHES CC // WINSPACE // SPN",
+            "date": "Sunday, September 1, 2024",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
         "david platt": [
           {
             "rank": "4",
@@ -402,6 +700,78 @@
             "power": "-",
             "heart_rate": "188 bpm",
             "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "dj a": [
+          {
+            "rank": "13",
+            "name": "Dj a",
+            "date": "Sunday, May 16, 2021",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "eddie gardner": [
+          {
+            "rank": "19",
+            "name": "Eddie Gardner",
+            "date": "Wednesday, July 14, 2021",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ethan cameron": [
+          {
+            "rank": "13",
+            "name": "Ethan Cameron",
+            "date": "Monday, July 14, 2025",
+            "time": "40s",
+            "speed": "-",
+            "power": "885 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "filip funk": [
+          {
+            "rank": "6",
+            "name": "Filip Funk",
+            "date": "Saturday, July 15, 2017",
+            "time": "37s",
+            "speed": "-",
+            "power": "593 W",
+            "heart_rate": "185 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "francis rubio": [
+          {
+            "rank": "19",
+            "name": "Francis Rubio",
+            "date": "Saturday, August 23, 2025",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "giuseppe franz\u00e9": [
+          {
+            "rank": "10",
+            "name": "Giuseppe Franz\u00e9",
+            "date": "Thursday, May 9, 2024",
+            "time": "38s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
           }
         ],
         "heidi m": [
@@ -428,6 +798,30 @@
             "cached_at": "2026-04-24T17:14:48"
           }
         ],
+        "jeremy hatt": [
+          {
+            "rank": "1",
+            "name": "Jeremy Hatt",
+            "date": "Thursday, September 10, 2015",
+            "time": "33s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "145 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "jim sears | bateman's bike co": [
+          {
+            "rank": "10",
+            "name": "Jim Sears | Bateman's Bike Co",
+            "date": "Saturday, September 17, 2022",
+            "time": "38s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
         "lauren deel": [
           {
             "rank": "5",
@@ -438,6 +832,138 @@
             "power": "-",
             "heart_rate": "175 bpm",
             "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "luca fanelli": [
+          {
+            "rank": "19",
+            "name": "Luca Fanelli",
+            "date": "Friday, August 30, 2024",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "michael kelusky": [
+          {
+            "rank": "19",
+            "name": "Michael Kelusky",
+            "date": "Saturday, June 3, 2023",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "109 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "mike e": [
+          {
+            "rank": "1",
+            "name": "Mike E",
+            "date": "Saturday, August 8, 2015",
+            "time": "33s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "mitch kellar | \u00e9tape 22": [
+          {
+            "rank": "4",
+            "name": "Mitch Kellar | \u00c9TAPE 22",
+            "date": "Tuesday, August 23, 2022",
+            "time": "36s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "nick boers": [
+          {
+            "rank": "12",
+            "name": "Nick Boers",
+            "date": "Thursday, June 21, 2012",
+            "time": "39s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "noah ramsay": [
+          {
+            "rank": "13",
+            "name": "Noah Ramsay",
+            "date": "Thursday, October 19, 2023",
+            "time": "40s",
+            "speed": "-",
+            "power": "641 W",
+            "heart_rate": "181 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "paul mckeever": [
+          {
+            "rank": "13",
+            "name": "Paul McKeever",
+            "date": "Monday, October 13, 2014",
+            "time": "40s",
+            "speed": "-",
+            "power": "641 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "peter roche": [
+          {
+            "rank": "19",
+            "name": "Peter Roche",
+            "date": "Wednesday, October 4, 2023",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "72 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "renfel solinap": [
+          {
+            "rank": "19",
+            "name": "Renfel Solinap",
+            "date": "Saturday, August 23, 2025",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ron migs": [
+          {
+            "rank": "13",
+            "name": "Ron Migs",
+            "date": "Saturday, September 4, 2021",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ross neilson": [
+          {
+            "rank": "3",
+            "name": "Ross Neilson",
+            "date": "Saturday, October 5, 2024",
+            "time": "35s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
           }
         ],
         "selva yoga": [
@@ -463,6 +989,30 @@
             "heart_rate": "-",
             "cached_at": "2026-04-24T17:14:48"
           }
+        ],
+        "tim marshall": [
+          {
+            "rank": "6",
+            "name": "Tim Marshall",
+            "date": "Saturday, July 26, 2014",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "156 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "tom zielinski": [
+          {
+            "rank": "4",
+            "name": "Tom Zielinski",
+            "date": "Monday, July 3, 2023",
+            "time": "36s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "91 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
         ]
       }
     },
@@ -470,7 +1020,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-05-02T16:36:01",
+      "updated_at": "2026-05-10T18:57:21",
       "rows": [
         {
           "rank": "1",
@@ -484,6 +1034,16 @@
         },
         {
           "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Sunday, May 10, 2026",
+          "time": "1:11",
+          "speed": "-",
+          "power": "490 W",
+          "heart_rate": "176 bpm",
+          "cached_at": "2026-05-10T18:57:21"
+        },
+        {
+          "rank": "2",
           "name": "Jeff is a Banana",
           "date": "Friday, July 3, 2020",
           "time": "1:20",
@@ -491,16 +1051,6 @@
           "power": "-",
           "heart_rate": "161 bpm",
           "cached_at": "2026-04-24T17:14:56"
-        },
-        {
-          "rank": "3",
-          "name": "Chris Cremer",
-          "date": "Saturday, May 2, 2026",
-          "time": "1:25",
-          "speed": "-",
-          "power": "404 W",
-          "heart_rate": "167 bpm",
-          "cached_at": "2026-05-02T16:21:07"
         },
         {
           "rank": "4",
@@ -560,6 +1110,16 @@
             "power": "404 W",
             "heart_rate": "167 bpm",
             "cached_at": "2026-05-02T16:21:07"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Sunday, May 10, 2026",
+            "time": "1:11",
+            "speed": "-",
+            "power": "490 W",
+            "heart_rate": "176 bpm",
+            "cached_at": "2026-05-10T18:57:21"
           }
         ],
         "david platt": [
@@ -628,7 +1188,7 @@
       "name": "Crestwood Hill - post parking lot climb only",
       "url": "https://www.strava.com/segments/1150663",
       "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
-      "updated_at": "2026-05-02T16:36:05",
+      "updated_at": "2026-05-10T18:57:26",
       "rows": [
         {
           "rank": "1",
@@ -820,7 +1380,7 @@
       "name": "Bridal Path Crazy 8",
       "url": "https://www.strava.com/segments/7313636",
       "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
-      "updated_at": "2026-05-02T16:21:15",
+      "updated_at": "2026-05-10T18:56:56",
       "rows": [
         {
           "rank": "1",
@@ -902,7 +1462,7 @@
       "name": "Spit to Gravel South",
       "url": "https://www.strava.com/segments/8010711",
       "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
-      "updated_at": "2026-05-02T16:35:40",
+      "updated_at": "2026-05-10T18:57:01",
       "rows": [
         {
           "rank": "1",
@@ -1116,7 +1676,7 @@
       "name": "Bayview Avenue: Pottery Road to Nesbitt Drive",
       "url": "https://www.strava.com/segments/15637575",
       "compare_url": "https://www.strava.com/segments/15637575/compare/MzQ4MDY0NDQ3NzU4ODYxMzE0MiwyODI1MTQ0OTQwNjM1NDU0Njk0",
-      "updated_at": "2026-05-02T16:35:44",
+      "updated_at": "2026-05-10T18:57:05",
       "rows": [
         {
           "rank": "1",
