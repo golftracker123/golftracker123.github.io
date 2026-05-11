@@ -87,6 +87,21 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .muted { color: var(--muted); }
+    .activity-extra { display: none; }
+    .activity-list.expanded .activity-extra { display: list-item; }
+    .view-more-button {
+      appearance: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(94, 161, 255, 0.12);
+      color: var(--text);
+      cursor: pointer;
+      font: inherit;
+      font-weight: 800;
+      margin-top: 12px;
+      padding: 9px 14px;
+    }
+    .view-more-button:hover { border-color: var(--accent); background: rgba(94, 161, 255, 0.18); }
   </style>
 </head>
 <body>
@@ -102,7 +117,7 @@
 <a class="summary-link" href="strava/zwift_table.html">Zwift Table</a>
 <a class="summary-link" href="strava/race_time_estimator.html">Race Time Estimator</a>
         </div>
-        <ul>
+        <ul class='activity-list' id='zwiftActivityList'>
 <li>2026-05-09 - <a href="strava/htmls/activity_18444341215_distance_plot.html">activity page</a></li>
 <li>2026-05-08 - <a href="strava/htmls/activity_18430480690_distance_plot.html">activity page</a> - <a href="vids/20260508_180853.mp4">video</a> (0:39)</li>
 <li>2026-05-07 - <a href="strava/htmls/activity_18420316954_distance_plot.html">activity page</a></li>
@@ -133,34 +148,35 @@
 <li>2026-03-09 - <a href="strava/htmls/activity_17667130245_distance_plot.html">activity page</a> - <a href="vids/20260309_211349.mp4">video</a> (1:00)</li>
 <li>2026-03-07 - <a href="strava/htmls/activity_17642717977_distance_plot.html">activity page</a> - <a href="vids/20260307_211106.mp4">video</a> (1:00) — 189 HR</li>
 <li>2026-03-06 - <a href="strava/htmls/activity_17629964561_distance_plot.html">activity page</a> - <a href="vids/20260306_190718.mp4">video</a> (1:00)</li>
-<li>2026-03-04 - <a href="strava/htmls/activity_17607918018_distance_plot.html">activity page</a> - <a href="vids/20260304_201837.mp4">video</a> (2:25) — 1st</li>
-<li>2026-03-02 - <a href="strava/htmls/activity_17582589118_distance_plot.html">activity page</a> - <a href="vids/20260302_201916.mp4">video</a> (4:00) — Dropped on second last hill</li>
-<li>2026-02-25 - <a href="strava/htmls/activity_17525697027_distance_plot.html">activity page</a> - <a href="vids/20260225_223828.mp4">video</a> (0:29)</li>
-<li>2026-02-23 - <a href="strava/htmls/activity_17500017689_distance_plot.html">activity page</a></li>
-<li>2026-02-21 - <a href="strava/htmls/activity_17477385100_distance_plot.html">activity page</a></li>
-<li>2026-02-19 - <a href="strava/htmls/activity_17457193373_distance_plot.html">activity page</a></li>
-<li>2026-02-15 - <a href="strava/htmls/activity_17409513024_distance_plot.html">activity page</a></li>
-<li>2026-02-14 - <a href="strava/htmls/activity_17399042317_distance_plot.html">activity page</a></li>
-<li>2026-02-11 - <a href="strava/htmls/activity_17368349113_distance_plot.html">activity page</a></li>
-<li>2026-02-09 - <a href="strava/htmls/activity_17345904486_distance_plot.html">activity page</a></li>
-<li>2026-02-08 - <a href="strava/htmls/activity_17333003533_distance_plot.html">activity page</a></li>
-<li>2026-02-07 - <a href="strava/htmls/activity_17321235304_distance_plot.html">activity page</a></li>
-<li>2026-02-06 - <a href="strava/htmls/activity_17312010080_distance_plot.html">activity page</a></li>
-<li>2026-02-02 - <a href="strava/htmls/activity_17266151149_distance_plot.html">activity page</a></li>
-<li>2026-02-01 - <a href="strava/htmls/activity_17254982352_distance_plot.html">activity page</a></li>
-<li>2026-01-31 - <a href="strava/htmls/activity_17242078048_distance_plot.html">activity page</a></li>
-<li>2026-01-23 - <a href="strava/htmls/activity_17155993442_distance_plot.html">activity page</a></li>
-<li>2026-01-21 - <a href="strava/htmls/activity_17134685085_distance_plot.html">activity page</a></li>
-<li>2026-01-19 - <a href="strava/htmls/activity_17110667238_distance_plot.html">activity page</a></li>
-<li>2026-01-17 - <a href="strava/htmls/activity_17085176372_distance_plot.html">activity page</a></li>
-<li>2026-01-14 - <a href="strava/htmls/activity_17054096679_distance_plot.html">activity page</a></li>
-<li>2026-01-12 - <a href="strava/htmls/activity_17029725581_distance_plot.html">activity page</a></li>
-<li>2026-01-08 - <a href="strava/htmls/activity_16984843330_distance_plot.html">activity page</a></li>
-<li>2026-01-06 - <a href="strava/htmls/activity_16962847748_distance_plot.html">activity page</a></li>
-<li>2026-01-05 - <a href="strava/htmls/activity_16950749067_distance_plot.html">activity page</a></li>
-<li>2026-01-04 - <a href="strava/htmls/activity_16938653205_distance_plot.html">activity page</a></li>
-<li>2026-01-03 - <a href="strava/htmls/activity_16929354401_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-03-04 - <a href="strava/htmls/activity_17607918018_distance_plot.html">activity page</a> - <a href="vids/20260304_201837.mp4">video</a> (2:25) — 1st</li>
+<li class='activity-extra'>2026-03-02 - <a href="strava/htmls/activity_17582589118_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-25 - <a href="strava/htmls/activity_17525697027_distance_plot.html">activity page</a> - <a href="vids/20260225_223828.mp4">video</a> (0:29)</li>
+<li class='activity-extra'>2026-02-23 - <a href="strava/htmls/activity_17500017689_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-21 - <a href="strava/htmls/activity_17477385100_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-19 - <a href="strava/htmls/activity_17457193373_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-15 - <a href="strava/htmls/activity_17409513024_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-14 - <a href="strava/htmls/activity_17399042317_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-11 - <a href="strava/htmls/activity_17368349113_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-09 - <a href="strava/htmls/activity_17345904486_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-08 - <a href="strava/htmls/activity_17333003533_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-07 - <a href="strava/htmls/activity_17321235304_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-06 - <a href="strava/htmls/activity_17312010080_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-02 - <a href="strava/htmls/activity_17266151149_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-02-01 - <a href="strava/htmls/activity_17254982352_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-31 - <a href="strava/htmls/activity_17242078048_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-23 - <a href="strava/htmls/activity_17155993442_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-21 - <a href="strava/htmls/activity_17134685085_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-19 - <a href="strava/htmls/activity_17110667238_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-17 - <a href="strava/htmls/activity_17085176372_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-14 - <a href="strava/htmls/activity_17054096679_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-12 - <a href="strava/htmls/activity_17029725581_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-08 - <a href="strava/htmls/activity_16984843330_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-06 - <a href="strava/htmls/activity_16962847748_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-05 - <a href="strava/htmls/activity_16950749067_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-04 - <a href="strava/htmls/activity_16938653205_distance_plot.html">activity page</a></li>
+<li class='activity-extra'>2026-01-03 - <a href="strava/htmls/activity_16929354401_distance_plot.html">activity page</a></li>
         </ul>
+        <button class='view-more-button' type='button' data-target='zwiftActivityList' data-more='View 27 more activities' data-less='Show latest 30'>View 27 more activities</button>
       </section>
       <section class='section'>
         <h2>Outdoor Rides</h2>
@@ -169,7 +185,8 @@
 <a class="summary-link" href="strava/segments_map.html">Segments Map</a>
 <a class="summary-link" href="strava/segments_over_time.html">Segments Over Time</a>
         </div>
-        <ul>
+        <ul class='activity-list' id='outdoorActivityList'>
+<li>2026-05-10 - <a href="strava/htmls/activity_18458148417_distance_plot.html">activity page</a> - Afternoon Ride</li>
 <li>2026-05-02 - <a href="strava/htmls/activity_18351107061_distance_plot.html">activity page</a> - Afternoon Ride</li>
 <li>2026-04-23 - <a href="strava/htmls/activity_18233095683_distance_plot.html">activity page</a> - Evening Ride</li>
 <li>2026-04-18 - <a href="strava/htmls/activity_18162114402_distance_plot.html">activity page</a> - Morning Ride</li>
@@ -186,5 +203,15 @@
       </section>
     </div>
   </div>
+  <script>
+    document.querySelectorAll('.view-more-button').forEach((button) => {
+      button.addEventListener('click', () => {
+        const list = document.getElementById(button.dataset.target || '');
+        if (!list) return;
+        const expanded = list.classList.toggle('expanded');
+        button.textContent = expanded ? (button.dataset.less || 'Show latest 30') : (button.dataset.more || 'View more activities');
+      });
+    });
+  </script>
 </body>
 </html>
