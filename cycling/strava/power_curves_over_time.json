@@ -3472,5 +3472,23 @@
       278.99583333333334
     ],
     "source": "cache"
+  },
+  {
+    "activity_id": 18498042950,
+    "date": "2026-05-13",
+    "name": "Zwift - Race: Zwift Epic Race - ZG25 Queen (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2137467490840625168.fit",
+    "display_name": "2026-05-13 - Zwift - Race: Zwift Epic Race - ZG25 Queen (A)",
+    "curve": [
+      562.9333333333333,
+      493.96666666666664,
+      442.65,
+      402.0416666666667,
+      338.97,
+      294.07166666666666,
+      277.4633333333333
+    ],
+    "source": "cache"
   }
 ]
