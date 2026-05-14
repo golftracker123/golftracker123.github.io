@@ -22,7 +22,7 @@
       color: var(--text);
       background: radial-gradient(circle at top, #18233f 0%, var(--bg) 45%);
     }
-    .wrap { max-width: 1240px; margin: 0 auto; padding: 20px 16px 28px; }
+    .wrap { max-width: 1680px; margin: 0 auto; padding: 20px 16px 28px; }
     .hero {
       background: linear-gradient(160deg, var(--panel), var(--panel-2));
       border: 1px solid var(--border);
@@ -41,7 +41,7 @@
     }
     .top-grid {
       display: grid;
-      grid-template-columns: minmax(0, 1.35fr) minmax(360px, 0.85fr);
+      grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 14px;
       align-items: start;
     }
@@ -87,6 +87,7 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .muted { color: var(--muted); }
+    .activity-stats { color: var(--muted); font-size: 0.94em; }
     .activity-extra { display: none; }
     .activity-list.expanded .activity-extra { display: list-item; }
     .view-more-button {
@@ -118,64 +119,64 @@
 <a class="summary-link" href="strava/race_time_estimator.html">Race Time Estimator</a>
         </div>
         <ul class='activity-list' id='zwiftActivityList'>
-<li>2026-05-13 - <a href="strava/htmls/activity_18498042950_distance_plot.html">activity page</a></li>
-<li>2026-05-09 - <a href="strava/htmls/activity_18444341215_distance_plot.html">activity page</a></li>
-<li>2026-05-08 - <a href="strava/htmls/activity_18430480690_distance_plot.html">activity page</a> - <a href="vids/20260508_180853.mp4">video</a> (0:39)</li>
-<li>2026-05-07 - <a href="strava/htmls/activity_18420316954_distance_plot.html">activity page</a></li>
-<li>2026-05-01 - <a href="strava/htmls/activity_18340203598_distance_plot.html">activity page</a></li>
-<li>2026-04-30 - <a href="strava/htmls/activity_18324422144_distance_plot.html">activity page</a></li>
-<li>2026-04-28 - <a href="strava/htmls/activity_18300077562_distance_plot.html">activity page</a></li>
-<li>2026-04-24 - <a href="strava/htmls/activity_18245911625_distance_plot.html">activity page</a></li>
-<li>2026-04-21 - <a href="strava/htmls/activity_18205857049_distance_plot.html">activity page</a></li>
-<li>2026-04-20 - <a href="strava/htmls/activity_18191876989_distance_plot.html">activity page</a></li>
-<li>2026-04-19 - <a href="strava/htmls/activity_18177548881_distance_plot.html">activity page</a></li>
-<li>2026-04-16 - <a href="strava/htmls/activity_18139040989_distance_plot.html">activity page</a></li>
-<li>2026-04-14 - <a href="strava/htmls/activity_18112462335_distance_plot.html">activity page</a></li>
-<li>2026-04-13 - <a href="strava/htmls/activity_18097269008_distance_plot.html">activity page</a></li>
-<li>2026-04-10 - <a href="strava/htmls/activity_18060204085_distance_plot.html">activity page</a></li>
-<li>2026-04-09 - <a href="strava/htmls/activity_18046821328_distance_plot.html">activity page</a></li>
-<li>2026-04-02 - <a href="strava/htmls/activity_17957004342_distance_plot.html">activity page</a></li>
-<li>2026-04-01 - <a href="strava/htmls/activity_17943417099_distance_plot.html">activity page</a></li>
-<li>2026-03-30 - <a href="strava/htmls/activity_17918311199_distance_plot.html">activity page</a></li>
-<li>2026-03-29 - <a href="strava/htmls/activity_17905953791_distance_plot.html">activity page</a> - <a href="vids/20260329_185722.mp4">video</a> (0:35) — decent sprint</li>
-<li>2026-03-28 - <a href="strava/htmls/activity_17892931026_distance_plot.html">activity page</a> - <a href="vids/20260328_163530.mp4">video</a> (0:40) — with Jeff</li>
-<li>2026-03-23 - <a href="strava/htmls/activity_17834531886_distance_plot.html">activity page</a> - <a href="vids/20260323_201940.mp4">video</a> (0:30)</li>
-<li>2026-03-22 - <a href="strava/htmls/activity_17821221471_distance_plot.html">activity page</a></li>
-<li>2026-03-20 - <a href="strava/htmls/activity_17797073447_distance_plot.html">activity page</a></li>
-<li>2026-03-18 - <a href="strava/htmls/activity_17773672673_distance_plot.html">activity page</a></li>
-<li>2026-03-15 - <a href="strava/htmls/activity_17735464753_distance_plot.html">activity page</a> - <a href="vids/20260315_145153.mp4">video</a> (2:18) — with Jeff</li>
-<li>2026-03-14 - <a href="strava/htmls/activity_17723062477_distance_plot.html">activity page</a> - <a href="vids/20260314_145322.mp4">video</a> (1:20) — with Jeff</li>
-<li>2026-03-13 - <a href="strava/htmls/activity_17712530172_distance_plot.html">activity page</a></li>
-<li>2026-03-09 - <a href="strava/htmls/activity_17667130245_distance_plot.html">activity page</a> - <a href="vids/20260309_211349.mp4">video</a> (1:00)</li>
-<li>2026-03-07 - <a href="strava/htmls/activity_17642717977_distance_plot.html">activity page</a> - <a href="vids/20260307_211106.mp4">video</a> (1:00) — 189 HR</li>
-<li class='activity-extra'>2026-03-06 - <a href="strava/htmls/activity_17629964561_distance_plot.html">activity page</a> - <a href="vids/20260306_190718.mp4">video</a> (1:00)</li>
-<li class='activity-extra'>2026-03-04 - <a href="strava/htmls/activity_17607918018_distance_plot.html">activity page</a> - <a href="vids/20260304_201837.mp4">video</a> (2:25) — 1st</li>
-<li class='activity-extra'>2026-03-02 - <a href="strava/htmls/activity_17582589118_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-25 - <a href="strava/htmls/activity_17525697027_distance_plot.html">activity page</a> - <a href="vids/20260225_223828.mp4">video</a> (0:29)</li>
-<li class='activity-extra'>2026-02-23 - <a href="strava/htmls/activity_17500017689_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-21 - <a href="strava/htmls/activity_17477385100_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-19 - <a href="strava/htmls/activity_17457193373_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-15 - <a href="strava/htmls/activity_17409513024_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-14 - <a href="strava/htmls/activity_17399042317_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-11 - <a href="strava/htmls/activity_17368349113_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-09 - <a href="strava/htmls/activity_17345904486_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-08 - <a href="strava/htmls/activity_17333003533_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-07 - <a href="strava/htmls/activity_17321235304_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-06 - <a href="strava/htmls/activity_17312010080_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-02 - <a href="strava/htmls/activity_17266151149_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-02-01 - <a href="strava/htmls/activity_17254982352_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-31 - <a href="strava/htmls/activity_17242078048_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-23 - <a href="strava/htmls/activity_17155993442_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-21 - <a href="strava/htmls/activity_17134685085_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-19 - <a href="strava/htmls/activity_17110667238_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-17 - <a href="strava/htmls/activity_17085176372_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-14 - <a href="strava/htmls/activity_17054096679_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-12 - <a href="strava/htmls/activity_17029725581_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-08 - <a href="strava/htmls/activity_16984843330_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-06 - <a href="strava/htmls/activity_16962847748_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-05 - <a href="strava/htmls/activity_16950749067_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-04 - <a href="strava/htmls/activity_16938653205_distance_plot.html">activity page</a></li>
-<li class='activity-extra'>2026-01-03 - <a href="strava/htmls/activity_16929354401_distance_plot.html">activity page</a></li>
+<li>2026-05-13 - <a href="strava/htmls/activity_18498042950_distance_plot.html">activity page</a> <span class='activity-stats'>(45.8 km &middot; 907 m elev &middot; 1:29:36)</span></li>
+<li>2026-05-09 - <a href="strava/htmls/activity_18444341215_distance_plot.html">activity page</a> <span class='activity-stats'>(23.3 km &middot; 183 m elev &middot; 36:25)</span></li>
+<li>2026-05-08 - <a href="strava/htmls/activity_18430480690_distance_plot.html">activity page</a> <span class='activity-stats'>(24.6 km &middot; 185 m elev &middot; 34:58)</span> - <a href="vids/20260508_180853.mp4">video</a> (0:39)</li>
+<li>2026-05-07 - <a href="strava/htmls/activity_18420316954_distance_plot.html">activity page</a> <span class='activity-stats'>(24.5 km &middot; 185 m elev &middot; 37:35)</span></li>
+<li>2026-05-01 - <a href="strava/htmls/activity_18340203598_distance_plot.html">activity page</a> <span class='activity-stats'>(43.4 km &middot; 336 m elev &middot; 1:13:40)</span></li>
+<li>2026-04-30 - <a href="strava/htmls/activity_18324422144_distance_plot.html">activity page</a> <span class='activity-stats'>(27.5 km &middot; 239 m elev &middot; 43:24)</span></li>
+<li>2026-04-28 - <a href="strava/htmls/activity_18300077562_distance_plot.html">activity page</a> <span class='activity-stats'>(27.5 km &middot; 242 m elev &middot; 44:19)</span></li>
+<li>2026-04-24 - <a href="strava/htmls/activity_18245911625_distance_plot.html">activity page</a> <span class='activity-stats'>(82.4 km &middot; 662 m elev &middot; 2:24:56)</span></li>
+<li>2026-04-21 - <a href="strava/htmls/activity_18205857049_distance_plot.html">activity page</a> <span class='activity-stats'>(21.8 km &middot; 242 m elev &middot; 36:17)</span></li>
+<li>2026-04-20 - <a href="strava/htmls/activity_18191876989_distance_plot.html">activity page</a> <span class='activity-stats'>(21.4 km &middot; 240 m elev &middot; 35:58)</span></li>
+<li>2026-04-19 - <a href="strava/htmls/activity_18177548881_distance_plot.html">activity page</a> <span class='activity-stats'>(22.0 km &middot; 222 m elev &middot; 34:51)</span></li>
+<li>2026-04-16 - <a href="strava/htmls/activity_18139040989_distance_plot.html">activity page</a> <span class='activity-stats'>(36.3 km &middot; 303 m elev &middot; 53:48)</span></li>
+<li>2026-04-14 - <a href="strava/htmls/activity_18112462335_distance_plot.html">activity page</a> <span class='activity-stats'>(18.0 km &middot; 178 m elev &middot; 28:02)</span></li>
+<li>2026-04-13 - <a href="strava/htmls/activity_18097269008_distance_plot.html">activity page</a> <span class='activity-stats'>(18.0 km &middot; 178 m elev &middot; 28:18)</span></li>
+<li>2026-04-10 - <a href="strava/htmls/activity_18060204085_distance_plot.html">activity page</a> <span class='activity-stats'>(50.0 km &middot; 429 m elev &middot; 1:18:21)</span></li>
+<li>2026-04-09 - <a href="strava/htmls/activity_18046821328_distance_plot.html">activity page</a> <span class='activity-stats'>(22.8 km &middot; 177 m elev &middot; 39:23)</span></li>
+<li>2026-04-02 - <a href="strava/htmls/activity_17957004342_distance_plot.html">activity page</a> <span class='activity-stats'>(28.6 km &middot; 148 m elev &middot; 41:55)</span></li>
+<li>2026-04-01 - <a href="strava/htmls/activity_17943417099_distance_plot.html">activity page</a> <span class='activity-stats'>(51.2 km &middot; 396 m elev &middot; 1:17:35)</span></li>
+<li>2026-03-30 - <a href="strava/htmls/activity_17918311199_distance_plot.html">activity page</a> <span class='activity-stats'>(27.7 km &middot; 245 m elev &middot; 45:31)</span></li>
+<li>2026-03-29 - <a href="strava/htmls/activity_17905953791_distance_plot.html">activity page</a> <span class='activity-stats'>(31.3 km &middot; 168 m elev &middot; 48:56)</span> - <a href="vids/20260329_185722.mp4">video</a> (0:35) — decent sprint</li>
+<li>2026-03-28 - <a href="strava/htmls/activity_17892931026_distance_plot.html">activity page</a> <span class='activity-stats'>(44.4 km &middot; 213 m elev &middot; 1:03:17)</span> - <a href="vids/20260328_163530.mp4">video</a> (0:40) — with Jeff</li>
+<li>2026-03-23 - <a href="strava/htmls/activity_17834531886_distance_plot.html">activity page</a> <span class='activity-stats'>(38.7 km &middot; 305 m elev &middot; 55:43)</span> - <a href="vids/20260323_201940.mp4">video</a> (0:30)</li>
+<li>2026-03-22 - <a href="strava/htmls/activity_17821221471_distance_plot.html">activity page</a> <span class='activity-stats'>(31.1 km &middot; 150 m elev &middot; 42:04)</span></li>
+<li>2026-03-20 - <a href="strava/htmls/activity_17797073447_distance_plot.html">activity page</a> <span class='activity-stats'>(42.5 km &middot; 589 m elev &middot; 1:13:25)</span></li>
+<li>2026-03-18 - <a href="strava/htmls/activity_17773672673_distance_plot.html">activity page</a> <span class='activity-stats'>(42.4 km &middot; 589 m elev &middot; 1:14:17)</span></li>
+<li>2026-03-15 - <a href="strava/htmls/activity_17735464753_distance_plot.html">activity page</a> <span class='activity-stats'>(30.7 km &middot; 266 m elev &middot; 46:00)</span> - <a href="vids/20260315_145153.mp4">video</a> (2:18) — with Jeff</li>
+<li>2026-03-14 - <a href="strava/htmls/activity_17723062477_distance_plot.html">activity page</a> <span class='activity-stats'>(33.0 km &middot; 421 m elev &middot; 49:11)</span> - <a href="vids/20260314_145322.mp4">video</a> (1:20) — with Jeff</li>
+<li>2026-03-13 - <a href="strava/htmls/activity_17712530172_distance_plot.html">activity page</a> <span class='activity-stats'>(31.4 km &middot; 397 m elev &middot; 52:57)</span></li>
+<li>2026-03-09 - <a href="strava/htmls/activity_17667130245_distance_plot.html">activity page</a> <span class='activity-stats'>(31.4 km &middot; 400 m elev &middot; 52:18)</span> - <a href="vids/20260309_211349.mp4">video</a> (1:00)</li>
+<li>2026-03-07 - <a href="strava/htmls/activity_17642717977_distance_plot.html">activity page</a> <span class='activity-stats'>(26.6 km &middot; 300 m elev &middot; 43:35)</span> - <a href="vids/20260307_211106.mp4">video</a> (1:00) — 189 HR</li>
+<li class='activity-extra'>2026-03-06 - <a href="strava/htmls/activity_17629964561_distance_plot.html">activity page</a> <span class='activity-stats'>(26.5 km &middot; 299 m elev &middot; 41:31)</span> - <a href="vids/20260306_190718.mp4">video</a> (1:00)</li>
+<li class='activity-extra'>2026-03-04 - <a href="strava/htmls/activity_17607918018_distance_plot.html">activity page</a> <span class='activity-stats'>(26.6 km &middot; 299 m elev &middot; 41:33)</span> - <a href="vids/20260304_201837.mp4">video</a> (2:25) — 1st</li>
+<li class='activity-extra'>2026-03-02 - <a href="strava/htmls/activity_17582589118_distance_plot.html">activity page</a> <span class='activity-stats'>(26.3 km &middot; 297 m elev &middot; 42:35)</span></li>
+<li class='activity-extra'>2026-02-25 - <a href="strava/htmls/activity_17525697027_distance_plot.html">activity page</a> <span class='activity-stats'>(22.6 km &middot; 230 m elev &middot; 34:07)</span> - <a href="vids/20260225_223828.mp4">video</a> (0:29)</li>
+<li class='activity-extra'>2026-02-23 - <a href="strava/htmls/activity_17500017689_distance_plot.html">activity page</a> <span class='activity-stats'>(21.2 km &middot; 227 m elev &middot; 31:22)</span></li>
+<li class='activity-extra'>2026-02-21 - <a href="strava/htmls/activity_17477385100_distance_plot.html">activity page</a> <span class='activity-stats'>(19.5 km &middot; 168 m elev &middot; 33:55)</span></li>
+<li class='activity-extra'>2026-02-19 - <a href="strava/htmls/activity_17457193373_distance_plot.html">activity page</a> <span class='activity-stats'>(55.0 km &middot; 559 m elev &middot; 1:27:39)</span></li>
+<li class='activity-extra'>2026-02-15 - <a href="strava/htmls/activity_17409513024_distance_plot.html">activity page</a> <span class='activity-stats'>(21.4 km &middot; 176 m elev &middot; 31:31)</span></li>
+<li class='activity-extra'>2026-02-14 - <a href="strava/htmls/activity_17399042317_distance_plot.html">activity page</a> <span class='activity-stats'>(38.4 km &middot; 298 m elev &middot; 56:29)</span></li>
+<li class='activity-extra'>2026-02-11 - <a href="strava/htmls/activity_17368349113_distance_plot.html">activity page</a> <span class='activity-stats'>(38.6 km &middot; 305 m elev &middot; 56:52)</span></li>
+<li class='activity-extra'>2026-02-09 - <a href="strava/htmls/activity_17345904486_distance_plot.html">activity page</a> <span class='activity-stats'>(18.2 km &middot; 171 m elev &middot; 29:06)</span></li>
+<li class='activity-extra'>2026-02-08 - <a href="strava/htmls/activity_17333003533_distance_plot.html">activity page</a> <span class='activity-stats'>(63.9 km &middot; 479 m elev &middot; 1:35:03)</span></li>
+<li class='activity-extra'>2026-02-07 - <a href="strava/htmls/activity_17321235304_distance_plot.html">activity page</a> <span class='activity-stats'>(29.7 km &middot; 613 m elev &middot; 56:12)</span></li>
+<li class='activity-extra'>2026-02-06 - <a href="strava/htmls/activity_17312010080_distance_plot.html">activity page</a> <span class='activity-stats'>(20.4 km &middot; 168 m elev &middot; 32:26)</span></li>
+<li class='activity-extra'>2026-02-02 - <a href="strava/htmls/activity_17266151149_distance_plot.html">activity page</a> <span class='activity-stats'>(19.0 km &middot; 158 m elev &middot; 29:47)</span></li>
+<li class='activity-extra'>2026-02-01 - <a href="strava/htmls/activity_17254982352_distance_plot.html">activity page</a> <span class='activity-stats'>(42.8 km &middot; 581 m elev &middot; 1:12:31)</span></li>
+<li class='activity-extra'>2026-01-31 - <a href="strava/htmls/activity_17242078048_distance_plot.html">activity page</a> <span class='activity-stats'>(22.6 km &middot; 272 m elev &middot; 37:34)</span></li>
+<li class='activity-extra'>2026-01-23 - <a href="strava/htmls/activity_17155993442_distance_plot.html">activity page</a> <span class='activity-stats'>(31.3 km &middot; 574 m elev &middot; 55:18)</span></li>
+<li class='activity-extra'>2026-01-21 - <a href="strava/htmls/activity_17134685085_distance_plot.html">activity page</a> <span class='activity-stats'>(19.7 km &middot; 215 m elev &middot; 31:10)</span></li>
+<li class='activity-extra'>2026-01-19 - <a href="strava/htmls/activity_17110667238_distance_plot.html">activity page</a> <span class='activity-stats'>(24.1 km &middot; 269 m elev &middot; 36:13)</span></li>
+<li class='activity-extra'>2026-01-17 - <a href="strava/htmls/activity_17085176372_distance_plot.html">activity page</a> <span class='activity-stats'>(80.8 km &middot; 858 m elev &middot; 2:09:33)</span></li>
+<li class='activity-extra'>2026-01-14 - <a href="strava/htmls/activity_17054096679_distance_plot.html">activity page</a> <span class='activity-stats'>(55.8 km &middot; 364 m elev &middot; 1:23:15)</span></li>
+<li class='activity-extra'>2026-01-12 - <a href="strava/htmls/activity_17029725581_distance_plot.html">activity page</a> <span class='activity-stats'>(20.4 km &middot; 250 m elev &middot; 32:38)</span></li>
+<li class='activity-extra'>2026-01-08 - <a href="strava/htmls/activity_16984843330_distance_plot.html">activity page</a> <span class='activity-stats'>(25.8 km &middot; 201 m elev &middot; 39:12)</span></li>
+<li class='activity-extra'>2026-01-06 - <a href="strava/htmls/activity_16962847748_distance_plot.html">activity page</a> <span class='activity-stats'>(54.6 km &middot; 558 m elev &middot; 1:25:23)</span></li>
+<li class='activity-extra'>2026-01-05 - <a href="strava/htmls/activity_16950749067_distance_plot.html">activity page</a> <span class='activity-stats'>(26.0 km &middot; 203 m elev &middot; 40:19)</span></li>
+<li class='activity-extra'>2026-01-04 - <a href="strava/htmls/activity_16938653205_distance_plot.html">activity page</a> <span class='activity-stats'>(34.4 km &middot; 324 m elev &middot; 53:32)</span></li>
+<li class='activity-extra'>2026-01-03 - <a href="strava/htmls/activity_16929354401_distance_plot.html">activity page</a> <span class='activity-stats'>(26.6 km &middot; 263 m elev &middot; 41:06)</span></li>
         </ul>
         <button class='view-more-button' type='button' data-target='zwiftActivityList' data-more='View 28 more activities' data-less='Show latest 30'>View 28 more activities</button>
       </section>
@@ -187,19 +188,19 @@
 <a class="summary-link" href="strava/segments_over_time.html">Segments Over Time</a>
         </div>
         <ul class='activity-list' id='outdoorActivityList'>
-<li>2026-05-10 - <a href="strava/htmls/activity_18458148417_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2026-05-02 - <a href="strava/htmls/activity_18351107061_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2026-04-23 - <a href="strava/htmls/activity_18233095683_distance_plot.html">activity page</a> - Evening Ride</li>
-<li>2026-04-18 - <a href="strava/htmls/activity_18162114402_distance_plot.html">activity page</a> - Morning Ride</li>
-<li>2026-04-11 - <a href="strava/htmls/activity_18071298729_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2025-09-14 - <a href="strava/htmls/activity_15814877985_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2025-09-01 - <a href="strava/htmls/activity_15663768022_distance_plot.html">activity page</a> - Morning Ride</li>
-<li>2025-08-24 - <a href="strava/htmls/activity_15576195080_distance_plot.html">activity page</a> - Evening Ride</li>
-<li>2025-07-19 - <a href="strava/htmls/activity_15168650043_distance_plot.html">activity page</a> - Morning Ride</li>
-<li>2025-07-13 - <a href="strava/htmls/activity_15103739274_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2025-07-06 - <a href="strava/htmls/activity_15029469287_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2025-07-05 - <a href="strava/htmls/activity_15018692049_distance_plot.html">activity page</a> - Afternoon Ride</li>
-<li>2025-06-01 - <a href="strava/htmls/activity_14663555075_distance_plot.html">activity page</a> - Bike for Brain Health 2025</li>
+<li>2026-05-10 - <a href="strava/htmls/activity_18458148417_distance_plot.html">activity page</a> <span class='activity-stats'>(35.6 km &middot; 204 m elev &middot; 1:41:31)</span> - Afternoon Ride</li>
+<li>2026-05-02 - <a href="strava/htmls/activity_18351107061_distance_plot.html">activity page</a> <span class='activity-stats'>(33.8 km &middot; 254 m elev &middot; 1:38:08)</span> - Afternoon Ride</li>
+<li>2026-04-23 - <a href="strava/htmls/activity_18233095683_distance_plot.html">activity page</a> <span class='activity-stats'>(19.3 km &middot; 118 m elev &middot; 59:56)</span> - Evening Ride</li>
+<li>2026-04-18 - <a href="strava/htmls/activity_18162114402_distance_plot.html">activity page</a> <span class='activity-stats'>(42.2 km &middot; 365 m elev &middot; 2:07:56)</span> - Morning Ride</li>
+<li>2026-04-11 - <a href="strava/htmls/activity_18071298729_distance_plot.html">activity page</a> <span class='activity-stats'>(31.6 km &middot; 308 m elev &middot; 1:36:03)</span> - Afternoon Ride</li>
+<li>2025-09-14 - <a href="strava/htmls/activity_15814877985_distance_plot.html">activity page</a> <span class='activity-stats'>(30.6 km &middot; 52 m elev &middot; 1:34:22)</span> - Afternoon Ride</li>
+<li>2025-09-01 - <a href="strava/htmls/activity_15663768022_distance_plot.html">activity page</a> <span class='activity-stats'>(49.2 km &middot; 481 m elev &middot; 2:33:55)</span> - Morning Ride</li>
+<li>2025-08-24 - <a href="strava/htmls/activity_15576195080_distance_plot.html">activity page</a> <span class='activity-stats'>(26.8 km &middot; 27 m elev &middot; 1:09:15)</span> - Evening Ride</li>
+<li>2025-07-19 - <a href="strava/htmls/activity_15168650043_distance_plot.html">activity page</a> <span class='activity-stats'>(42.0 km &middot; 465 m elev &middot; 2:08:14)</span> - Morning Ride</li>
+<li>2025-07-13 - <a href="strava/htmls/activity_15103739274_distance_plot.html">activity page</a> <span class='activity-stats'>(31.1 km &middot; 541 m elev &middot; 1:54:54)</span> - Afternoon Ride</li>
+<li>2025-07-06 - <a href="strava/htmls/activity_15029469287_distance_plot.html">activity page</a> <span class='activity-stats'>(71.0 km &middot; 327 m elev &middot; 3:13:26)</span> - Afternoon Ride</li>
+<li>2025-07-05 - <a href="strava/htmls/activity_15018692049_distance_plot.html">activity page</a> <span class='activity-stats'>(33.6 km &middot; 465 m elev &middot; 1:46:21)</span> - Afternoon Ride</li>
+<li>2025-06-01 - <a href="strava/htmls/activity_14663555075_distance_plot.html">activity page</a> <span class='activity-stats'>(100.2 km &middot; 755 m elev &middot; 3:49:00)</span> - Bike for Brain Health 2025</li>
         </ul>
       </section>
     </div>
