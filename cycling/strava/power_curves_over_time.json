@@ -2166,25 +2166,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 16441980919,
-    "date": "2025-11-12",
-    "name": "Zwift - Watts of the Wild in Watopia",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2005632989039427600.fit",
-    "display_name": "2025-11-12 - Zwift - Watts of the Wild in Watopia",
-    "curve": [
-      301.3333333333333,
-      275.5,
-      223.43333333333334,
-      215.225,
-      205.37666666666667,
-      194.62166666666667,
-      170.88833333333332
-    ],
-    "moving_time": 5391.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 16451049212,
     "date": "2025-11-13",
     "name": "Zwift - Race: KRG Thursday Night Crit  (B) on Downtown Dolphin in Crit City",
@@ -2508,25 +2489,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 16778365565,
-    "date": "2025-12-18",
-    "name": "Zwift - Group Ride: Off The MAAP 2025: Stage 1 on Keith Hill After Party in London",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2031450530278015008.fit",
-    "display_name": "2025-12-18 - Zwift - Group Ride: Off The MAAP 2025: Stage 1 on Keith Hill After Party in London",
-    "curve": [
-      592.7333333333333,
-      467.26666666666665,
-      375.8333333333333,
-      356.6,
-      329.29333333333335,
-      286.3383333333333,
-      278.67083333333335
-    ],
-    "moving_time": 3785.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 16789301167,
     "date": "2025-12-19",
     "name": "Zwift - Race: Zwift Epic Race - The Muckle Yin (B) on The Muckle Yin in Scotland",
@@ -2641,25 +2603,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 16962847748,
-    "date": "2026-01-06",
-    "name": "Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2045405261694238752.fit",
-    "display_name": "2026-01-06 - Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
-    "curve": [
-      468.73333333333335,
-      431.96666666666664,
-      394.8833333333333,
-      373.925,
-      318.98,
-      288.29333333333335,
-      282.61333333333334
-    ],
-    "moving_time": 5123.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 16984843330,
     "date": "2026-01-08",
     "name": "Zwift - Race:  Stage 1 - Race - Tour de Zwift on Turf N Surf in Makuri Islands",
@@ -2695,25 +2638,6 @@
       265.7991666666667
     ],
     "moving_time": 1958.0,
-    "source": "cache"
-  },
-  {
-    "activity_id": 17054096679,
-    "date": "2026-01-14",
-    "name": "Zwift - Group Ride: Long - Stage 2 - Tour de Zwift on Knights of the Roundabout in France",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2051266331319222272.fit",
-    "display_name": "2026-01-14 - Zwift - Group Ride: Long - Stage 2 - Tour de Zwift on Knights of the Roundabout in France",
-    "curve": [
-      863.2666666666667,
-      694.7666666666667,
-      556.6,
-      399.15833333333336,
-      349.5366666666667,
-      274.4533333333333,
-      263.97
-    ],
-    "moving_time": 4995.0,
     "source": "cache"
   },
   {
@@ -2774,25 +2698,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 17155993442,
-    "date": "2026-01-23",
-    "name": "Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2057816661817327632.fit",
-    "display_name": "2026-01-23 - Zwift - Group Ride: Standard - Stage 3 - Tour de Zwift on Yorkshire Double Loop in Yorkshire",
-    "curve": [
-      532.2,
-      483.7,
-      439.1166666666667,
-      377.01666666666665,
-      340.60333333333335,
-      299.5083333333333,
-      279.02
-    ],
-    "moving_time": 3318.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 17242078048,
     "date": "2026-01-31",
     "name": "Zwift - Race:  Stage 4 - Race - Tour de Zwift (A) on London 8 in London",
@@ -2809,25 +2714,6 @@
       279.5808333333333
     ],
     "moving_time": 2254.0,
-    "source": "cache"
-  },
-  {
-    "activity_id": 17254982352,
-    "date": "2026-02-01",
-    "name": "Zwift - Group Ride: Long - Stage 4 - Tour de Zwift on Triple Loops in London",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2064188473862012944.fit",
-    "display_name": "2026-02-01 - Zwift - Group Ride: Long - Stage 4 - Tour de Zwift on Triple Loops in London",
-    "curve": [
-      788.0666666666667,
-      586.5,
-      420.7,
-      359.2583333333333,
-      325.41333333333336,
-      308.245,
-      278.7575
-    ],
-    "moving_time": 4351.0,
     "source": "cache"
   },
   {
@@ -2869,25 +2755,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 17321235304,
-    "date": "2026-02-07",
-    "name": "Zwift - Group Ride: Standard - Stage 5 - Tour de Zwift on Glyph Heights in Watopia",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2068486117476302880.fit",
-    "display_name": "2026-02-07 - Zwift - Group Ride: Standard - Stage 5 - Tour de Zwift on Glyph Heights in Watopia",
-    "curve": [
-      521.8,
-      418.8333333333333,
-      385.43333333333334,
-      366.46666666666664,
-      316.4766666666667,
-      299.21166666666664,
-      290.3833333333333
-    ],
-    "moving_time": 3372.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 17333003533,
     "date": "2026-02-08",
     "name": "Zwift - Race: Zwift Epic Race - Petit Boucle (B) on Petit Boucle in France",
@@ -2926,44 +2793,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 17368349113,
-    "date": "2026-02-11",
-    "name": "Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2071498709887123456.fit",
-    "display_name": "2026-02-11 - Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
-    "curve": [
-      568.4666666666667,
-      517.2,
-      438.7,
-      415.35,
-      326.25333333333333,
-      311.005,
-      281.9741666666667
-    ],
-    "moving_time": 3412.0,
-    "source": "cache"
-  },
-  {
-    "activity_id": 17399042317,
-    "date": "2026-02-14",
-    "name": "Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2073583866035060768.fit",
-    "display_name": "2026-02-14 - Zwift - Group Ride: Long - Stage 6 - Tour de Zwift on The Greenway in New York",
-    "curve": [
-      813.9333333333333,
-      575.7333333333333,
-      418.3833333333333,
-      382.1666666666667,
-      327.21,
-      292.53833333333336,
-      275.64666666666665
-    ],
-    "moving_time": 3389.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 17409513024,
     "date": "2026-02-15",
     "name": "Zwift - Race: Zwift Crit Racing Club - The Bell Lap (B) on The Bell Lap in Crit City",
@@ -2980,25 +2809,6 @@
       275.62083333333334
     ],
     "moving_time": 1891.0,
-    "source": "cache"
-  },
-  {
-    "activity_id": 17457193373,
-    "date": "2026-02-19",
-    "name": "Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2077386323567575088.fit",
-    "display_name": "2026-02-19 - Zwift - Group Ride: Long - Stage 1 - Tour de Zwift on Shisa Shakedown in Makuri Islands",
-    "curve": [
-      619.0,
-      446.1666666666667,
-      401.1166666666667,
-      360.53333333333336,
-      340.35333333333335,
-      286.84,
-      280.6225
-    ],
-    "moving_time": 5259.0,
     "source": "cache"
   },
   {
@@ -3382,25 +3192,6 @@
     "source": "cache"
   },
   {
-    "activity_id": 18046821328,
-    "date": "2026-04-09",
-    "name": "Zwift - Group Ride: Stage 4 - The Zwift Big Spin",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2112769041474027552.fit",
-    "display_name": "2026-04-09 - Zwift - Group Ride: Stage 4 - The Zwift Big Spin",
-    "curve": [
-      816.8666666666667,
-      625.7,
-      438.6166666666667,
-      349.48333333333335,
-      307.45666666666665,
-      288.185,
-      271.465
-    ],
-    "moving_time": 2363.0,
-    "source": "cache"
-  },
-  {
     "activity_id": 18060204085,
     "date": "2026-04-10",
     "name": "Zwift - Race: No Rulez Racing presented by RiZZRL: Race #4 - The Loch Loop Throwdown",
@@ -3474,25 +3265,6 @@
       265.3275
     ],
     "moving_time": 3228.0,
-    "source": "cache"
-  },
-  {
-    "activity_id": 18177548881,
-    "date": "2026-04-19",
-    "name": "Zwift - Group Ride: Stage 2 - The Zwift Big Spin",
-    "device_name": "Zwift",
-    "external_id": "zwift-activity-2119984106602266624.fit",
-    "display_name": "2026-04-19 - Zwift - Group Ride: Stage 2 - The Zwift Big Spin",
-    "curve": [
-      613.2666666666667,
-      526.8333333333334,
-      401.15,
-      398.34166666666664,
-      357.12,
-      306.0566666666667,
-      291.5225
-    ],
-    "moving_time": 2091.0,
     "source": "cache"
   },
   {
