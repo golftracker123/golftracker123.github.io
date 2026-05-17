@@ -4,7 +4,7 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-05-10T19:21:46",
+      "updated_at": "2026-05-16T20:06:26",
       "rows": [
         {
           "rank": "1",
@@ -260,7 +260,7 @@
       "name": "Redway (Official)",
       "url": "https://www.strava.com/segments/17322995",
       "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
-      "updated_at": "2026-05-10T19:22:27",
+      "updated_at": "2026-05-16T20:06:30",
       "rows": [
         {
           "rank": "1",
@@ -452,6 +452,18 @@
             "cached_at": "2026-05-10T19:22:27"
           },
           {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:05",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
             "rank": "4",
             "name": "Chris Cremer",
             "date": "Saturday, October 17, 2020",
@@ -499,6 +511,78 @@
             "speed": "-",
             "power": "-",
             "heart_rate": "165 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "12",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:49",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "10",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:53",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:54",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:55",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:56",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "11",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:57",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
             "cached_at": "2026-05-10T19:22:27"
           },
           {
@@ -594,7 +678,7 @@
       "name": "Thorncliffe Park Drive climb",
       "url": "https://www.strava.com/segments/7394805",
       "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
-      "updated_at": "2026-05-10T19:22:57",
+      "updated_at": "2026-05-16T20:06:34",
       "rows": [
         {
           "rank": "1",
@@ -1568,7 +1652,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-05-10T19:23:07",
+      "updated_at": "2026-05-16T20:06:39",
       "rows": [
         {
           "rank": "1",
@@ -1619,6 +1703,16 @@
           "power": "-",
           "heart_rate": "173 bpm",
           "cached_at": "2026-04-24T17:14:56"
+        },
+        {
+          "rank": "6",
+          "name": "Madeleine H",
+          "date": "Wednesday, June 9, 2021",
+          "time": "2:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-16T20:06:39"
         },
         {
           "rank": "6",
@@ -1778,6 +1872,18 @@
             "cached_at": "2026-04-24T17:14:56"
           }
         ],
+        "madeleine h": [
+          {
+            "rank": "6",
+            "name": "Madeleine H",
+            "date": "Wednesday, June 9, 2021",
+            "time": "2:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-16T20:06:39"
+          }
+        ],
         "simon grant": [
           {
             "rank": "4",
@@ -1796,7 +1902,7 @@
       "name": "Crestwood Hill - post parking lot climb only",
       "url": "https://www.strava.com/segments/1150663",
       "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
-      "updated_at": "2026-05-10T18:57:26",
+      "updated_at": "2026-05-16T20:06:21",
       "rows": [
         {
           "rank": "1",
@@ -1920,6 +2026,102 @@
             "power": "-",
             "heart_rate": "-",
             "cached_at": "2026-04-24T17:15:04"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "1:46",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "8",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "1:48",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "2:02",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "1:38",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "1:45",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "2:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "2:13",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 2, 2026",
+            "time": "1:29",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18351107061",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:26"
           }
         ],
         "david platt": [
@@ -1988,7 +2190,7 @@
       "name": "Bridal Path Crazy 8",
       "url": "https://www.strava.com/segments/7313636",
       "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
-      "updated_at": "2026-05-10T18:56:56",
+      "updated_at": "2026-05-16T20:06:08",
       "rows": [
         {
           "rank": "1",
@@ -2070,7 +2272,7 @@
       "name": "Spit to Gravel South",
       "url": "https://www.strava.com/segments/8010711",
       "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
-      "updated_at": "2026-05-10T18:57:01",
+      "updated_at": "2026-05-16T20:06:12",
       "rows": [
         {
           "rank": "1",
@@ -2180,6 +2382,30 @@
             "power": "-",
             "heart_rate": "-",
             "cached_at": "2026-04-24T17:15:21"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Sunday, August 24, 2025",
+            "time": "10:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15576195080",
+            "source_activity_name": "Evening Ride",
+            "cached_at": "2026-05-10T18:57:01"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Sunday, September 14, 2025",
+            "time": "12:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15814877985",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:01"
           }
         ],
         "heidi m": [
@@ -2284,7 +2510,7 @@
       "name": "Bayview Avenue: Pottery Road to Nesbitt Drive",
       "url": "https://www.strava.com/segments/15637575",
       "compare_url": "https://www.strava.com/segments/15637575/compare/MzQ4MDY0NDQ3NzU4ODYxMzE0MiwyODI1MTQ0OTQwNjM1NDU0Njk0",
-      "updated_at": "2026-05-10T18:57:05",
+      "updated_at": "2026-05-16T20:06:17",
       "rows": [
         {
           "rank": "1",
@@ -2466,6 +2692,66 @@
             "power": "-",
             "heart_rate": "181 bpm",
             "cached_at": "2026-04-24T17:15:25"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "7:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2026",
+            "time": "2:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18071298729",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "2:37",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18162114402",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 2, 2026",
+            "time": "2:22",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18351107061",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "2:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
           }
         ],
         "david platt": [
