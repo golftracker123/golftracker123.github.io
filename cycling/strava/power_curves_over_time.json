@@ -3841,5 +3841,47 @@
     "normalized_power": 295.0722604469583,
     "tss": 46.91978317706625,
     "source": "cache"
+  },
+  {
+    "activity_id": 18575781965,
+    "date": "2026-05-19",
+    "name": "Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2141837212990341136.fit",
+    "display_name": "2026-05-19 - Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "curve": [
+      669.4666666666667,
+      575.1,
+      486.26666666666665,
+      378.03333333333336,
+      313.12666666666667,
+      296.28833333333336,
+      274.785
+    ],
+    "moving_time": 1753.0,
+    "normalized_power": 303.28681644136304,
+    "tss": 49.76728749276891,
+    "source": "cache"
+  },
+  {
+    "activity_id": 18587246794,
+    "date": "2026-05-20",
+    "name": "Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2142441223611252752.fit",
+    "display_name": "2026-05-20 - Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "curve": [
+      684.5333333333333,
+      551.5,
+      451.5,
+      378.375,
+      328.9,
+      300.45166666666665,
+      287.47333333333336
+    ],
+    "moving_time": 1724.0,
+    "normalized_power": 306.03055118970735,
+    "tss": 49.83354932184715,
+    "source": "cache"
   }
 ]
