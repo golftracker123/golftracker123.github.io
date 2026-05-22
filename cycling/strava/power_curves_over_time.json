@@ -3883,5 +3883,26 @@
     "normalized_power": 306.03055118970735,
     "tss": 49.83354932184715,
     "source": "cache"
+  },
+  {
+    "activity_id": 18602751495,
+    "date": "2026-05-21",
+    "name": "Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2143265374919999520.fit",
+    "display_name": "2026-05-21 - Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "curve": [
+      489.8666666666667,
+      478.53333333333336,
+      445.53333333333336,
+      426.475,
+      356.49333333333334,
+      303.035,
+      281.7441666666667
+    ],
+    "moving_time": 5421.0,
+    "normalized_power": 278.2627588201015,
+    "tss": 129.55213374420035,
+    "source": "cache"
   }
 ]
