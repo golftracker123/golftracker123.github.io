@@ -2916,7 +2916,7 @@
       "name": "IG2017 Criterium Lap",
       "url": "https://www.strava.com/segments/16091644",
       "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
-      "updated_at": "2026-05-25T02:02:02",
+      "updated_at": "2026-05-25T02:13:10",
       "rows": [
         {
           "rank": "1",
@@ -3256,7 +3256,10 @@
       "average_grade_pct": 0.0,
       "elevation_low_m": 98.0,
       "elevation_high_m": 106.0,
-      "elevation_difference_m": 8.0
+      "elevation_difference_m": 8.0,
+      "map_polyline": "{oliGbn_dNmFMQ?a@FOLUj@AfAVn@jAn@~AxAjApAjAdB|@hBLP\\ZTHn@BpASrCi@rBY|CWvA]h@QpA]lA_@b@Ud@y@Rk@Nq@FoBQoAm@{@{@m@_AEaE|@U@sAAiFPmAKwASa@C]BmDK",
+      "start_latlng": "[43.650704,-79.464811]",
+      "end_latlng": "[43.650808,-79.464792]"
     }
   }
 }
