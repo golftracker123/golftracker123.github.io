@@ -2916,7 +2916,7 @@
       "name": "IG2017 Criterium Lap",
       "url": "https://www.strava.com/segments/16091644",
       "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
-      "updated_at": "2026-05-25T02:13:10",
+      "updated_at": "2026-05-25T18:04:20",
       "rows": [
         {
           "rank": "1",
@@ -2940,22 +2940,22 @@
         },
         {
           "rank": "3",
+          "name": "Chris Cremer",
+          "date": "Monday, May 25, 2026",
+          "time": "3:00",
+          "speed": "-",
+          "power": "315 W",
+          "heart_rate": "172 bpm",
+          "cached_at": "2026-05-25T18:04:20"
+        },
+        {
+          "rank": "3",
           "name": "Jeff is a Banana",
           "date": "Saturday, June 27, 2020",
           "time": "3:00",
           "speed": "-",
           "power": "-",
           "heart_rate": "-",
-          "cached_at": "2026-05-25T01:57:11"
-        },
-        {
-          "rank": "4",
-          "name": "Chris Cremer",
-          "date": "Sunday, August 9, 2020",
-          "time": "3:07",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "182 bpm",
           "cached_at": "2026-05-25T01:57:11"
         },
         {
@@ -3092,6 +3092,16 @@
             "power": "-",
             "heart_rate": "182 bpm",
             "cached_at": "2026-05-25T01:57:11"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:00",
+            "speed": "-",
+            "power": "315 W",
+            "heart_rate": "172 bpm",
+            "cached_at": "2026-05-25T18:04:20"
           }
         ],
         "daivik doshi": [
