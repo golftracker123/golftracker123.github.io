@@ -2911,6 +2911,352 @@
           }
         ]
       }
+    },
+    "https://www.strava.com/segments/16091644": {
+      "name": "IG2017 Criterium Lap",
+      "url": "https://www.strava.com/segments/16091644",
+      "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
+      "updated_at": "2026-05-25T02:02:02",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Matt Chen",
+          "date": "Wednesday, August 14, 2024",
+          "time": "2:50",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "181 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "2",
+          "name": "koulie athens-hunsberger",
+          "date": "Wednesday, October 10, 2018",
+          "time": "2:53",
+          "speed": "-",
+          "power": "251 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "3",
+          "name": "Jeff is a Banana",
+          "date": "Saturday, June 27, 2020",
+          "time": "3:00",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "4",
+          "name": "Chris Cremer",
+          "date": "Sunday, August 9, 2020",
+          "time": "3:07",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "182 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "5",
+          "name": "David Platt",
+          "date": "Sunday, August 9, 2020",
+          "time": "3:12",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "6",
+          "name": "Arwin Chan",
+          "date": "Wednesday, May 19, 2021",
+          "time": "3:18",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "7",
+          "name": "Max Nie",
+          "date": "Thursday, August 10, 2023",
+          "time": "3:19",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "8",
+          "name": "Lynn Nguyen",
+          "date": "Thursday, June 22, 2023",
+          "time": "3:20",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "9",
+          "name": "Dustin Zhang",
+          "date": "Sunday, June 21, 2020",
+          "time": "3:28",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "10",
+          "name": "Selva Yoga",
+          "date": "Friday, October 15, 2021",
+          "time": "3:36",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "110 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "11",
+          "name": "Kate Gay",
+          "date": "Thursday, May 20, 2021",
+          "time": "3:40",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "171 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "12",
+          "name": "Sola *",
+          "date": "Wednesday, June 21, 2023",
+          "time": "3:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "155 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "13",
+          "name": "Simon Grant",
+          "date": "Tuesday, July 13, 2021",
+          "time": "3:53",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "14",
+          "name": "Daivik Doshi",
+          "date": "Friday, April 3, 2026",
+          "time": "4:03",
+          "speed": "-",
+          "power": "142 W",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "15",
+          "name": "Lauren Deel",
+          "date": "Saturday, May 7, 2022",
+          "time": "5:00",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "145 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        }
+      ],
+      "time_history": {
+        "arwin chan": [
+          {
+            "rank": "6",
+            "name": "Arwin Chan",
+            "date": "Wednesday, May 19, 2021",
+            "time": "3:18",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "chris cremer": [
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Sunday, August 9, 2020",
+            "time": "3:07",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "182 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "daivik doshi": [
+          {
+            "rank": "14",
+            "name": "Daivik Doshi",
+            "date": "Friday, April 3, 2026",
+            "time": "4:03",
+            "speed": "-",
+            "power": "142 W",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "5",
+            "name": "David Platt",
+            "date": "Sunday, August 9, 2020",
+            "time": "3:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "dustin zhang": [
+          {
+            "rank": "9",
+            "name": "Dustin Zhang",
+            "date": "Sunday, June 21, 2020",
+            "time": "3:28",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "3",
+            "name": "Jeff is a Banana",
+            "date": "Saturday, June 27, 2020",
+            "time": "3:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "kate gay": [
+          {
+            "rank": "11",
+            "name": "Kate Gay",
+            "date": "Thursday, May 20, 2021",
+            "time": "3:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "171 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "koulie athens-hunsberger": [
+          {
+            "rank": "2",
+            "name": "koulie athens-hunsberger",
+            "date": "Wednesday, October 10, 2018",
+            "time": "2:53",
+            "speed": "-",
+            "power": "251 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "15",
+            "name": "Lauren Deel",
+            "date": "Saturday, May 7, 2022",
+            "time": "5:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "145 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "lynn nguyen": [
+          {
+            "rank": "8",
+            "name": "Lynn Nguyen",
+            "date": "Thursday, June 22, 2023",
+            "time": "3:20",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "matt chen": [
+          {
+            "rank": "1",
+            "name": "Matt Chen",
+            "date": "Wednesday, August 14, 2024",
+            "time": "2:50",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "181 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "max nie": [
+          {
+            "rank": "7",
+            "name": "Max Nie",
+            "date": "Thursday, August 10, 2023",
+            "time": "3:19",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "10",
+            "name": "Selva Yoga",
+            "date": "Friday, October 15, 2021",
+            "time": "3:36",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "110 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "13",
+            "name": "Simon Grant",
+            "date": "Tuesday, July 13, 2021",
+            "time": "3:53",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "sola *": [
+          {
+            "rank": "12",
+            "name": "Sola *",
+            "date": "Wednesday, June 21, 2023",
+            "time": "3:43",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "155 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ]
+      },
+      "distance_m": 1850.0,
+      "elevation_gain_m": 6.0,
+      "average_grade_pct": 0.0,
+      "elevation_low_m": 98.0,
+      "elevation_high_m": 106.0,
+      "elevation_difference_m": 8.0
     }
   }
 }

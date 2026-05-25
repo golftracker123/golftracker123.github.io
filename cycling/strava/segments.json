@@ -78,6 +78,15 @@
         "Jeff is a Banana",
         "Chris Cremer"
       ]
+    },
+    {
+      "name": "IG2017 Criterium Lap",
+      "url": "https://www.strava.com/segments/16091644",
+      "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
+      "athletes": [
+        "Jeff is a Banana",
+        "Chris Cremer"
+      ]
     }
   ]
 }

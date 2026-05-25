@@ -226,8 +226,8 @@
       259.52
     ],
     "moving_time": 3511.0,
-    "normalized_power": 241.31449654137026,
-    "tss": 63.10338314574187,
+    "normalized_power": 241.31449654137023,
+    "tss": 63.10338314574185,
     "source": "cache"
   },
   {
@@ -310,8 +310,8 @@
       247.99666666666667
     ],
     "moving_time": 1815.0,
-    "normalized_power": 266.04493769900597,
-    "tss": 39.64985636068252,
+    "normalized_power": 266.0449376990059,
+    "tss": 39.6498563606825,
     "source": "cache"
   },
   {
@@ -604,8 +604,8 @@
       236.12666666666667
     ],
     "moving_time": 2752.0,
-    "normalized_power": 243.1103859789037,
-    "tss": 50.2007776818745,
+    "normalized_power": 243.11038597890368,
+    "tss": 50.200777681874484,
     "source": "cache"
   },
   {
@@ -898,8 +898,8 @@
       247.41083333333333
     ],
     "moving_time": 2518.0,
-    "normalized_power": 238.31027813597285,
-    "tss": 44.136334524409335,
+    "normalized_power": 238.31027813597282,
+    "tss": 44.13633452440933,
     "source": "cache"
   },
   {
@@ -1045,8 +1045,8 @@
       232.78166666666667
     ],
     "moving_time": 1743.0,
-    "normalized_power": 282.33884194776624,
-    "tss": 42.88383684413679,
+    "normalized_power": 282.3388419477662,
+    "tss": 42.883836844136766,
     "source": "cache"
   },
   {
@@ -1192,8 +1192,8 @@
       241.665
     ],
     "moving_time": 2338.0,
-    "normalized_power": 255.87151231405971,
-    "tss": 47.2436418650805,
+    "normalized_power": 255.8715123140597,
+    "tss": 47.24364186508049,
     "source": "cache"
   },
   {
@@ -1822,8 +1822,8 @@
       242.95666666666668
     ],
     "moving_time": 2092.0,
-    "normalized_power": 279.73944842233175,
-    "tss": 50.52706809740582,
+    "normalized_power": 279.7394484223317,
+    "tss": 50.52706809740578,
     "source": "cache"
   },
   {
@@ -2053,8 +2053,8 @@
       241.7675
     ],
     "moving_time": 5153.0,
-    "normalized_power": 247.248855643088,
-    "tss": 97.22628968100487,
+    "normalized_power": 247.24885564308798,
+    "tss": 97.22628968100486,
     "source": "cache"
   },
   {
@@ -2074,8 +2074,8 @@
       252.63916666666665
     ],
     "moving_time": 2741.0,
-    "normalized_power": 260.967154422125,
-    "tss": 57.61502112301352,
+    "normalized_power": 260.96715442212496,
+    "tss": 57.61502112301349,
     "source": "cache"
   },
   {
@@ -2305,8 +2305,8 @@
       238.22916666666666
     ],
     "moving_time": 1927.0,
-    "normalized_power": 272.72161826483796,
-    "tss": 44.23599852467518,
+    "normalized_power": 272.7216182648379,
+    "tss": 44.23599852467516,
     "source": "cache"
   },
   {
@@ -2494,8 +2494,8 @@
       258.3233333333333
     ],
     "moving_time": 1988.0,
-    "normalized_power": 269.2429797595525,
-    "tss": 44.479525590681455,
+    "normalized_power": 269.24297975955255,
+    "tss": 44.47952559068148,
     "source": "cache"
   },
   {
@@ -2725,8 +2725,8 @@
       276.1958333333333
     ],
     "moving_time": 2051.0,
-    "normalized_power": 278.8482665279547,
-    "tss": 49.22169309701186,
+    "normalized_power": 278.84826652795465,
+    "tss": 49.22169309701185,
     "source": "cache"
   },
   {
@@ -3019,7 +3019,7 @@
       258.895
     ],
     "moving_time": 1787.0,
-    "normalized_power": 318.5069757524727,
+    "normalized_power": 318.5069757524728,
     "tss": 55.95223502115323,
     "source": "cache"
   },
@@ -3670,8 +3670,8 @@
       280.9316666666667
     ],
     "moving_time": 8696.0,
-    "normalized_power": 255.8960718152186,
-    "tss": 175.75260032861607,
+    "normalized_power": 255.89607181521856,
+    "tss": 175.75260032861598,
     "source": "cache"
   },
   {
@@ -3796,8 +3796,8 @@
       278.99583333333334
     ],
     "moving_time": 2185.0,
-    "normalized_power": 305.34170523153756,
-    "tss": 62.87509936538317,
+    "normalized_power": 305.3417052315375,
+    "tss": 62.875099365383136,
     "source": "cache"
   },
   {
@@ -3840,6 +3840,90 @@
     "moving_time": 1746.0,
     "normalized_power": 295.0722604469583,
     "tss": 46.91978317706625,
+    "source": "cache"
+  },
+  {
+    "activity_id": 18575781965,
+    "date": "2026-05-19",
+    "name": "Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2141837212990341136.fit",
+    "display_name": "2026-05-19 - Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "curve": [
+      669.4666666666667,
+      575.1,
+      486.26666666666665,
+      378.03333333333336,
+      313.12666666666667,
+      296.28833333333336,
+      274.785
+    ],
+    "moving_time": 1753.0,
+    "normalized_power": 303.286816441363,
+    "tss": 49.76728749276889,
+    "source": "cache"
+  },
+  {
+    "activity_id": 18587246794,
+    "date": "2026-05-20",
+    "name": "Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2142441223611252752.fit",
+    "display_name": "2026-05-20 - Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+    "curve": [
+      684.5333333333333,
+      551.5,
+      451.5,
+      378.375,
+      328.9,
+      300.45166666666665,
+      287.47333333333336
+    ],
+    "moving_time": 1724.0,
+    "normalized_power": 306.03055118970735,
+    "tss": 49.83354932184715,
+    "source": "cache"
+  },
+  {
+    "activity_id": 18602751495,
+    "date": "2026-05-21",
+    "name": "Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2143265374919999520.fit",
+    "display_name": "2026-05-21 - Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "curve": [
+      489.8666666666667,
+      478.53333333333336,
+      445.53333333333336,
+      426.475,
+      356.49333333333334,
+      303.035,
+      281.7441666666667
+    ],
+    "moving_time": 5421.0,
+    "normalized_power": 278.2627588201015,
+    "tss": 129.55213374420035,
+    "source": "cache"
+  },
+  {
+    "activity_id": 18628315151,
+    "date": "2026-05-23",
+    "name": "Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2144715049501982768.fit",
+    "display_name": "2026-05-23 - Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)",
+    "curve": [
+      604.1333333333333,
+      514.8,
+      471.25,
+      394.675,
+      336.0733333333333,
+      287.2316666666667,
+      281.1425
+    ],
+    "moving_time": 5351.0,
+    "normalized_power": 279.8574689037038,
+    "tss": 129.34919929760946,
     "source": "cache"
   }
 ]
