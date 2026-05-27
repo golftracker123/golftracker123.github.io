@@ -1652,7 +1652,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-05-16T20:06:39",
+      "updated_at": "2026-05-27T08:24:04",
       "rows": [
         {
           "rank": "1",
@@ -1666,6 +1666,16 @@
         },
         {
           "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Wednesday, May 27, 2026",
+          "time": "1:09",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-27T08:24:04"
+        },
+        {
+          "rank": "2",
           "name": "Chris Cremer",
           "date": "Sunday, May 10, 2026",
           "time": "1:11",
@@ -1673,16 +1683,6 @@
           "power": "490 W",
           "heart_rate": "176 bpm",
           "cached_at": "2026-05-10T18:57:21"
-        },
-        {
-          "rank": "2",
-          "name": "Jeff is a Banana",
-          "date": "Friday, July 3, 2020",
-          "time": "1:20",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "161 bpm",
-          "cached_at": "2026-04-24T17:14:56"
         },
         {
           "rank": "4",
@@ -1858,6 +1858,16 @@
             "power": "-",
             "heart_rate": "161 bpm",
             "cached_at": "2026-04-24T17:14:56"
+          },
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Wednesday, May 27, 2026",
+            "time": "1:09",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-27T08:24:04"
           }
         ],
         "lauren deel": [
