@@ -3925,5 +3925,26 @@
     "normalized_power": 279.8574689037038,
     "tss": 129.34919929760946,
     "source": "cache"
+  },
+  {
+    "activity_id": 18668765453,
+    "date": "2026-05-26",
+    "name": "Zwift - Race: 2026 SISU Pinkki - Stage 6 (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2146888052738359296.fit",
+    "display_name": "2026-05-26 - Zwift - Race: 2026 SISU Pinkki - Stage 6 (A)",
+    "curve": [
+      567.9333333333333,
+      502.8333333333333,
+      419.8666666666667,
+      362.5083333333333,
+      331.56333333333333,
+      305.93333333333334,
+      291.28583333333336
+    ],
+    "moving_time": 3786.0,
+    "normalized_power": 297.95323947811556,
+    "tss": 103.73655531422699,
+    "source": "cache"
   }
 ]
