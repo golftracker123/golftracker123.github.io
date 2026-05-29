@@ -4,8 +4,18 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-05-16T20:06:26",
+      "updated_at": "2026-05-29T16:13:11",
       "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Friday, May 29, 2026",
+          "time": "1:12",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-29T16:13:11"
+        },
         {
           "rank": "1",
           "name": "Chris Cremer",
@@ -14,16 +24,6 @@
           "speed": "-",
           "power": "-",
           "heart_rate": "174 bpm",
-          "cached_at": "2026-04-24T17:14:31"
-        },
-        {
-          "rank": "2",
-          "name": "Jeff is a Banana",
-          "date": "Friday, July 27, 2018",
-          "time": "1:21",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "-",
           "cached_at": "2026-04-24T17:14:31"
         },
         {
@@ -48,22 +48,22 @@
         },
         {
           "rank": "5",
+          "name": "Nicole Fan",
+          "date": "Monday, May 18, 2026",
+          "time": "3:40",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "161 bpm",
+          "cached_at": "2026-05-29T16:13:11"
+        },
+        {
+          "rank": "5",
           "name": "Heidi M",
           "date": "Sunday, June 5, 2022",
           "time": "3:47",
           "speed": "-",
           "power": "-",
           "heart_rate": "-",
-          "cached_at": "2026-04-24T17:14:31"
-        },
-        {
-          "rank": "6",
-          "name": "Nicole Fan",
-          "date": "Saturday, April 11, 2026",
-          "time": "6:21",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "141 bpm",
           "cached_at": "2026-04-24T17:14:31"
         }
       ],
@@ -216,6 +216,16 @@
             "power": "-",
             "heart_rate": "-",
             "cached_at": "2026-04-24T17:14:31"
+          },
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Friday, May 29, 2026",
+            "time": "1:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-29T16:13:11"
           }
         ],
         "max nie": [
@@ -240,6 +250,16 @@
             "power": "-",
             "heart_rate": "141 bpm",
             "cached_at": "2026-04-24T17:14:31"
+          },
+          {
+            "rank": "5",
+            "name": "Nicole Fan",
+            "date": "Monday, May 18, 2026",
+            "time": "3:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-05-29T16:13:11"
           }
         ],
         "selva yoga": [
@@ -260,7 +280,7 @@
       "name": "Redway (Official)",
       "url": "https://www.strava.com/segments/17322995",
       "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
-      "updated_at": "2026-05-16T20:06:30",
+      "updated_at": "2026-05-29T16:13:21",
       "rows": [
         {
           "rank": "1",
@@ -678,7 +698,7 @@
       "name": "Thorncliffe Park Drive climb",
       "url": "https://www.strava.com/segments/7394805",
       "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
-      "updated_at": "2026-05-16T20:06:34",
+      "updated_at": "2026-05-29T16:13:31",
       "rows": [
         {
           "rank": "1",
@@ -932,22 +952,22 @@
         },
         {
           "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Friday, May 29, 2026",
+          "time": "48s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-29T16:13:31"
+        },
+        {
+          "rank": "1",
           "name": "Chris Cremer",
           "date": "Saturday, April 18, 2026",
           "time": "49s",
           "speed": "-",
           "power": "502 W",
           "heart_rate": "179 bpm",
-          "cached_at": "2026-04-24T17:14:48"
-        },
-        {
-          "rank": "2",
-          "name": "Jeff is a Banana",
-          "date": "Sunday, May 28, 2023",
-          "time": "53s",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "162 bpm",
           "cached_at": "2026-04-24T17:14:48"
         },
         {
@@ -1428,6 +1448,16 @@
             "power": "-",
             "heart_rate": "162 bpm",
             "cached_at": "2026-04-24T17:14:48"
+          },
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Friday, May 29, 2026",
+            "time": "48s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-29T16:13:31"
           }
         ],
         "jeremy hatt": [
@@ -1652,7 +1682,7 @@
       "name": "Sunnybrook to hospital",
       "url": "https://www.strava.com/segments/740423",
       "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
-      "updated_at": "2026-05-27T08:24:04",
+      "updated_at": "2026-05-29T16:13:50",
       "rows": [
         {
           "rank": "1",
@@ -1912,7 +1942,7 @@
       "name": "Crestwood Hill - post parking lot climb only",
       "url": "https://www.strava.com/segments/1150663",
       "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
-      "updated_at": "2026-05-16T20:06:21",
+      "updated_at": "2026-05-29T16:13:01",
       "rows": [
         {
           "rank": "1",
@@ -2200,7 +2230,7 @@
       "name": "Bridal Path Crazy 8",
       "url": "https://www.strava.com/segments/7313636",
       "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
-      "updated_at": "2026-05-16T20:06:08",
+      "updated_at": "2026-05-29T16:12:32",
       "rows": [
         {
           "rank": "1",
@@ -2282,7 +2312,7 @@
       "name": "Spit to Gravel South",
       "url": "https://www.strava.com/segments/8010711",
       "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
-      "updated_at": "2026-05-16T20:06:12",
+      "updated_at": "2026-05-29T16:12:42",
       "rows": [
         {
           "rank": "1",
@@ -2416,6 +2446,18 @@
             "source_activity_id": "15814877985",
             "source_activity_name": "Afternoon Ride",
             "cached_at": "2026-05-10T18:57:01"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "28:34",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-16T20:06:12"
           }
         ],
         "heidi m": [
@@ -2520,7 +2562,7 @@
       "name": "Bayview Avenue: Pottery Road to Nesbitt Drive",
       "url": "https://www.strava.com/segments/15637575",
       "compare_url": "https://www.strava.com/segments/15637575/compare/MzQ4MDY0NDQ3NzU4ODYxMzE0MiwyODI1MTQ0OTQwNjM1NDU0Njk0",
-      "updated_at": "2026-05-16T20:06:17",
+      "updated_at": "2026-05-29T16:12:51",
       "rows": [
         {
           "rank": "1",
@@ -2926,7 +2968,7 @@
       "name": "IG2017 Criterium Lap",
       "url": "https://www.strava.com/segments/16091644",
       "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
-      "updated_at": "2026-05-25T18:04:20",
+      "updated_at": "2026-05-29T16:13:40",
       "rows": [
         {
           "rank": "1",
@@ -3111,6 +3153,42 @@
             "speed": "-",
             "power": "315 W",
             "heart_rate": "172 bpm",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:05",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:14",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "9:27",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
             "cached_at": "2026-05-25T18:04:20"
           }
         ],
