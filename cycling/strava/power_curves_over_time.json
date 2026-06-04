@@ -3967,5 +3967,26 @@
     "normalized_power": 304.1772608768721,
     "tss": 57.42758454799183,
     "source": "cache"
+  },
+  {
+    "activity_id": 18778116812,
+    "date": "2026-06-03",
+    "name": "Zwift - Race: Stage 1: Level Up Racing: Sprinter's Playground",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2152739531902713856.fit",
+    "display_name": "2026-06-03 - Zwift - Race: Stage 1: Level Up Racing: Sprinter's Playground",
+    "curve": [
+      833.4666666666667,
+      633.5333333333333,
+      441.5,
+      368.1166666666667,
+      318.66333333333336,
+      303.67833333333334,
+      290.96416666666664
+    ],
+    "moving_time": 2292.0,
+    "normalized_power": 305.0060217473457,
+    "tss": 65.8091725952192,
+    "source": "cache"
   }
 ]
