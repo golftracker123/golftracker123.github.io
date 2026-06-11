@@ -4009,5 +4009,26 @@
     "normalized_power": 282.61637063698794,
     "tss": 61.900810037818076,
     "source": "cache"
+  },
+  {
+    "activity_id": 18873038333,
+    "date": "2026-06-10",
+    "name": "Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits | Advanced (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2157844644325523456.fit",
+    "display_name": "2026-06-10 - Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits | Advanced (A)",
+    "curve": [
+      689.0666666666667,
+      541.2333333333333,
+      442.43333333333334,
+      366.46666666666664,
+      310.85,
+      289.36333333333334,
+      275.44
+    ],
+    "moving_time": 2109.0,
+    "normalized_power": 307.08003022866,
+    "tss": 61.38110732459261,
+    "source": "cache"
   }
 ]
