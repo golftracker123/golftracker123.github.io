@@ -2312,7 +2312,7 @@
       "name": "Spit to Gravel South",
       "url": "https://www.strava.com/segments/8010711",
       "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
-      "updated_at": "2026-05-29T16:12:42",
+      "updated_at": "2026-06-13T19:44:06",
       "rows": [
         {
           "rank": "1",
@@ -2323,6 +2323,16 @@
           "power": "-",
           "heart_rate": "159 bpm",
           "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Saturday, June 13, 2026",
+          "time": "8:38",
+          "speed": "-",
+          "power": "311 W",
+          "heart_rate": "171 bpm",
+          "cached_at": "2026-06-13T19:44:06"
         },
         {
           "rank": "2",
@@ -2342,16 +2352,6 @@
           "speed": "-",
           "power": "-",
           "heart_rate": "173 bpm",
-          "cached_at": "2026-04-24T17:15:21"
-        },
-        {
-          "rank": "4",
-          "name": "Chris Cremer",
-          "date": "Sunday, August 4, 2024",
-          "time": "9:35",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "-",
           "cached_at": "2026-04-24T17:15:21"
         },
         {
@@ -2458,6 +2458,16 @@
             "source_activity_id": "18653957690",
             "source_activity_name": "Afternoon Ride",
             "cached_at": "2026-05-16T20:06:12"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, June 13, 2026",
+            "time": "8:38",
+            "speed": "-",
+            "power": "311 W",
+            "heart_rate": "171 bpm",
+            "cached_at": "2026-06-13T19:44:06"
           }
         ],
         "heidi m": [
