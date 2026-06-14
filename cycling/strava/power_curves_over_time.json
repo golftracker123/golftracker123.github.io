@@ -4051,5 +4051,26 @@
     "normalized_power": 308.7466894930367,
     "tss": 60.66640638232704,
     "source": "cache"
+  },
+  {
+    "activity_id": 18922074622,
+    "date": "2026-06-14",
+    "name": "Zwift - Race: Zwift Epic Race - Three Sisters Reverse (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2160509108371882000.fit",
+    "display_name": "2026-06-14 - Zwift - Race: Zwift Epic Race - Three Sisters Reverse (A)",
+    "curve": [
+      590.4666666666667,
+      496.0,
+      415.2,
+      368.65833333333336,
+      317.53333333333336,
+      304.035,
+      280.3233333333333
+    ],
+    "moving_time": 5245.0,
+    "normalized_power": 275.00927014408927,
+    "tss": 122.43205787002888,
+    "source": "cache"
   }
 ]
