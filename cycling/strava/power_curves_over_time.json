@@ -4072,5 +4072,26 @@
     "normalized_power": 275.00927014408927,
     "tss": 122.43205787002888,
     "source": "cache"
+  },
+  {
+    "activity_id": 18935551643,
+    "date": "2026-06-15",
+    "name": "Zwift - Race: Stage 3: Level Up Racing: Hilly Route Reverse (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2161345268543406080.fit",
+    "display_name": "2026-06-15 - Zwift - Race: Stage 3: Level Up Racing: Hilly Route Reverse (A)",
+    "curve": [
+      754.0666666666667,
+      600.7333333333333,
+      412.35,
+      368.15,
+      323.1066666666667,
+      308.035,
+      282.0516666666667
+    ],
+    "moving_time": 1782.0,
+    "normalized_power": 307.2971456943987,
+    "tss": 51.937344663558484,
+    "source": "cache"
   }
 ]
