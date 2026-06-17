@@ -4093,5 +4093,26 @@
     "normalized_power": 307.2971456943987,
     "tss": 51.937344663558484,
     "source": "cache"
+  },
+  {
+    "activity_id": 18951908548,
+    "date": "2026-06-16",
+    "name": "Zwift - Race: Zwift Epic Race - Tire Bouchon (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2162112058819117056.fit",
+    "display_name": "2026-06-16 - Zwift - Race: Zwift Epic Race - Tire Bouchon (A)",
+    "curve": [
+      513.5333333333333,
+      432.96666666666664,
+      407.45,
+      381.8666666666667,
+      322.12,
+      288.855,
+      257.7683333333333
+    ],
+    "moving_time": 7015.0,
+    "normalized_power": 250.66953842947711,
+    "tss": 136.04600331406678,
+    "source": "cache"
   }
 ]
