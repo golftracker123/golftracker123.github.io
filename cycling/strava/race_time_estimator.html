@@ -321,6 +321,10 @@
           Elevation, m
           <input id="elevationM" type="number" min="0" step="10" value="1676" inputmode="decimal" />
         </label>
+        <label>
+          Mix scoops per bottle
+          <input id="mixScoopsPerBottle" type="number" min="0" step="0.5" value="3" inputmode="decimal" />
+        </label>
         <div class="result"><span class="result-label">Predicted time</span><span id="result">-</span></div>
         <div class="fuel-needed-title">Fuel Needed</div>
         <div class="plan-grid">
@@ -374,7 +378,7 @@
             <div class="calc-section-title">Carbs Plan</div>
             <div class="ledger">
               <div class="ledger-row">
-                <span class="ledger-label">Bottle mix, 2 scoops per bottle</span>
+                <span class="ledger-label" id="bottleCarbsLabel">Bottle mix, 3 scoops per bottle</span>
                 <span class="ledger-value" id="bottleCarbsResult">-</span>
               </div>
               <div class="ledger-row">
@@ -398,10 +402,10 @@
         <div class="mix-list">
           <div><strong>Info</strong></div>
           <div><strong>Assumptions:</strong> carbs at 75 g/hour, water at 750 ml/hour for a high sweat rate, sodium target at 500 mg/hour, carrying up to two 750 ml bottles before using the water pack.</div>
-          <div><strong>The mix:</strong> 1 scoop Gatorade, 1 scoop sugar, 1 scoop maltodextrin, 1 SaltStick capsule, pinch of salt, blended. Use 2 scoops of mix per 750 ml bottle.</div>
-          <div><strong>Per bottle:</strong> about 35 g carbs and about 315 mg sodium.</div>
-          <div><strong>Bottle sodium math:</strong> each bottle gets 2/3 of the blended batch. Sodium per batch is about 106 mg from Gatorade + 215 mg from SaltStick + 150 mg from a light pinch of salt = 471 mg, so each bottle gets about 315 mg sodium.</div>
-          <div><strong>Salt math:</strong> salt rows are shown as table-salt equivalent. 315 mg sodium is about 0.8 g salt, so 2 bottles is about 1.6 g salt equivalent from the bottle mix.</div>
+          <div><strong>The mix:</strong> 1 scoop Gatorade, 1 scoop sugar, 1 scoop maltodextrin, 1 SaltStick capsule, pinch of salt, blended. Default is 3 scoops of mix per 750 ml bottle.</div>
+          <div><strong>Per bottle:</strong> <span id="perBottleInfo">about 53 g carbs and about 471 mg sodium</span>.</div>
+          <div><strong>Bottle sodium math:</strong> sodium scales with scoops per bottle. The full 3-scoop batch has about 106 mg from Gatorade + 215 mg from SaltStick + 150 mg from a light pinch of salt = 471 mg sodium.</div>
+          <div><strong>Salt math:</strong> salt rows are shown as table-salt equivalent. Sodium is converted to salt with about 2.54 g salt per 1 g sodium.</div>
           <div><strong>Gatorade powder:</strong> 27 g carbs per 29 g powder, 170 mg sodium per 29 g powder. One 18 g scoop is about 16.8 g carbs and 106 mg sodium.</div>
           <div><strong>Sugar:</strong> 1 scoop = 18 g carbs. <strong>Maltodextrin:</strong> 1 scoop = 18 g carbs.</div>
           <div><strong>SaltStick:</strong> 1 capsule = 215 mg sodium. Add a capsule hourly on hot days or heavy sweat days.</div>
@@ -446,6 +450,7 @@
     const elevationCoef = 0.032031629289;
     const distanceInput = document.getElementById("distanceKm");
     const elevationInput = document.getElementById("elevationM");
+    const mixScoopsInput = document.getElementById("mixScoopsPerBottle");
     const result = document.getElementById("result");
     const inclineResult = document.getElementById("inclineResult");
     const carbsResult = document.getElementById("carbsResult");
@@ -459,6 +464,8 @@
     const bottleSodiumResult = document.getElementById("bottleSodiumResult");
     const saltResult = document.getElementById("saltResult");
     const totalSodiumResult = document.getElementById("totalSodiumResult");
+    const perBottleInfo = document.getElementById("perBottleInfo");
+    const bottleCarbsLabel = document.getElementById("bottleCarbsLabel");
     const bottleCarbsResult = document.getElementById("bottleCarbsResult");
     const haribosBagLabel = document.getElementById("haribosBagLabel");
     const haribosResult = document.getElementById("haribosResult");
@@ -477,12 +484,9 @@
     const mixCarbsPerGram = (gatoradeCarbsPerGram + sugarCarbsPerGram + maltodextrinCarbsPerGram) / 3;
     const powderGramsPerScoop = 18;
     const mixBatchScoops = 3;
-    const bottleMixScoops = 2;
-    const bottleMixFraction = bottleMixScoops / mixBatchScoops;
     const gatoradeSodiumMgPerScoop = powderGramsPerScoop * gatoradeSodiumMgPerGram;
     const pinchSaltSodiumMg = 150;
-    const sodiumMgPerBottle = bottleMixFraction * (gatoradeSodiumMgPerScoop + sodiumMgPerSaltStick + pinchSaltSodiumMg);
-    const carbsPerBottle = powderGramsPerScoop * bottleMixScoops * mixCarbsPerGram;
+    const sodiumMgPerMixBatch = gatoradeSodiumMgPerScoop + sodiumMgPerSaltStick + pinchSaltSodiumMg;
     const hariboCarbsPerPiece = 1.8;
     const hariboCarbsPerBag = 116;
     const haribosPerBag = 64;
@@ -502,6 +506,7 @@
     function updateEstimate() {
       const distanceKm = Number(distanceInput.value);
       const elevationM = Number(elevationInput.value);
+      const mixScoopsPerBottle = Number(mixScoopsInput.value);
       const minutes = (distanceCoef * distanceKm) + (elevationCoef * elevationM);
       result.textContent = formatDuration(minutes);
       if (Number.isFinite(distanceKm) && distanceKm > 0 && Number.isFinite(elevationM) && elevationM >= 0) {
@@ -518,6 +523,11 @@
         const targetWaterMl = Math.round(hours * waterMlPerHour);
         const targetSodiumMg = Math.round(hours * sodiumMgPerHour);
         const targetSaltGrams = hours * sodiumMgPerHour * saltGramsPerSodiumMg;
+        const bottleMixScoops = Number.isFinite(mixScoopsPerBottle) && mixScoopsPerBottle > 0 ? mixScoopsPerBottle : 0;
+        const bottleMixFraction = bottleMixScoops / mixBatchScoops;
+        const sodiumMgPerBottle = bottleMixFraction * sodiumMgPerMixBatch;
+        const carbsPerBottle = powderGramsPerScoop * bottleMixScoops * mixCarbsPerGram;
+        perBottleInfo.textContent = `about ${Math.round(carbsPerBottle)} g carbs and about ${Math.round(sodiumMgPerBottle)} mg sodium`;
         const bottles = Math.min(maxBottles, Math.ceil(targetWaterMl / bottleMl));
         const bottleWaterMl = bottles * bottleMl;
         const waterPackMl = Math.max(0, targetWaterMl - bottleWaterMl);
@@ -544,6 +554,7 @@
         bottleSodiumResult.textContent = `${bottleSaltGrams.toFixed(1)} g`;
         saltResult.textContent = `${extraSaltStickCapsules} capsule${extraSaltStickCapsules === 1 ? "" : "s"}`;
         totalSodiumResult.textContent = `${totalSaltGrams.toFixed(1)} g`;
+        bottleCarbsLabel.textContent = `Bottle mix, ${bottleMixScoops.toFixed(1).replace(/\.0$/, "")} scoop${bottleMixScoops === 1 ? "" : "s"} per bottle`;
         bottleCarbsResult.textContent = `${Math.round(bottleCarbs)} g`;
         haribosBagLabel.textContent = hariboPieces === 0
           ? ""
@@ -564,6 +575,8 @@
         bottleSodiumResult.textContent = "-";
         saltResult.textContent = "-";
         totalSodiumResult.textContent = "-";
+        perBottleInfo.textContent = "about 53 g carbs and about 471 mg sodium";
+        bottleCarbsLabel.textContent = "Bottle mix, 3 scoops per bottle";
         bottleCarbsResult.textContent = "-";
         haribosBagLabel.textContent = "";
         haribosResult.textContent = "-";
@@ -573,6 +586,7 @@
 
     distanceInput.addEventListener("input", updateEstimate);
     elevationInput.addEventListener("input", updateEstimate);
+    mixScoopsInput.addEventListener("input", updateEstimate);
     updateEstimate();
   </script>
 </body>
