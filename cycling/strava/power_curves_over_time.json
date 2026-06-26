@@ -4114,5 +4114,26 @@
     "normalized_power": 250.66953842947711,
     "tss": 136.04600331406678,
     "source": "cache"
+  },
+  {
+    "activity_id": 19068395067,
+    "date": "2026-06-25",
+    "name": "Zwift - Race: Stage 4: Level Up Racing: Issendorf Express (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2168655838913249328.fit",
+    "display_name": "2026-06-25 - Zwift - Race: Stage 4: Level Up Racing: Issendorf Express (A)",
+    "curve": [
+      541.0666666666667,
+      497.06666666666666,
+      450.15,
+      371.0416666666667,
+      317.30333333333334,
+      267.785,
+      255.01583333333335
+    ],
+    "moving_time": 2021.0,
+    "normalized_power": 280.4729239938869,
+    "tss": 49.068545824175516,
+    "source": "cache"
   }
 ]
