@@ -4135,5 +4135,26 @@
     "normalized_power": 280.4729239938869,
     "tss": 49.068545824175516,
     "source": "cache"
+  },
+  {
+    "activity_id": 19132188708,
+    "date": "2026-06-30",
+    "name": "Zwift - Race: SISU World Cup - Game 4 (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2172349380017782800.fit",
+    "display_name": "2026-06-30 - Zwift - Race: SISU World Cup - Game 4 (A)",
+    "curve": [
+      702.4,
+      514.9666666666667,
+      423.1166666666667,
+      397.01666666666665,
+      306.0933333333333,
+      274.28833333333336,
+      245.50333333333333
+    ],
+    "moving_time": 2725.0,
+    "normalized_power": 277.55766116039257,
+    "tss": 64.79297703936862,
+    "source": "cache"
   }
 ]
