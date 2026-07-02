@@ -4156,5 +4156,26 @@
     "normalized_power": 277.55766116039257,
     "tss": 64.79297703936862,
     "source": "cache"
+  },
+  {
+    "activity_id": 19144958225,
+    "date": "2026-07-01",
+    "name": "Zwift - Race: Stage 5: Level Up Racing: Queen's Highway After Party (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2173034047700205584.fit",
+    "display_name": "2026-07-01 - Zwift - Race: Stage 5: Level Up Racing: Queen's Highway After Party (A)",
+    "curve": [
+      540.1333333333333,
+      441.9,
+      400.71666666666664,
+      369.2,
+      305.68666666666667,
+      281.66333333333336,
+      267.9683333333333
+    ],
+    "moving_time": 1997.0,
+    "normalized_power": 279.88264590386655,
+    "tss": 48.28197162650119,
+    "source": "cache"
   }
 ]
