@@ -4177,5 +4177,26 @@
     "normalized_power": 279.88264590386655,
     "tss": 48.28197162650119,
     "source": "cache"
+  },
+  {
+    "activity_id": 19155504967,
+    "date": "2026-07-02",
+    "name": "Zwift - Race: Rhino Racing Short Crits (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2173603484983623696.fit",
+    "display_name": "2026-07-02 - Zwift - Race: Rhino Racing Short Crits (A)",
+    "curve": [
+      697.9333333333333,
+      592.3,
+      429.73333333333335,
+      329.8666666666667,
+      301.92,
+      287.7733333333333,
+      272.385
+    ],
+    "moving_time": 1704.0,
+    "normalized_power": 285.38282212831564,
+    "tss": 42.83317197615149,
+    "source": "cache"
   }
 ]
