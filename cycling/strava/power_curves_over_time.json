@@ -4198,5 +4198,26 @@
     "normalized_power": 285.38282212831564,
     "tss": 42.83317197615149,
     "source": "cache"
+  },
+  {
+    "activity_id": 19182918881,
+    "date": "2026-07-04",
+    "name": "Zwift - Race: Herd Summer Racing League",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2175173854538792976.fit",
+    "display_name": "2026-07-04 - Zwift - Race: Herd Summer Racing League",
+    "curve": [
+      622.4,
+      498.53333333333336,
+      415.1166666666667,
+      378.89166666666665,
+      336.4,
+      267.87333333333333,
+      245.10833333333332
+    ],
+    "moving_time": 3183.0,
+    "normalized_power": 264.1608358515593,
+    "tss": 68.55331942301844,
+    "source": "cache"
   }
 ]
